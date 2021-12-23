@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: 473e43922f4c8854588f2fb2d3783cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8832167503239892954
+    second: pngwing.com_0
+  - first:
+      213: -4853055123583119345
+    second: pngwing.com_1
+  - first:
+      213: -8761483511772326392
+    second: pngwing.com_2
+  - first:
+      213: -2217898423111697461
+    second: pngwing.com_3
+  - first:
+      213: -9017237249179667717
+    second: pngwing.com_4
+  - first:
+      213: -8148006739367046648
+    second: pngwing.com_5
+  - first:
+      213: -8857251832463710051
+    second: pngwing.com_6
+  - first:
+      213: 6494218633340668182
+    second: pngwing.com_7
+  - first:
+      213: -1166568221208786990
+    second: pngwing.com_8
+  - first:
+      213: 2203682779147241771
+    second: pngwing.com_9
+  - first:
+      213: 1601607523953437113
+    second: pngwing.com_10
+  - first:
+      213: -3904339871707083991
+    second: pngwing.com_11
+  - first:
+      213: 6769296415379653404
+    second: pngwing.com_12
+  - first:
+      213: 1350794326467996276
+    second: pngwing.com_13
+  - first:
+      213: 7268735396180752259
+    second: pngwing.com_14
+  - first:
+      213: 856210291696287465
+    second: pngwing.com_15
+  - first:
+      213: 5585558840886206792
+    second: pngwing.com_16
+  - first:
+      213: 7623301405226226319
+    second: pngwing.com_17
+  - first:
+      213: 1943824870319576334
+    second: pngwing.com_18
+  - first:
+      213: 2938201689779734227
+    second: pngwing.com_19
+  - first:
+      213: -5794280630382045305
+    second: pngwing.com_20
+  - first:
+      213: -3172869925008137835
+    second: pngwing.com_21
+  - first:
+      213: -5396054939552091396
+    second: pngwing.com_22
+  - first:
+      213: 4172441249443656624
+    second: pngwing.com_23
+  - first:
+      213: -7596010084555355991
+    second: pngwing.com_24
+  - first:
+      213: 3925026289321942597
+    second: pngwing.com_25
+  - first:
+      213: 875946876819185120
+    second: pngwing.com_26
+  - first:
+      213: -7517256858135843231
+    second: pngwing.com_27
+  - first:
+      213: 7894500020784764785
+    second: pngwing.com_28
+  - first:
+      213: 5242452449797463154
+    second: pngwing.com_29
+  - first:
+      213: 5351708609430724204
+    second: pngwing.com_30
+  - first:
+      213: -3087880778217750092
+    second: pngwing.com_31
+  - first:
+      213: -973056043298080511
+    second: pngwing.com_32
+  - first:
+      213: 5619730187777660764
+    second: pngwing.com_33
+  - first:
+      213: -3150131467861657401
+    second: pngwing.com_34
+  - first:
+      213: 880428291760153985
+    second: pngwing.com_35
+  - first:
+      213: -7390066592427920868
+    second: pngwing.com_36
+  - first:
+      213: -5553783169889767483
+    second: pngwing.com_37
+  - first:
+      213: -7574414845989649530
+    second: pngwing.com_38
+  - first:
+      213: 6323204239880532371
+    second: pngwing.com_39
+  - first:
+      213: 4249382970959690881
+    second: pngwing.com_40
+  - first:
+      213: -3678313285092525311
+    second: pngwing.com_41
+  - first:
+      213: 1980740879560390139
+    second: pngwing.com_42
+  - first:
+      213: -9072972012384533964
+    second: pngwing.com_43
+  - first:
+      213: -5422976349051264599
+    second: pngwing.com_44
+  - first:
+      213: 3737719012458692120
+    second: pngwing.com_45
+  - first:
+      213: 834322870381944738
+    second: pngwing.com_46
+  - first:
+      213: -1417395380830018778
+    second: pngwing.com_47
+  - first:
+      213: 1985450946834063189
+    second: pngwing.com_48
+  - first:
+      213: 6704410664219877770
+    second: pngwing.com_49
+  - first:
+      213: 9204113165042298820
+    second: pngwing.com_50
+  - first:
+      213: -2703249703063247693
+    second: pngwing.com_51
+  - first:
+      213: 6483613101713028744
+    second: pngwing.com_52
+  - first:
+      213: 1738710844747766620
+    second: pngwing.com_53
+  - first:
+      213: 3705896192436867301
+    second: pngwing.com_54
+  - first:
+      213: -2462267850782754958
+    second: pngwing.com_55
+  - first:
+      213: 8077143900944125520
+    second: pngwing.com_56
+  - first:
+      213: -7755913614322322021
+    second: pngwing.com_57
+  - first:
+      213: 7388966786193358126
+    second: pngwing.com_58
+  - first:
+      213: -7414623420849051198
+    second: pngwing.com_59
+  - first:
+      213: -6419881846707330071
+    second: pngwing.com_60
+  - first:
+      213: -991928995704048917
+    second: pngwing.com_61
+  - first:
+      213: 389959184408648787
+    second: pngwing.com_62
+  - first:
+      213: 8538647677838223139
+    second: pngwing.com_63
+  - first:
+      213: -5875346562448455705
+    second: pngwing.com_64
+  - first:
+      213: 7042022084361021002
+    second: pngwing.com_65
+  - first:
+      213: -5571914676161495014
+    second: pngwing.com_66
+  - first:
+      213: -8548079447787854204
+    second: pngwing.com_67
+  - first:
+      213: 3253122042714635684
+    second: pngwing.com_68
+  - first:
+      213: 2630011141698638499
+    second: pngwing.com_69
+  - first:
+      213: 7401902122041723749
+    second: pngwing.com_70
+  - first:
+      213: 7294967800438277291
+    second: pngwing.com_71
+  - first:
+      213: 5536626813969001720
+    second: pngwing.com_72
+  - first:
+      213: -355777554620550360
+    second: pngwing.com_73
+  - first:
+      213: 8203984456646652015
+    second: pngwing.com_74
+  - first:
+      213: -1997144619052040681
+    second: pngwing.com_75
+  - first:
+      213: -2323947817713238384
+    second: pngwing.com_76
+  - first:
+      213: 3851723985260779456
+    second: pngwing.com_77
+  - first:
+      213: 8402790236436290708
+    second: pngwing.com_78
+  - first:
+      213: -6319707423349436790
+    second: pngwing.com_79
+  - first:
+      213: 6755543915832834178
+    second: pngwing.com_80
+  - first:
+      213: -9153041909644235968
+    second: pngwing.com_81
+  - first:
+      213: 5612906986460407332
+    second: pngwing.com_82
+  - first:
+      213: 4064322471484158720
+    second: pngwing.com_83
+  - first:
+      213: -6120328372390426938
+    second: pngwing.com_84
+  - first:
+      213: 7392081711633563485
+    second: pngwing.com_85
+  - first:
+      213: -4928981764289223508
+    second: pngwing.com_86
+  - first:
+      213: -5928901377599179523
+    second: pngwing.com_87
+  - first:
+      213: 3105839833319924692
+    second: pngwing.com_88
+  - first:
+      213: 9070117552318031090
+    second: pngwing.com_89
+  - first:
+      213: -5176053289461106870
+    second: pngwing.com_90
+  - first:
+      213: -1366887965815003053
+    second: pngwing.com_91
+  - first:
+      213: -2692798596300546385
+    second: pngwing.com_92
+  - first:
+      213: -5012348508382180469
+    second: pngwing.com_93
+  - first:
+      213: 8425678569501878569
+    second: pngwing.com_94
+  - first:
+      213: 4994062584900352739
+    second: pngwing.com_95
+  - first:
+      213: -6461002233917960798
+    second: pngwing.com_96
+  - first:
+      213: 2249215088741739139
+    second: pngwing.com_97
+  - first:
+      213: 8275619013614902515
+    second: pngwing.com_98
+  - first:
+      213: 5937871999250861311
+    second: pngwing.com_99
+  - first:
+      213: -7592509597436697749
+    second: pngwing.com_100
+  - first:
+      213: 1208888971945432860
+    second: pngwing.com_101
+  - first:
+      213: -4259954845305387762
+    second: pngwing.com_102
+  - first:
+      213: 1056540817019689394
+    second: pngwing.com_103
+  - first:
+      213: 6014892974052491647
+    second: pngwing.com_104
+  - first:
+      213: -8688780314423911200
+    second: pngwing.com_105
+  - first:
+      213: -3826725518037194587
+    second: pngwing.com_106
+  - first:
+      213: -3010585566843731789
+    second: pngwing.com_107
+  - first:
+      213: -2127017403643986484
+    second: pngwing.com_108
+  - first:
+      213: -6000571580637724870
+    second: pngwing.com_109
+  - first:
+      213: -2348116034554175390
+    second: pngwing.com_110
+  - first:
+      213: 5166032991395631124
+    second: pngwing.com_111
+  - first:
+      213: -2492308083901009898
+    second: pngwing.com_112
+  - first:
+      213: -5942532664408484118
+    second: pngwing.com_113
+  - first:
+      213: 3579081435125361360
+    second: pngwing.com_114
+  - first:
+      213: 5227834526333676885
+    second: pngwing.com_115
+  - first:
+      213: 4704788200907792103
+    second: pngwing.com_116
+  - first:
+      213: -1600447488031730186
+    second: pngwing.com_117
+  - first:
+      213: 7373067246685233848
+    second: pngwing.com_118
+  - first:
+      213: 4040149094537361514
+    second: pngwing.com_119
+  - first:
+      213: -7066590534824325825
+    second: pngwing.com_120
+  - first:
+      213: 5404755723580462666
+    second: pngwing.com_121
+  - first:
+      213: 3512434857821735077
+    second: pngwing.com_122
+  - first:
+      213: -3534063632075489100
+    second: pngwing.com_123
+  - first:
+      213: -2917202592809876224
+    second: pngwing.com_124
+  - first:
+      213: -1402001176619630343
+    second: pngwing.com_125
+  - first:
+      213: -1790411423838257019
+    second: pngwing.com_126
+  - first:
+      213: -5068849565489286531
+    second: pngwing.com_127
+  - first:
+      213: -7765982981561811711
+    second: pngwing.com_128
+  - first:
+      213: -8794342917715118516
+    second: pngwing.com_129
+  - first:
+      213: 5724898721679538449
+    second: pngwing.com_130
+  - first:
+      213: -5773738143609268944
+    second: pngwing.com_131
+  - first:
+      213: -2504701397251371025
+    second: pngwing.com_132
+  - first:
+      213: -6566367629799939241
+    second: pngwing.com_133
+  - first:
+      213: 1627408419365456952
+    second: pngwing.com_134
+  - first:
+      213: -5629948836085741024
+    second: pngwing.com_135
+  - first:
+      213: -2797467130133263351
+    second: pngwing.com_136
+  - first:
+      213: -1208993814815828149
+    second: pngwing.com_137
+  - first:
+      213: 3372060499264382225
+    second: pngwing.com_138
+  - first:
+      213: 5770442564336225083
+    second: pngwing.com_139
+  - first:
+      213: 4156505264881585787
+    second: pngwing.com_140
+  - first:
+      213: -4540168469205378276
+    second: pngwing.com_141
+  - first:
+      213: -6304152861503543001
+    second: pngwing.com_142
+  - first:
+      213: 4940606087825258354
+    second: pngwing.com_143
+  - first:
+      213: 7666414819101033515
+    second: pngwing.com_144
+  - first:
+      213: -8704354077903641129
+    second: pngwing.com_145
+  - first:
+      213: -8111985253757806457
+    second: pngwing.com_146
+  - first:
+      213: 7301675435613341837
+    second: pngwing.com_147
+  - first:
+      213: -7920034607812622017
+    second: pngwing.com_148
+  - first:
+      213: 6703436013413205648
+    second: pngwing.com_149
+  - first:
+      213: -7629339516566823851
+    second: pngwing.com_150
+  - first:
+      213: 7478159591936047267
+    second: pngwing.com_151
+  - first:
+      213: 3685351335293670773
+    second: pngwing.com_152
+  - first:
+      213: -1222926405723162605
+    second: pngwing.com_153
+  - first:
+      213: 1426536196327360071
+    second: pngwing.com_154
+  - first:
+      213: 6784640278013396769
+    second: pngwing.com_155
+  - first:
+      213: -214090476956661417
+    second: pngwing.com_156
+  - first:
+      213: 7001520428010144667
+    second: pngwing.com_157
+  - first:
+      213: -4554413564874215656
+    second: pngwing.com_158
+  - first:
+      213: 6902379088025390257
+    second: pngwing.com_159
+  - first:
+      213: 6094053806010741638
+    second: pngwing.com_160
+  - first:
+      213: -307295926781338806
+    second: pngwing.com_161
+  - first:
+      213: -7896769492333406122
+    second: pngwing.com_162
+  - first:
+      213: -5818829722664162313
+    second: pngwing.com_163
+  - first:
+      213: 3027397744257141165
+    second: pngwing.com_164
+  - first:
+      213: -2546901514621361641
+    second: pngwing.com_165
+  - first:
+      213: -8617169306407469245
+    second: pngwing.com_166
+  - first:
+      213: 7278849027408956271
+    second: pngwing.com_167
+  - first:
+      213: 7732403205440280151
+    second: pngwing.com_168
+  - first:
+      213: 2947202807472873589
+    second: pngwing.com_169
+  - first:
+      213: 5040300527768552406
+    second: pngwing.com_170
+  - first:
+      213: -772860261857944585
+    second: pngwing.com_171
+  - first:
+      213: -2474319574005250679
+    second: pngwing.com_172
+  - first:
+      213: 7155803579907183518
+    second: pngwing.com_173
+  - first:
+      213: -1868594040075805737
+    second: pngwing.com_174
+  - first:
+      213: 5178643670738833619
+    second: pngwing.com_175
+  - first:
+      213: 2826253959422622137
+    second: pngwing.com_176
+  - first:
+      213: -2688914679612194977
+    second: pngwing.com_177
+  - first:
+      213: -7323352387413746912
+    second: pngwing.com_178
+  - first:
+      213: -1297076518660394374
+    second: pngwing.com_179
+  - first:
+      213: 4199199352742174800
+    second: pngwing.com_180
+  - first:
+      213: 2135795397183326553
+    second: pngwing.com_181
+  - first:
+      213: -2818743190559114496
+    second: pngwing.com_182
+  - first:
+      213: -1989284557383631420
+    second: pngwing.com_183
+  - first:
+      213: 5587662421014623995
+    second: pngwing.com_184
+  - first:
+      213: 2289233035235177123
+    second: pngwing.com_185
+  - first:
+      213: -2143565270230751016
+    second: pngwing.com_186
+  - first:
+      213: -1751035601833772786
+    second: pngwing.com_187
+  - first:
+      213: 1626167443542306607
+    second: pngwing.com_188
+  - first:
+      213: -1532307670973293654
+    second: pngwing.com_189
+  - first:
+      213: -6425774053768296685
+    second: pngwing.com_190
+  - first:
+      213: 1154102332724227446
+    second: pngwing.com_191
+  - first:
+      213: -2425635402089730721
+    second: pngwing.com_192
+  - first:
+      213: -5486968842428005391
+    second: pngwing.com_193
+  - first:
+      213: 5253231231712228824
+    second: pngwing.com_194
+  - first:
+      213: 7343342791266164521
+    second: pngwing.com_195
+  - first:
+      213: -8135279386105153813
+    second: pngwing.com_196
+  - first:
+      213: 2118819377317542523
+    second: pngwing.com_197
+  - first:
+      213: 1485627627482564528
+    second: pngwing.com_198
+  - first:
+      213: -4064198402977626180
+    second: pngwing.com_199
+  - first:
+      213: -791095577764210923
+    second: pngwing.com_200
+  - first:
+      213: 1867779030493545645
+    second: pngwing.com_201
+  - first:
+      213: -1063105227909488598
+    second: pngwing.com_202
+  - first:
+      213: -4812846371563330893
+    second: pngwing.com_203
+  - first:
+      213: 3715530125765746749
+    second: pngwing.com_204
+  - first:
+      213: 5766399708655037619
+    second: pngwing.com_205
+  - first:
+      213: 2328306015083130236
+    second: pngwing.com_206
+  - first:
+      213: -3278561451790096676
+    second: pngwing.com_207
+  - first:
+      213: -4178701566440133898
+    second: pngwing.com_208
+  - first:
+      213: 2355539237500144825
+    second: pngwing.com_209
+  - first:
+      213: 5122252970502593140
+    second: pngwing.com_210
+  - first:
+      213: -3502071061378188215
+    second: pngwing.com_211
+  - first:
+      213: -2707528545092688386
+    second: pngwing.com_212
+  - first:
+      213: -7873916505349346996
+    second: pngwing.com_213
+  - first:
+      213: -3186144337285104307
+    second: pngwing.com_214
+  - first:
+      213: 2593069027637847974
+    second: pngwing.com_215
+  - first:
+      213: -2108214346793605736
+    second: pngwing.com_216
+  - first:
+      213: 2464127766105717753
+    second: pngwing.com_217
+  - first:
+      213: 1717821021550280993
+    second: pngwing.com_218
+  - first:
+      213: 5453695562250641880
+    second: pngwing.com_219
+  - first:
+      213: 8998249305483013404
+    second: pngwing.com_220
+  - first:
+      213: 7474355529043419909
+    second: pngwing.com_221
+  - first:
+      213: -4347050639346272037
+    second: pngwing.com_222
+  - first:
+      213: -7754659515106477339
+    second: pngwing.com_223
+  - first:
+      213: -2161859504763790751
+    second: pngwing.com_224
+  - first:
+      213: 7487835875387024067
+    second: pngwing.com_225
+  - first:
+      213: -7428522252837061643
+    second: pngwing.com_226
+  - first:
+      213: -5224720922065594576
+    second: pngwing.com_227
+  - first:
+      213: -6538006064122865593
+    second: pngwing.com_228
+  - first:
+      213: -5655358463180039308
+    second: pngwing.com_229
+  - first:
+      213: -4295428236673721922
+    second: pngwing.com_230
+  - first:
+      213: 3478504964478076779
+    second: pngwing.com_231
+  - first:
+      213: 3208286152249969098
+    second: pngwing.com_232
+  - first:
+      213: 7500748484531602009
+    second: pngwing.com_233
+  - first:
+      213: -7339956256455593212
+    second: pngwing.com_234
+  - first:
+      213: -8614412557529325084
+    second: pngwing.com_235
+  - first:
+      213: 8646440098848526129
+    second: pngwing.com_236
+  - first:
+      213: 892547753103319475
+    second: pngwing.com_237
+  - first:
+      213: 5557456616821211339
+    second: pngwing.com_238
+  - first:
+      213: -5316619655568055692
+    second: pngwing.com_239
+  - first:
+      213: 5986125160601056702
+    second: pngwing.com_240
+  - first:
+      213: -2696288390195673166
+    second: pngwing.com_241
+  - first:
+      213: -9203066821612777691
+    second: pngwing.com_242
+  - first:
+      213: 4924809123223592749
+    second: pngwing.com_243
+  - first:
+      213: -2144201066699884761
+    second: pngwing.com_244
+  - first:
+      213: 434689702224767370
+    second: pngwing.com_245
+  - first:
+      213: -808407838701706344
+    second: pngwing.com_246
+  - first:
+      213: -927190888963357755
+    second: pngwing.com_247
+  - first:
+      213: 936496296150185184
+    second: pngwing.com_248
+  - first:
+      213: 674630515390660042
+    second: pngwing.com_249
+  - first:
+      213: -8495048649798510950
+    second: pngwing.com_250
+  - first:
+      213: -6061013702700231680
+    second: pngwing.com_251
+  - first:
+      213: 6205333574948908267
+    second: pngwing.com_252
+  - first:
+      213: -8213714684610460614
+    second: pngwing.com_253
+  - first:
+      213: 3693237054781558365
+    second: pngwing.com_254
+  - first:
+      213: -2713964438667655735
+    second: pngwing.com_255
+  - first:
+      213: 2816653617266481420
+    second: pngwing.com_256
+  - first:
+      213: -8777639648656645583
+    second: pngwing.com_257
+  - first:
+      213: 3647516985081262925
+    second: pngwing.com_258
+  - first:
+      213: 8780286319662171594
+    second: pngwing.com_259
+  - first:
+      213: 3032978105116438641
+    second: pngwing.com_260
+  - first:
+      213: -8237720706820490215
+    second: pngwing.com_261
+  - first:
+      213: 1925383064651417537
+    second: pngwing.com_262
+  - first:
+      213: -4703156427975729609
+    second: pngwing.com_263
+  - first:
+      213: 5245686866736620181
+    second: pngwing.com_264
+  - first:
+      213: 4316983430004410465
+    second: pngwing.com_265
+  - first:
+      213: 8108064796744348592
+    second: pngwing.com_266
+  - first:
+      213: 2065739567341078322
+    second: pngwing.com_267
+  - first:
+      213: 2815957460372463018
+    second: pngwing.com_268
+  - first:
+      213: -3803199157867682508
+    second: pngwing.com_269
+  - first:
+      213: -5783169597787108938
+    second: pngwing.com_270
+  - first:
+      213: 9032281446926633108
+    second: pngwing.com_271
+  - first:
+      213: 7286887811223977588
+    second: pngwing.com_272
+  - first:
+      213: -1502240192048568310
+    second: pngwing.com_273
+  - first:
+      213: 5561378080684435789
+    second: pngwing.com_274
+  - first:
+      213: 693405038167765996
+    second: pngwing.com_275
+  - first:
+      213: 7564624575494621228
+    second: pngwing.com_276
+  - first:
+      213: -7075124789275523325
+    second: pngwing.com_277
+  - first:
+      213: 8722135154405614268
+    second: pngwing.com_278
+  - first:
+      213: -7518249906335318142
+    second: pngwing.com_279
+  - first:
+      213: -5575199960578077673
+    second: pngwing.com_280
+  - first:
+      213: 5288255715254936454
+    second: pngwing.com_281
+  - first:
+      213: 1961471145395985645
+    second: pngwing.com_282
+  - first:
+      213: -8961445798446911638
+    second: pngwing.com_283
+  - first:
+      213: -6874828916740852149
+    second: pngwing.com_284
+  - first:
+      213: 6876563339253963204
+    second: pngwing.com_285
+  - first:
+      213: -4978120168434205896
+    second: pngwing.com_286
+  - first:
+      213: 6035043641655582906
+    second: pngwing.com_287
+  - first:
+      213: 6738445573355940796
+    second: pngwing.com_288
+  - first:
+      213: -6942512077155552363
+    second: pngwing.com_289
+  - first:
+      213: -8805480328808714976
+    second: pngwing.com_290
+  - first:
+      213: -4834083263648565398
+    second: pngwing.com_291
+  - first:
+      213: 3976663402332243085
+    second: pngwing.com_292
+  - first:
+      213: 175680906041396027
+    second: pngwing.com_293
+  - first:
+      213: 2547095458522814400
+    second: pngwing.com_294
+  - first:
+      213: -1038371360578122453
+    second: pngwing.com_295
+  - first:
+      213: 4961836089447863864
+    second: pngwing.com_296
+  - first:
+      213: -2374435102886576551
+    second: pngwing.com_297
+  - first:
+      213: 5665153881964145494
+    second: pngwing.com_298
+  - first:
+      213: 3170604697212504744
+    second: pngwing.com_299
+  - first:
+      213: 4210310436024135451
+    second: pngwing.com_300
+  - first:
+      213: -2595316607857103308
+    second: pngwing.com_301
+  - first:
+      213: -5243178789657449030
+    second: pngwing.com_302
+  - first:
+      213: 245835732809583453
+    second: pngwing.com_303
+  - first:
+      213: -7889211414572509599
+    second: pngwing.com_304
+  - first:
+      213: -4841957545441586534
+    second: pngwing.com_305
+  - first:
+      213: -9216363434934026305
+    second: pngwing.com_306
+  - first:
+      213: -6187912814003474596
+    second: pngwing.com_307
+  - first:
+      213: -2093418820088138889
+    second: pngwing.com_308
+  - first:
+      213: -1356010320298232019
+    second: pngwing.com_309
+  - first:
+      213: 5809502623418764844
+    second: pngwing.com_310
+  - first:
+      213: 2012958367345911606
+    second: pngwing.com_311
+  - first:
+      213: 6356406145314624961
+    second: pngwing.com_312
+  - first:
+      213: 4993450918286237933
+    second: pngwing.com_313
+  - first:
+      213: -4796108999309907207
+    second: pngwing.com_314
+  - first:
+      213: 3626446453113717297
+    second: pngwing.com_315
+  - first:
+      213: 5207286197398976682
+    second: pngwing.com_316
+  - first:
+      213: 7667170963088974612
+    second: pngwing.com_317
+  - first:
+      213: -3568711319145831257
+    second: pngwing.com_318
+  - first:
+      213: -6348484997849369897
+    second: pngwing.com_319
+  - first:
+      213: -3299070668075575064
+    second: pngwing.com_320
+  - first:
+      213: 8458886039150170652
+    second: pngwing.com_321
+  - first:
+      213: -1070374231488878032
+    second: pngwing.com_322
+  - first:
+      213: 6914675792911459439
+    second: pngwing.com_323
+  - first:
+      213: 43427486796900277
+    second: pngwing.com_324
+  - first:
+      213: 1924032900074930965
+    second: pngwing.com_325
+  - first:
+      213: 810422775167353938
+    second: pngwing.com_326
+  - first:
+      213: 8641692866548871899
+    second: pngwing.com_327
+  - first:
+      213: 5699833596397637614
+    second: pngwing.com_328
+  - first:
+      213: -544516457274067211
+    second: pngwing.com_329
+  - first:
+      213: -5805048470635564125
+    second: pngwing.com_330
+  - first:
+      213: -6454861412394950423
+    second: pngwing.com_331
+  - first:
+      213: 2723462952453077837
+    second: pngwing.com_332
+  - first:
+      213: 91746060846932526
+    second: pngwing.com_333
+  - first:
+      213: 3617100036889486779
+    second: pngwing.com_334
+  - first:
+      213: 7847350692067737721
+    second: pngwing.com_335
+  - first:
+      213: -1261450551094727038
+    second: pngwing.com_336
+  - first:
+      213: -5523581908294456610
+    second: pngwing.com_337
+  - first:
+      213: 7606612267564266542
+    second: pngwing.com_338
+  - first:
+      213: -7175613191617993963
+    second: pngwing.com_339
+  - first:
+      213: -1155141648638266335
+    second: pngwing.com_340
+  - first:
+      213: -6666476720276952314
+    second: pngwing.com_341
+  - first:
+      213: -7579578646610571535
+    second: pngwing.com_342
+  - first:
+      213: -291453186300703562
+    second: pngwing.com_343
+  - first:
+      213: -7996428420934202988
+    second: pngwing.com_344
+  - first:
+      213: 9202515255596401069
+    second: pngwing.com_345
+  - first:
+      213: 2624622190429619597
+    second: pngwing.com_346
+  - first:
+      213: -7769915933883603253
+    second: pngwing.com_347
+  - first:
+      213: -5091353332131166728
+    second: pngwing.com_348
+  - first:
+      213: -3413060619694669488
+    second: pngwing.com_349
+  - first:
+      213: 4650375368379104659
+    second: pngwing.com_350
+  - first:
+      213: -4521516866199532003
+    second: pngwing.com_351
+  - first:
+      213: 2178548266085929904
+    second: pngwing.com_352
+  - first:
+      213: -4037166498323352363
+    second: pngwing.com_353
+  - first:
+      213: -2154194751155673
+    second: pngwing.com_354
+  - first:
+      213: -5119400891805270529
+    second: pngwing.com_355
+  - first:
+      213: 2602172237556070656
+    second: pngwing.com_356
+  - first:
+      213: 325034457433688613
+    second: pngwing.com_357
+  - first:
+      213: -2677022516398661593
+    second: pngwing.com_358
+  - first:
+      213: 8228361839576697389
+    second: pngwing.com_359
+  - first:
+      213: 5387536042782002583
+    second: pngwing.com_360
+  - first:
+      213: -17131064710817212
+    second: pngwing.com_361
+  - first:
+      213: 8029254157461243216
+    second: pngwing.com_362
+  - first:
+      213: -4835098783173879511
+    second: pngwing.com_363
+  - first:
+      213: -117729459061395004
+    second: pngwing.com_364
+  - first:
+      213: -5830036610461562532
+    second: pngwing.com_365
+  - first:
+      213: 8238302843314809308
+    second: pngwing.com_366
+  - first:
+      213: -6994402300286827554
+    second: pngwing.com_367
+  - first:
+      213: 8361234544212829928
+    second: pngwing.com_368
+  - first:
+      213: 5297194608264341163
+    second: pngwing.com_369
+  - first:
+      213: -5086251936580402560
+    second: pngwing.com_370
+  - first:
+      213: -8348352329566177803
+    second: pngwing.com_371
+  - first:
+      213: 8555976201993053705
+    second: pngwing.com_372
+  - first:
+      213: 3826047297977839800
+    second: pngwing.com_373
+  - first:
+      213: -4506340986930924037
+    second: pngwing.com_374
+  - first:
+      213: -34699007478992077
+    second: pngwing.com_375
+  - first:
+      213: -7056534173397812079
+    second: pngwing.com_376
+  - first:
+      213: 360948699589928400
+    second: pngwing.com_377
+  - first:
+      213: 1068074237135466620
+    second: pngwing.com_378
+  - first:
+      213: -2259454630961260719
+    second: pngwing.com_379
+  - first:
+      213: 6913143887744471548
+    second: pngwing.com_380
+  - first:
+      213: 3561623409587520666
+    second: pngwing.com_381
+  - first:
+      213: 8095244297010739541
+    second: pngwing.com_382
+  - first:
+      213: 2598090880268913985
+    second: pngwing.com_383
+  - first:
+      213: 8595618462005803429
+    second: pngwing.com_384
+  - first:
+      213: 5027056313545191175
+    second: pngwing.com_385
+  - first:
+      213: 1343847291722758692
+    second: pngwing.com_386
+  - first:
+      213: -2631422053149979401
+    second: pngwing.com_387
+  - first:
+      213: -6725074815215390716
+    second: pngwing.com_388
+  - first:
+      213: 4392949099644695819
+    second: pngwing.com_389
+  - first:
+      213: 165430192263177778
+    second: pngwing.com_390
+  - first:
+      213: -4607640785035988733
+    second: pngwing.com_391
+  - first:
+      213: 8630616858448727281
+    second: pngwing.com_392
+  - first:
+      213: -3112451492901445106
+    second: pngwing.com_393
+  - first:
+      213: 8888915776806714473
+    second: pngwing.com_394
+  - first:
+      213: -1178702724587099275
+    second: pngwing.com_395
+  - first:
+      213: 3130723924592552857
+    second: pngwing.com_396
+  - first:
+      213: -398722187003802125
+    second: pngwing.com_397
+  - first:
+      213: -757720373176494490
+    second: pngwing.com_398
+  - first:
+      213: 1181552388660885527
+    second: pngwing.com_399
+  - first:
+      213: 6382643287491404145
+    second: pngwing.com_400
+  - first:
+      213: 2847470236417460840
+    second: pngwing.com_401
+  - first:
+      213: 4786934812868285362
+    second: pngwing.com_402
+  - first:
+      213: 8099120934247159697
+    second: pngwing.com_403
+  - first:
+      213: -9115811887767358458
+    second: pngwing.com_404
+  - first:
+      213: 2157270819302326277
+    second: pngwing.com_405
+  - first:
+      213: -1161298916965205382
+    second: pngwing.com_406
+  - first:
+      213: 6742485588254269105
+    second: pngwing.com_407
+  - first:
+      213: 98800766916865790
+    second: pngwing.com_408
+  - first:
+      213: 9100854413949320222
+    second: pngwing.com_409
+  - first:
+      213: 451006132008620065
+    second: pngwing.com_410
+  - first:
+      213: -8959931934326269267
+    second: pngwing.com_411
+  - first:
+      213: -548066957507198838
+    second: pngwing.com_412
+  - first:
+      213: 1771966363792872507
+    second: pngwing.com_413
+  - first:
+      213: -4617537965746729696
+    second: pngwing.com_414
+  - first:
+      213: 208903884424186333
+    second: pngwing.com_415
+  - first:
+      213: -7499666717713042621
+    second: pngwing.com_416
+  - first:
+      213: 7061824511366166982
+    second: pngwing.com_417
+  - first:
+      213: -3120491350307193637
+    second: pngwing.com_418
+  - first:
+      213: -5255437171651739363
+    second: pngwing.com_419
+  - first:
+      213: 1709182125842217211
+    second: pngwing.com_420
+  - first:
+      213: -5416206155641131760
+    second: pngwing.com_421
+  - first:
+      213: -397495593515837641
+    second: pngwing.com_422
+  - first:
+      213: -5002406673150969816
+    second: pngwing.com_423
+  - first:
+      213: -7625831873831491872
+    second: pngwing.com_424
+  - first:
+      213: -1588858529106774665
+    second: pngwing.com_425
+  - first:
+      213: 3449545466104991603
+    second: pngwing.com_426
+  - first:
+      213: 2155581134426191867
+    second: pngwing.com_427
+  - first:
+      213: 2704421979522454966
+    second: pngwing.com_428
+  - first:
+      213: 3888927097911741266
+    second: pngwing.com_429
+  - first:
+      213: 3154326987209432050
+    second: pngwing.com_430
+  - first:
+      213: -2400271171166318245
+    second: pngwing.com_431
+  - first:
+      213: 5607845880964292409
+    second: pngwing.com_432
+  - first:
+      213: -2836247799816903254
+    second: pngwing.com_433
+  - first:
+      213: -6261822133266117962
+    second: pngwing.com_434
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngwing.com_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 593
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfcc53ac89229a70800000000000000
+      internalID: 8832167503239892954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 590
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f005073e31c76acb0800000000000000
+      internalID: -4853055123583119345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 590
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065e579a25f86680800000000000000
+      internalID: -8761483511772326392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 588
+        width: 199
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb378692217831e0800000000000000
+      internalID: -2217898423111697461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 611
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b93b4f765cd280800000000000000
+      internalID: -9017237249179667717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 593
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d9806a077cee80800000000000000
+      internalID: -8148006739367046648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 590
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a2d7d268b41580800000000000000
+      internalID: -8857251832463710051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 590
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194efd6079102a50800000000000000
+      internalID: 6494218633340668182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 476
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7479032648fcfe0800000000000000
+      internalID: -1166568221208786990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 476
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2987b0efcd059e10800000000000000
+      internalID: 2203682779147241771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 476
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b966deae8d0a3610800000000000000
+      internalID: 1601607523953437113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 476
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b4180a29ff0d9c0800000000000000
+      internalID: -3904339871707083991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 460
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13870a793f51fd50800000000000000
+      internalID: 6769296415379653404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 467
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aecb9784cfeb210800000000000000
+      internalID: 1350794326467996276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 467
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38779a7d45cbfd460800000000000000
+      internalID: 7268735396180752259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_15
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 467
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee379159bed1eb00800000000000000
+      internalID: 856210291696287465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 359
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a0171c24e38d40800000000000000
+      internalID: 5585558840886206792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 359
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82de32fc386bc960800000000000000
+      internalID: 7623301405226226319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 359
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d7f4bb6ad9fa10800000000000000
+      internalID: 1943824870319576334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 360
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d606cd9ed696c820800000000000000
+      internalID: 2938201689779734227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 360
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d6215774969fa0800000000000000
+      internalID: -5794280630382045305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 360
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ae512d93b7f3d0800000000000000
+      internalID: -3172869925008137835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 362
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2718b3f9c5d15b0800000000000000
+      internalID: -5396054939552091396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 362
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b647b53d77e930800000000000000
+      internalID: 4172441249443656624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_24
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 362
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80bcfc21d859690800000000000000
+      internalID: -7596010084555355991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 252
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e9a1d4d9e787630800000000000000
+      internalID: 3925026289321942597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 252
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9be22b0df72c00800000000000000
+      internalID: 875946876819185120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea17537b65da790800000000000000
+      internalID: -7517256858135843231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 248
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177903a21f5ee8d60800000000000000
+      internalID: 7894500020784764785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 248
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cdd063abee0c840800000000000000
+      internalID: 5242452449797463154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 248
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e948e20a6154a40800000000000000
+      internalID: 5351708609430724204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_31
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 248
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10391eac4a525d0800000000000000
+      internalID: -3087880778217750092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_32
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 248
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109bba02fa20f72f0800000000000000
+      internalID: -973056043298080511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_33
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 248
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d608c4da4dfd40800000000000000
+      internalID: 5619730187777660764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8735ebe1c7844d0800000000000000
+      internalID: -3150131467861657401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185619cddd8e73c00800000000000000
+      internalID: 880428291760153985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 133
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123ad3a695317990800000000000000
+      internalID: -7390066592427920868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 150
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf6d27d1affce2b0800000000000000
+      internalID: -5553783169889767483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 150
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683875b14d542e690800000000000000
+      internalID: -7574414845989649530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 150
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b25021c880c750800000000000000
+      internalID: 6323204239880532371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 138
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c75a24c47d8fa30800000000000000
+      internalID: 4249382970959690881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_41
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 140
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb5754e8104fcc0800000000000000
+      internalID: -3678313285092525311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_42
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 142
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ba46e5510d7b10800000000000000
+      internalID: 1980740879560390139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43242c08604561280800000000000000
+      internalID: -9072972012384533964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a164712eb7bdb4b0800000000000000
+      internalID: -5422976349051264599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ef2d773ab0fd330800000000000000
+      internalID: 3737719012458692120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 26
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af991dea3c149b00800000000000000
+      internalID: 834322870381944738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 26
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e85b2966645ce0800000000000000
+      internalID: -1417395380830018778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_48
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 26
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd105ed1dbd8b10800000000000000
+      internalID: 1985450946834063189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_49
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81aa254af9da0d50800000000000000
+      internalID: 6704410664219877770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_50
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa7da78249bbf70800000000000000
+      internalID: 9204113165042298820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngwing.com_51
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42cbda7b02c7ad0800000000000000
+      internalID: -2703249703063247693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

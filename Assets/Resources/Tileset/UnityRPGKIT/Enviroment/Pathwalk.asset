@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4620c8b1f18546f4cab8bfeb7e94b705, type: 3}
+  m_Name: Pathwalk
+  m_EditorClassIdentifier: 
+  colliderType: 0
+  LT: {fileID: 8080120129213463259, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LR: {fileID: 1903237471872010785, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LB: {fileID: 5098743565758158479, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  TR: {fileID: 799740131616985876, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  TB: {fileID: -730370551834418559, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  RB: {fileID: -6799183013639903569, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LTR: {fileID: 7429291100499780596, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  TRB: {fileID: 4243424769789235263, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LRB: {fileID: -2882015785268980901, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LTB: {fileID: -7609832425304970920, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  LTRB: {fileID: -2422399437063202340, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  L: {fileID: -1547146682146735343, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  T: {fileID: -4296512168680833065, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  R: {fileID: 4041831721725791338, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  B: {fileID: -2669781903790875520, guid: 2f5544387994b014db5984c51c93dddf, type: 3}
+  alone: {fileID: 9123629580105829076, guid: 2f5544387994b014db5984c51c93dddf, type: 3}

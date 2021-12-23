@@ -1,0 +1,2917 @@
+fileFormatVersion: 2
+guid: d5aeac6179574a2479ed3b8b5dc6218b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7581327546380066634
+    second: DungeonPurple_0
+  - first:
+      213: 1941394270437021709
+    second: DungeonPurple_1
+  - first:
+      213: -4645519453332532862
+    second: DungeonPurple_2
+  - first:
+      213: 1302866185942016994
+    second: DungeonPurple_3
+  - first:
+      213: -6478053601959998509
+    second: DungeonPurple_4
+  - first:
+      213: -8691923093345005471
+    second: DungeonPurple_5
+  - first:
+      213: 3016619718855071964
+    second: DungeonPurple_6
+  - first:
+      213: -3132389205848304421
+    second: DungeonPurple_7
+  - first:
+      213: 3915569920679797976
+    second: DungeonPurple_8
+  - first:
+      213: 3053887865055431262
+    second: DungeonPurple_9
+  - first:
+      213: 131366392336021497
+    second: DungeonPurple_10
+  - first:
+      213: 5343359761794659515
+    second: DungeonPurple_11
+  - first:
+      213: 3422027233841449482
+    second: DungeonPurple_12
+  - first:
+      213: -2061187961915098632
+    second: DungeonPurple_13
+  - first:
+      213: 77500936565584447
+    second: DungeonPurple_14
+  - first:
+      213: -1724837369763949265
+    second: DungeonPurple_15
+  - first:
+      213: -1993391671121829339
+    second: DungeonPurple_16
+  - first:
+      213: 6596274384733594799
+    second: DungeonPurple_17
+  - first:
+      213: -4036477308808043038
+    second: DungeonPurple_18
+  - first:
+      213: 1323860660713223406
+    second: DungeonPurple_19
+  - first:
+      213: -8324535689525718586
+    second: DungeonPurple_20
+  - first:
+      213: -8794555018080923765
+    second: DungeonPurple_21
+  - first:
+      213: 5032585218851078954
+    second: DungeonPurple_22
+  - first:
+      213: -3996327640072638730
+    second: DungeonPurple_23
+  - first:
+      213: -5069928583001053879
+    second: DungeonPurple_24
+  - first:
+      213: 5600300240412914110
+    second: DungeonPurple_25
+  - first:
+      213: 2552047315363901780
+    second: DungeonPurple_26
+  - first:
+      213: 1268302100183361308
+    second: DungeonPurple_27
+  - first:
+      213: -5813788134856299683
+    second: DungeonPurple_28
+  - first:
+      213: -5684239274801224162
+    second: DungeonPurple_29
+  - first:
+      213: 5818282603432355801
+    second: DungeonPurple_30
+  - first:
+      213: -6222646118948501718
+    second: DungeonPurple_31
+  - first:
+      213: -4280923230526946122
+    second: DungeonPurple_32
+  - first:
+      213: 9112387091834731437
+    second: DungeonPurple_33
+  - first:
+      213: -2636368135011939840
+    second: DungeonPurple_34
+  - first:
+      213: -5131772071383933480
+    second: DungeonPurple_35
+  - first:
+      213: -2395885912837281450
+    second: DungeonPurple_36
+  - first:
+      213: -977674543260312770
+    second: DungeonPurple_37
+  - first:
+      213: 9090252349749440235
+    second: DungeonPurple_38
+  - first:
+      213: 8371191120932348107
+    second: DungeonPurple_39
+  - first:
+      213: 6004568264698792495
+    second: DungeonPurple_40
+  - first:
+      213: -4276062951927986603
+    second: DungeonPurple_41
+  - first:
+      213: -5860919909853411934
+    second: DungeonPurple_42
+  - first:
+      213: 3390978468624784461
+    second: DungeonPurple_43
+  - first:
+      213: 2798941694401025833
+    second: DungeonPurple_44
+  - first:
+      213: -4315719921459852073
+    second: DungeonPurple_45
+  - first:
+      213: -334514042328133004
+    second: DungeonPurple_46
+  - first:
+      213: -7985851737909614721
+    second: DungeonPurple_47
+  - first:
+      213: -2768583474556348678
+    second: DungeonPurple_48
+  - first:
+      213: -3491055659031663054
+    second: DungeonPurple_49
+  - first:
+      213: 7096862742032040551
+    second: DungeonPurple_50
+  - first:
+      213: 7164895439119782189
+    second: DungeonPurple_51
+  - first:
+      213: -2191079887511105027
+    second: DungeonPurple_52
+  - first:
+      213: -8369653743413379510
+    second: DungeonPurple_53
+  - first:
+      213: 1413690219843461310
+    second: DungeonPurple_54
+  - first:
+      213: -121573718147732668
+    second: DungeonPurple_55
+  - first:
+      213: 1176041883624069264
+    second: DungeonPurple_56
+  - first:
+      213: 3705883675276467132
+    second: DungeonPurple_57
+  - first:
+      213: -8112456737022470484
+    second: DungeonPurple_58
+  - first:
+      213: -4919275636524061115
+    second: DungeonPurple_59
+  - first:
+      213: -6186581143038873135
+    second: DungeonPurple_60
+  - first:
+      213: -2257252025236560441
+    second: DungeonPurple_61
+  - first:
+      213: -3550600589286623530
+    second: DungeonPurple_62
+  - first:
+      213: -5426629216354455914
+    second: DungeonPurple_63
+  - first:
+      213: -8345764648593373166
+    second: DungeonPurple_64
+  - first:
+      213: -4865319015781648230
+    second: DungeonPurple_65
+  - first:
+      213: 1959632136952185942
+    second: DungeonPurple_66
+  - first:
+      213: 4157798214931828188
+    second: DungeonPurple_67
+  - first:
+      213: -4489158262468459616
+    second: DungeonPurple_68
+  - first:
+      213: 984977432145916041
+    second: DungeonPurple_69
+  - first:
+      213: -3058864826268324239
+    second: DungeonPurple_70
+  - first:
+      213: -3721487584483213549
+    second: DungeonPurple_71
+  - first:
+      213: -5221047903929243753
+    second: DungeonPurple_72
+  - first:
+      213: 2528949573567700255
+    second: DungeonPurple_73
+  - first:
+      213: -7831952020144040653
+    second: DungeonPurple_74
+  - first:
+      213: 3317513034207868082
+    second: DungeonPurple_75
+  - first:
+      213: 9119510377185526133
+    second: DungeonPurple_76
+  - first:
+      213: 4719769164563633399
+    second: DungeonPurple_77
+  - first:
+      213: 5935259772217269948
+    second: DungeonPurple_78
+  - first:
+      213: -7975781037641142555
+    second: DungeonPurple_79
+  - first:
+      213: 6576188276814741451
+    second: DungeonPurple_80
+  - first:
+      213: -1648039964639175698
+    second: DungeonPurple_81
+  - first:
+      213: 4183571407603824988
+    second: DungeonPurple_82
+  - first:
+      213: -1455095275766441587
+    second: DungeonPurple_83
+  - first:
+      213: -1913562789120486047
+    second: DungeonPurple_84
+  - first:
+      213: -5370954102046945988
+    second: DungeonPurple_85
+  - first:
+      213: 8961158832375709182
+    second: DungeonPurple_86
+  - first:
+      213: -4044727105691199616
+    second: DungeonPurple_87
+  - first:
+      213: 9136401952507065890
+    second: DungeonPurple_88
+  - first:
+      213: -4042966201889700993
+    second: DungeonPurple_89
+  - first:
+      213: 655986378104929718
+    second: DungeonPurple_90
+  - first:
+      213: 7140492916522200627
+    second: DungeonPurple_91
+  - first:
+      213: 6295682650896088616
+    second: DungeonPurple_92
+  - first:
+      213: 9218567407737522056
+    second: DungeonPurple_93
+  - first:
+      213: 9060796446266905848
+    second: DungeonPurple_94
+  - first:
+      213: -58064394758864800
+    second: DungeonPurple_95
+  - first:
+      213: 8738070779013269053
+    second: DungeonPurple_96
+  - first:
+      213: 2240275346923548892
+    second: DungeonPurple_97
+  - first:
+      213: -4880024272532159344
+    second: DungeonPurple_98
+  - first:
+      213: 5009178551470561088
+    second: DungeonPurple_99
+  - first:
+      213: -3277089687133857968
+    second: DungeonPurple_100
+  - first:
+      213: 5342538299813399314
+    second: DungeonPurple_101
+  - first:
+      213: -6034962759184748486
+    second: DungeonPurple_102
+  - first:
+      213: 6695839130614015282
+    second: DungeonPurple_0
+  - first:
+      213: -8979142383500012600
+    second: DungeonPurple_1
+  - first:
+      213: 7715837097337393468
+    second: DungeonPurple_2
+  - first:
+      213: 2748233251831939428
+    second: DungeonPurple_3
+  - first:
+      213: 407872863249904622
+    second: DungeonPurple_4
+  - first:
+      213: -7729806809654880841
+    second: DungeonPurple_5
+  - first:
+      213: 7445359193732191094
+    second: DungeonPurple_6
+  - first:
+      213: -372188984448597591
+    second: DungeonPurple_7
+  - first:
+      213: -2262669151010062891
+    second: DungeonPurple_8
+  - first:
+      213: 3762845666151349114
+    second: DungeonPurple_9
+  - first:
+      213: 4440977167074183478
+    second: DungeonPurple_10
+  - first:
+      213: -6737624508403576030
+    second: DungeonPurple_11
+  - first:
+      213: 7100740722622225731
+    second: DungeonPurple_12
+  - first:
+      213: -4393792854793875899
+    second: DungeonPurple_13
+  - first:
+      213: -2478224850477825589
+    second: DungeonPurple_14
+  - first:
+      213: -6521111283250837958
+    second: DungeonPurple_15
+  - first:
+      213: -8260602881506177295
+    second: DungeonPurple_16
+  - first:
+      213: 3860153529166940825
+    second: DungeonPurple_17
+  - first:
+      213: 7963131257517018018
+    second: DungeonPurple_18
+  - first:
+      213: -7064662994122105878
+    second: DungeonPurple_19
+  - first:
+      213: -531699883199520862
+    second: DungeonPurple_20
+  - first:
+      213: -692994106860450218
+    second: DungeonPurple_21
+  - first:
+      213: -6568151887194876905
+    second: DungeonPurple_22
+  - first:
+      213: -4060054244161986457
+    second: DungeonPurple_23
+  - first:
+      213: 8876760527520611424
+    second: DungeonPurple_24
+  - first:
+      213: 4586597430659204464
+    second: DungeonPurple_25
+  - first:
+      213: 2384551261076470438
+    second: DungeonPurple_26
+  - first:
+      213: 4723214004176468992
+    second: DungeonPurple_27
+  - first:
+      213: -642269462177550690
+    second: DungeonPurple_28
+  - first:
+      213: 3785473822031147685
+    second: DungeonPurple_29
+  - first:
+      213: 3988006235913826418
+    second: DungeonPurple_30
+  - first:
+      213: 4142739094245382640
+    second: DungeonPurple_31
+  - first:
+      213: 2987110455807792371
+    second: DungeonPurple_32
+  - first:
+      213: -3693945047377670679
+    second: DungeonPurple_33
+  - first:
+      213: -5715549605727907788
+    second: DungeonPurple_34
+  - first:
+      213: -3008019731435846512
+    second: DungeonPurple_35
+  - first:
+      213: -9019201827583225395
+    second: DungeonPurple_36
+  - first:
+      213: -1817549438636001526
+    second: DungeonPurple_37
+  - first:
+      213: 6598585883515092321
+    second: DungeonPurple_38
+  - first:
+      213: 1216799802126136978
+    second: DungeonPurple_39
+  - first:
+      213: 5586783857630137834
+    second: DungeonPurple_40
+  - first:
+      213: 7142642197910999273
+    second: DungeonPurple_41
+  - first:
+      213: 3135577342164625269
+    second: DungeonPurple_42
+  - first:
+      213: -640469632510449753
+    second: DungeonPurple_43
+  - first:
+      213: -5649724132177053115
+    second: DungeonPurple_44
+  - first:
+      213: 1969032248637454804
+    second: DungeonPurple_45
+  - first:
+      213: -1249209647138358937
+    second: DungeonPurple_46
+  - first:
+      213: 1659722114796170551
+    second: DungeonPurple_47
+  - first:
+      213: 2566982921950235431
+    second: DungeonPurple_48
+  - first:
+      213: 3706205760071273795
+    second: DungeonPurple_49
+  - first:
+      213: 5970742850107694797
+    second: DungeonPurple_50
+  - first:
+      213: 8899408224797623983
+    second: DungeonPurple_51
+  - first:
+      213: 2135925605651237617
+    second: DungeonPurple_52
+  - first:
+      213: -6679086311449748804
+    second: DungeonPurple_53
+  - first:
+      213: 5140788840340549607
+    second: DungeonPurple_54
+  - first:
+      213: -1354817469249417648
+    second: DungeonPurple_55
+  - first:
+      213: -3675025926570723109
+    second: DungeonPurple_56
+  - first:
+      213: -3270727197351758340
+    second: DungeonPurple_57
+  - first:
+      213: -2243974760774304430
+    second: DungeonPurple_58
+  - first:
+      213: 8228969479102733993
+    second: DungeonPurple_59
+  - first:
+      213: -5259811290349418218
+    second: DungeonPurple_60
+  - first:
+      213: 6729095055468561277
+    second: DungeonPurple_61
+  - first:
+      213: 7573256525715837665
+    second: DungeonPurple_62
+  - first:
+      213: 6585120704508507603
+    second: DungeonPurple_63
+  - first:
+      213: -3342172713866204102
+    second: DungeonPurple_64
+  - first:
+      213: 8442185478656791117
+    second: DungeonPurple_65
+  - first:
+      213: 7135035335856634206
+    second: DungeonPurple_66
+  - first:
+      213: -1436775440630550056
+    second: DungeonPurple_67
+  - first:
+      213: 6851830612607185550
+    second: DungeonPurple_68
+  - first:
+      213: 3311172140312512383
+    second: DungeonPurple_69
+  - first:
+      213: 6446887604742361149
+    second: DungeonPurple_70
+  - first:
+      213: 7027959531681883182
+    second: DungeonPurple_71
+  - first:
+      213: -4530723290206530929
+    second: DungeonPurple_72
+  - first:
+      213: 8102389698787573637
+    second: DungeonPurple_73
+  - first:
+      213: -6619143452605701659
+    second: DungeonPurple_74
+  - first:
+      213: -7132426803062918233
+    second: DungeonPurple_75
+  - first:
+      213: -6781606933396701970
+    second: DungeonPurple_76
+  - first:
+      213: 1893390148190279779
+    second: DungeonPurple_77
+  - first:
+      213: -3011011456300346297
+    second: DungeonPurple_78
+  - first:
+      213: -2226723943231479732
+    second: DungeonPurple_79
+  - first:
+      213: -2145809803703634059
+    second: DungeonPurple_80
+  - first:
+      213: 6712089033344423751
+    second: DungeonPurple_81
+  - first:
+      213: 1028897231893985346
+    second: DungeonPurple_82
+  - first:
+      213: -4011380594302412468
+    second: DungeonPurple_83
+  - first:
+      213: 149382483295581060
+    second: DungeonPurple_84
+  - first:
+      213: -6430078989460768774
+    second: DungeonPurple_85
+  - first:
+      213: 6782036937372049840
+    second: DungeonPurple_86
+  - first:
+      213: 5216302738640250742
+    second: DungeonPurple_87
+  - first:
+      213: -6499571971413119782
+    second: DungeonPurple_88
+  - first:
+      213: -6112588839499400029
+    second: DungeonPurple_89
+  - first:
+      213: -1510304753300234130
+    second: DungeonPurple_90
+  - first:
+      213: -6438092892673908210
+    second: DungeonPurple_91
+  - first:
+      213: -4871468545016689809
+    second: DungeonPurple_92
+  - first:
+      213: 356722588861276491
+    second: DungeonPurple_93
+  - first:
+      213: 4623551161152003351
+    second: DungeonPurple_94
+  - first:
+      213: -5743671444332635882
+    second: DungeonPurple_95
+  - first:
+      213: -8922070052017862573
+    second: DungeonPurple_96
+  - first:
+      213: 6704079151571860964
+    second: DungeonPurple_97
+  - first:
+      213: -2865226187285928838
+    second: DungeonPurple_98
+  - first:
+      213: -8515006346788775138
+    second: DungeonPurple_99
+  - first:
+      213: 6780145759796798109
+    second: DungeonPurple_100
+  - first:
+      213: -6881267984989944954
+    second: DungeonPurple_101
+  - first:
+      213: -2729518974726831458
+    second: DungeonPurple_102
+  - first:
+      213: 4443072337577713404
+    second: DungeonPurple_103
+  - first:
+      213: -689490203927419248
+    second: DungeonPurple_104
+  - first:
+      213: 465315001718849203
+    second: DungeonPurple_105
+  - first:
+      213: 5196332611400808933
+    second: DungeonPurple_106
+  - first:
+      213: 6327044469335305100
+    second: DungeonPurple_103
+  - first:
+      213: 5187023689165142500
+    second: DungeonPurple_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DungeonPurple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a86596366cec50800000000000000
+      internalID: 6695839130614015282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d3d3639da36380800000000000000
+      internalID: -8979142383500012600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c319393b5f8241b60800000000000000
+      internalID: 7715837097337393468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4610c5fe49fa32620800000000000000
+      internalID: 2748233251831939428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33887453e09a500800000000000000
+      internalID: 407872863249904622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5102039a53ab490800000000000000
+      internalID: -7729806809654880841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673989f4dba335760800000000000000
+      internalID: 7445359193732191094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1c0a03718b5daf0800000000000000
+      internalID: -372188984448597591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7fc135626990e0800000000000000
+      internalID: -2262669151010062891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb19b6230583430800000000000000
+      internalID: 3762845666151349114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c313443581ad30800000000000000
+      internalID: 4440977167074183478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22393a205362f72a0800000000000000
+      internalID: -6737624508403576030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5c0ed016ea8260800000000000000
+      internalID: 7100740722622225731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8c598dac1603c0800000000000000
+      internalID: -4393792854793875899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc149b1f0a39b9dd0800000000000000
+      internalID: -2478224850477825589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ca0596db5085a0800000000000000
+      internalID: -6521111283250837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe814122717c5d80800000000000000
+      internalID: -8260602881506177295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a477cce25029530800000000000000
+      internalID: 3860153529166940825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8c1030b9b28e60800000000000000
+      internalID: 7963131257517018018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1181ef6645fd90800000000000000
+      internalID: -7064662994122105878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af96c6f5c50f98f0800000000000000
+      internalID: -531699883199520862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec42d088df166f0800000000000000
+      internalID: -692994106860450218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71410fc78ac39d4a0800000000000000
+      internalID: -6568151887194876905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76068ef0d2ac7a7c0800000000000000
+      internalID: -4060054244161986457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c331f2ba6903b70800000000000000
+      internalID: 8876760527520611424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0754926ff0ed6af30800000000000000
+      internalID: 4586597430659204464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3c21fcb0a71120800000000000000
+      internalID: 2384551261076470438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb615bc1a3c8140800000000000000
+      internalID: 4723214004176468992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e63d8b3533617f0800000000000000
+      internalID: -642269462177550690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f4b48264b88430800000000000000
+      internalID: 3785473822031147685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270bfadca8e385730800000000000000
+      internalID: 3988006235913826418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99e9dc147fd7930800000000000000
+      internalID: 4142739094245382640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f457471229547920800000000000000
+      internalID: 2987110455807792371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8d3ffc887cbcc0800000000000000
+      internalID: -3693945047377670679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d6767ae94ea0b0800000000000000
+      internalID: -5715549605727907788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094866ecdfd5146d0800000000000000
+      internalID: -3008019731435846512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1195d39bb55d280800000000000000
+      internalID: -9019201827583225395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f3645a64c6c6e0800000000000000
+      internalID: -1817549438636001526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df2d676e2e29b50800000000000000
+      internalID: 6598585883515092321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967e7029f0f2e010800000000000000
+      internalID: 1216799802126136978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4ee6815e388d40800000000000000
+      internalID: 5586783857630137834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e053345c33cf1360800000000000000
+      internalID: 7142642197910999273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776c7dcafec38b20800000000000000
+      internalID: 3135577342164625269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72ac833489c17f0800000000000000
+      internalID: -640469632510449753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a72a6d5d52891b0800000000000000
+      internalID: -5649724132177053115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9f253d568635b10800000000000000
+      internalID: 1969032248637454804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b35cc17ae9aee0800000000000000
+      internalID: -1249209647138358937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d29464874880710800000000000000
+      internalID: 1659722114796170551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8657fd51cf9320800000000000000
+      internalID: 2566982921950235431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0e81a0861f6330800000000000000
+      internalID: 3706205760071273795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5fd1ecf65cd250800000000000000
+      internalID: 5970742850107694797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6804e11ac018b70800000000000000
+      internalID: 8899408224797623983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac08f850554ad10800000000000000
+      internalID: 2135925605651237617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1dd5136e1f43a0800000000000000
+      internalID: -6679086311449748804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6ac59630c75740800000000000000
+      internalID: 5140788840340549607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e05e990b8b23de0800000000000000
+      internalID: -1354817469249417648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b662146faffcc0800000000000000
+      internalID: -3675025926570723109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b3ac61fa0c92d0800000000000000
+      internalID: -3270727197351758340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfa1b18dccbd0e0800000000000000
+      internalID: -2243974760774304430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae137d642c233270800000000000000
+      internalID: 8228969479102733993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194225cf756107b0800000000000000
+      internalID: -5259811290349418218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738a09fc4c826d50800000000000000
+      internalID: 6729095055468561277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e293307fac991960800000000000000
+      internalID: 7573256525715837665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5bc4b246c036b50800000000000000
+      internalID: 6585120704508507603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6004df973e91d0800000000000000
+      internalID: -3342172713866204102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429c47d6faa82570800000000000000
+      internalID: 8442185478656791117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59389db5dcb40360800000000000000
+      internalID: 7135035335856634206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1f53f595c8f0ce0800000000000000
+      internalID: -1436775440630550056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82399db3a7961f50800000000000000
+      internalID: 6851830612607185550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774f7da485a3fd20800000000000000
+      internalID: 3311172140312512383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3099839e12f77950800000000000000
+      internalID: 6446887604742361149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2428b555f3588160800000000000000
+      internalID: 7027959531681883182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8296af1c23af11c0800000000000000
+      internalID: -4530723290206530929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7404b088717070800000000000000
+      internalID: 8102389698787573637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a51e79141424a0800000000000000
+      internalID: -6619143452605701659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b5f0ac97840d90800000000000000
+      internalID: -7132426803062918233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3090bc64e2e1a0800000000000000
+      internalID: -6781606933396701970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681b14ee4ca64a10800000000000000
+      internalID: 1893390148190279779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441694980db636d0800000000000000
+      internalID: -3011011456300346297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a4de0f561911e0800000000000000
+      internalID: -2226723943231479732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b1be3a5d8832e0800000000000000
+      internalID: -2145809803703634059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471a45e961262d50800000000000000
+      internalID: 6712089033344423751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487c61c490674e00800000000000000
+      internalID: 1028897231893985346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4995b94a96b458c0800000000000000
+      internalID: -4011380594302412468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483bf7cb396b21200800000000000000
+      internalID: 149382483295581060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7fc732a35c3c6a0800000000000000
+      internalID: -6430078989460768774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a3a969a2ae1e50800000000000000
+      internalID: 6782036937372049840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ac8124b7046840800000000000000
+      internalID: 5216302738640250742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce5db6ab1ecc5a0800000000000000
+      internalID: -6499571971413119782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfe9b16d8bb2ba0800000000000000
+      internalID: -6112588839499400029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a4fc24d15a0be0800000000000000
+      internalID: -1510304753300234130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026435ef9c47a6a0800000000000000
+      internalID: -6438092892673908210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8acf1b21156cb0800000000000000
+      internalID: -4871468545016689809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412f68fd4553f400800000000000000
+      internalID: 356722588861276491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5f41d8472a2040800000000000000
+      internalID: 4623551161152003351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199ffda0416a40b0800000000000000
+      internalID: -5743671444332635882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35803501f807e2480800000000000000
+      internalID: -8922070052017862573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edfa87f77ca90d50800000000000000
+      internalID: 6704079151571860964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74eca996fbac38d0800000000000000
+      internalID: -2865226187285928838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b557f87de94d980800000000000000
+      internalID: -8515006346788775138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d922f0255aae71e50800000000000000
+      internalID: 6780145759796798109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830866e933d080a0800000000000000
+      internalID: -6881267984989944954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonPurple_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9208bf34fcce1ad0800000000000000
+      internalID: -2729518974726831458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

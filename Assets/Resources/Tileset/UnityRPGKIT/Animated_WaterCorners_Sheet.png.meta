@@ -1,0 +1,1158 @@
+fileFormatVersion: 2
+guid: 11f609c13d41ac142b71939b25dfb0ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 721492929360416749
+    second: Animated_WaterCorners_Sheet_0
+  - first:
+      213: -7225502221779209672
+    second: Animated_WaterCorners_Sheet_1
+  - first:
+      213: -4559775285159999341
+    second: Animated_WaterCorners_Sheet_2
+  - first:
+      213: 4730261766633367074
+    second: Animated_WaterCorners_Sheet_3
+  - first:
+      213: -7137543922684829422
+    second: Animated_WaterCorners_Sheet_4
+  - first:
+      213: 4591574936725538644
+    second: Animated_WaterCorners_Sheet_5
+  - first:
+      213: 5222358858390375460
+    second: Animated_WaterCorners_Sheet_6
+  - first:
+      213: -8376232128060895749
+    second: Animated_WaterCorners_Sheet_7
+  - first:
+      213: -3646638003312678782
+    second: Animated_WaterCorners_Sheet_8
+  - first:
+      213: 7867399180370419635
+    second: Animated_WaterCorners_Sheet_9
+  - first:
+      213: -2327246226566892606
+    second: Animated_WaterCorners_Sheet_10
+  - first:
+      213: 1620802261165369855
+    second: Animated_WaterCorners_Sheet_11
+  - first:
+      213: -8832947428610451703
+    second: Animated_WaterCorners_Sheet_12
+  - first:
+      213: -8926057600265593696
+    second: Animated_WaterCorners_Sheet_13
+  - first:
+      213: 6199152341214793680
+    second: Animated_WaterCorners_Sheet_14
+  - first:
+      213: 6500907026435523708
+    second: Animated_WaterCorners_Sheet_15
+  - first:
+      213: -96156940882575289
+    second: Animated_WaterCorners_Sheet_16
+  - first:
+      213: 3343479702724338103
+    second: Animated_WaterCorners_Sheet_17
+  - first:
+      213: -2837286217069352457
+    second: Animated_WaterCorners_Sheet_18
+  - first:
+      213: -369272573492922123
+    second: Animated_WaterCorners_Sheet_19
+  - first:
+      213: -4832259682229205347
+    second: Animated_WaterCorners_Sheet_20
+  - first:
+      213: -1882739371646542388
+    second: Animated_WaterCorners_Sheet_21
+  - first:
+      213: 1061487856991076681
+    second: Animated_WaterCorners_Sheet_22
+  - first:
+      213: 2537687173044704391
+    second: Animated_WaterCorners_Sheet_23
+  - first:
+      213: -7549012071740796837
+    second: Animated_WaterCorners_Sheet_24
+  - first:
+      213: 1878966712812038620
+    second: Animated_WaterCorners_Sheet_25
+  - first:
+      213: -2854460223883333926
+    second: Animated_WaterCorners_Sheet_26
+  - first:
+      213: 5001693572294143582
+    second: Animated_WaterCorners_Sheet_27
+  - first:
+      213: 2042277861127032987
+    second: Animated_WaterCorners_Sheet_28
+  - first:
+      213: 375635156318194635
+    second: Animated_WaterCorners_Sheet_29
+  - first:
+      213: -5682307007696668111
+    second: Animated_WaterCorners_Sheet_30
+  - first:
+      213: -2424937648033488372
+    second: Animated_WaterCorners_Sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: defcb722ff1430a00800000000000000
+      internalID: 721492929360416749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 832fd0bf20cd9bb90800000000000000
+      internalID: -7225502221779209672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 398ce60798c68b0c0800000000000000
+      internalID: -4559775285159999341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2262bc6c30445a140800000000000000
+      internalID: 4730261766633367074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2116f9f5e9952fc90800000000000000
+      internalID: -7137543922684829422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 457cc17e31d88bf30800000000000000
+      internalID: 4591574936725538644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 42c09f366bb897840800000000000000
+      internalID: 5222358858390375460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bfd47ba3245a1cb80800000000000000
+      internalID: -8376232128060895749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 288ab148e0a846dc0800000000000000
+      internalID: -3646638003312678782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3bf9d2c0fdd9e2d60800000000000000
+      internalID: 7867399180370419635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2c3bc9023e5f3bfd0800000000000000
+      internalID: -2327246226566892606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ff969e3b11f3e7610800000000000000
+      internalID: 1620802261165369855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 90759f5dc111b6580800000000000000
+      internalID: -8832947428610451703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0ac5e73a7e5402480800000000000000
+      internalID: -8926057600265593696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0df83a6b530d70650800000000000000
+      internalID: 6199152341214793680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c74c78c4f7cd73a50800000000000000
+      internalID: 6500907026435523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 740810095c16aaef0800000000000000
+      internalID: -96156940882575289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7b1ec9a331d666e20800000000000000
+      internalID: 3343479702724338103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7f92879d73fef98d0800000000000000
+      internalID: -2837286217069352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5f8f8a70d8410eaf0800000000000000
+      internalID: -369272573492922123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d964942eb6d50fcb0800000000000000
+      internalID: -4832259682229205347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ccd9d54448a2fd5e0800000000000000
+      internalID: -1882739371646542388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -22}
+        - {x: 26, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -26}
+        - {x: 22, y: -25}
+        - {x: 22, y: -23}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9410859f4992bbe00800000000000000
+      internalID: 1061487856991076681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -26, y: -21}
+        - {x: -25, y: -22}
+        - {x: -22, y: -23}
+        - {x: -22, y: -25}
+        - {x: -21, y: -26}
+        - {x: -21, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7841564e90da73320800000000000000
+      internalID: 2537687173044704391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5011c264858c3790800000000000000
+      internalID: -7549012071740796837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: cd9e1f5254e631a10800000000000000
+      internalID: 1878966712812038620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: adea3f9cc8be268d0800000000000000
+      internalID: -2854460223883333926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e5e62fbcdc5996540800000000000000
+      internalID: 5001693572294143582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b901f1de4e0a75c10800000000000000
+      internalID: 2042277861127032987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bcb8e793f26863500800000000000000
+      internalID: 375635156318194635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 25}
+        - {x: 21, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 21}
+        - {x: 24, y: 21}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 13af685f1e36421b0800000000000000
+      internalID: -5682307007696668111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_WaterCorners_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21, y: 32}
+        - {x: -21, y: 25}
+        - {x: -24, y: 21}
+        - {x: -32, y: 21}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c022e769e04e85ed0800000000000000
+      internalID: -2424937648033488372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

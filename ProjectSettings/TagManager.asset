@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GenerateShadowCasters
+  - Collectibles
+  - World
+  - Collectibles-Chest
+  - Overworld
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Second Camera
+  - UI Elements
+  - World
+  - PlayerOnBridge
+  - Bridge
+  - Player
+  - PlayerBehindRock
+  - Interact
+  - Collectible
+  - Post-Processing
+  - 
+  - 
+  - InteractFloor1
+  - InteractFloor2
+  - PlayerFloor1
+  - PlayerFloor2
+  - 
+  - CollectibleFloor1
+  - CollectibleFloor2
+  - 
+  - IgnoreAllButMouse
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall 0.5
+    uniqueID: 2997577179
+    locked: 0
+  - name: LightsFloor
+    uniqueID: 2866271583
+    locked: 0
+  - name: Overworld
+    uniqueID: 2406713123
+    locked: 0
+  - name: DefaultFloor1
+    uniqueID: 1993678799
+    locked: 0
+  - name: Wall 1.5
+    uniqueID: 663737485
+    locked: 0
+  - name: LightsFloor1
+    uniqueID: 295529361
+    locked: 0
+  - name: OverworldFloor1
+    uniqueID: 319346635
+    locked: 0
+  - name: DefaultFloor2
+    uniqueID: 1714506665
+    locked: 0
+  - name: Wall 2.5
+    uniqueID: 4223623825
+    locked: 0
+  - name: OverworldFloor2
+    uniqueID: 3100436225
+    locked: 0
+  - name: Character
+    uniqueID: 4203101335
+    locked: 0
+  - name: Collectibles
+    uniqueID: 2707110507
+    locked: 0
+  - name: Over Character
+    uniqueID: 3265276207
+    locked: 0
+  - name: UI Over Character
+    uniqueID: 650862753
+    locked: 0

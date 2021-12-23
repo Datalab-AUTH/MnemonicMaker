@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 55592d3f7308b884c9ac7dbb8895ca7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3567101692489502262
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_0
+  - first:
+      213: -3471898430846995723
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_1
+  - first:
+      213: -6761755082482541493
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_2
+  - first:
+      213: 4794097046488405082
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_3
+  - first:
+      213: 6250851886619039868
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_4
+  - first:
+      213: 2574738906382967055
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_5
+  - first:
+      213: -8454452999353985922
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_6
+  - first:
+      213: -2560831600797954501
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_7
+  - first:
+      213: 3265657575788212179
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_8
+  - first:
+      213: 2978469107016477330
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_9
+  - first:
+      213: 4087321686571966621
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_0
+  - first:
+      213: 1415342450982342616
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_1
+  - first:
+      213: 6003694748156946840
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_2
+  - first:
+      213: 5856948413623700155
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_3
+  - first:
+      213: 1599534448456662241
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_4
+  - first:
+      213: 8190113212836723471
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_5
+  - first:
+      213: -6383963744475108279
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_6
+  - first:
+      213: -7613900291727139208
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_7
+  - first:
+      213: -6259417801407412483
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_8
+  - first:
+      213: 8110481861260199844
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_9
+  - first:
+      213: -5511657462364585855
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_10
+  - first:
+      213: 6544029371258833264
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_11
+  - first:
+      213: -8614711799396033949
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_10
+  - first:
+      213: -6595581664490825717
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_11
+  - first:
+      213: -8158830404625845069
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_12
+  - first:
+      213: -4542592144779394436
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_12
+  - first:
+      213: 4114543885580310672
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_13
+  - first:
+      213: -4303219741937970954
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_14
+  - first:
+      213: -9035287980206356305
+    second: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 892
+        width: 142
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906fda1b6519b830800000000000000
+      internalID: 4087321686571966621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 896
+        width: 141
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df455ad57e44a310800000000000000
+      internalID: 1415342450982342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 894
+        width: 136
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e5c38098615350800000000000000
+      internalID: 6003694748156946840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 883
+        width: 140
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba04ddfc8f084150800000000000000
+      internalID: 5856948413623700155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 884
+        width: 139
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec724e2b10b23610800000000000000
+      internalID: 1599534448456662241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 890
+        width: 149
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bbd51f29029a170800000000000000
+      internalID: 8190113212836723471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 498
+        width: 74
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca69f4cca9767a0800000000000000
+      internalID: -6383963744475108279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 486
+        width: 179
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5c5c560ef55690800000000000000
+      internalID: -7613900291727139208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 493
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ca566ca41229a0800000000000000
+      internalID: -6259417801407412483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 514
+        width: 223
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c9a918483e8070800000000000000
+      internalID: 8110481861260199844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 494
+        width: 134
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a12aad245627880800000000000000
+      internalID: -8614711799396033949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_11
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 435
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d1f8cb69c774a0800000000000000
+      internalID: -6595581664490825717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 59
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c1f2138875f0c0800000000000000
+      internalID: -4542592144779394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 135
+        width: 221
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09815c83ddbc91930800000000000000
+      internalID: 4114543885580310672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 142
+        width: 188
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d653b174e744c0800000000000000
+      internalID: -4303219741937970954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_sprite-animation-2d-computer-graphics-3d_xed738cr9N_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 140
+        width: 141
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88178f3753c9280800000000000000
+      internalID: -9035287980206356305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
