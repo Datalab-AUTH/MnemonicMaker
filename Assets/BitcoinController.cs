@@ -1,15 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
+//using UnityEditor;
 using UnityEngine;
 
 public class BitcoinController : MonoBehaviour
 {
     public GameObject bitcoinParent;
     public GameObject bitcoinParentNight;
+    public GameObject chestParent;
+    public GameObject chestParentNight;
     private List<Bitcoin> bitcoinList;
     private Bitcoin temp;
     private Bitcoin activeBitcoin;
     public bool lightsOn;
+
+    public TextAsset bitcoinData;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +23,8 @@ public class BitcoinController : MonoBehaviour
         bitcoinList = new List<Bitcoin>();
         createBitcoinItems(bitcoinParent);
         createBitcoinItems(bitcoinParentNight);
+        createBitcoinItems(chestParent);
+        createBitcoinItems(chestParentNight);
         temp = new Bitcoin();
         temp.BitcoinWords = new ItemEdit.ItemInfo[2];
         temp.BitcoinWords[0] = new ItemEdit.ItemInfo();
@@ -26,10 +34,79 @@ public class BitcoinController : MonoBehaviour
         temp.ItemWord = "In-development";
         temp.BitcoinID = -1;
         activeBitcoin = null;
-        switchLights(lightsOn);
+        switchLights(false); //disable bitcoin lights entirelly
         testBitcoin();
+        //logBitcoins();
     }
-    
+    /*
+    private void logBitcoins()
+    {
+        string path = "Assets/Resources/bitcoin_data.txt";
+
+        //Write some text to the test.txt file
+        StreamWriter writer = new StreamWriter(path, true);
+
+        writer.WriteLine("BitcoinsDay");
+        foreach (Transform child in bitcoinParent.transform)
+        {
+            ItemEdit itemInfo = child.GetComponent<ItemEdit>();
+            writer.WriteLine(child.localPosition.x + "," + child.localPosition.y + "-" + itemInfo.id + "," + itemInfo.itemName + ":"+ itemInfo.items[0].bitcoinName + "-" + itemInfo.items[1].bitcoinName);
+        }
+        writer.WriteLine("\n");
+        writer.WriteLine("BitcoinsNight");
+        foreach (Transform child in bitcoinParentNight.transform)
+        {
+            ItemEdit itemInfo = child.GetComponent<ItemEdit>();
+            writer.WriteLine(child.localPosition.x + "," + child.localPosition.y + "-" + itemInfo.id + "," + itemInfo.itemName + ":" + itemInfo.items[0].bitcoinName + "-" + itemInfo.items[1].bitcoinName);
+        }
+        writer.WriteLine("\n");
+        writer.WriteLine("chestParent");
+        foreach (Transform child in chestParent.transform)
+        {
+            writer.WriteLine(child.localPosition.x + "," + child.localPosition.y);
+            foreach (Transform chestChild in child)
+            {
+                if (!(chestChild.name == "MinimapTarget" || chestChild.name == "PickUpUI"
+                    || chestChild.name == "BitcoinSelfLight" || chestChild.name == "Fade"))
+                {
+                    ItemEdit itemInfoChest = chestChild.GetComponent<ItemEdit>();
+                    if (!itemInfoChest.itemName.Equals(""))
+                    {
+                        writer.WriteLine(itemInfoChest.id + "," + itemInfoChest.itemName + ":" + itemInfoChest.items[0].bitcoinName + "-" + itemInfoChest.items[1].bitcoinName);
+                    }
+
+                }
+            }
+        }
+        writer.WriteLine("\n");
+        writer.WriteLine("chestParentNight");
+        foreach (Transform child in chestParentNight.transform)
+        {
+            writer.WriteLine(child.localPosition.x + "," + child.localPosition.y);
+            foreach (Transform chestChild in child)
+            {
+                if (!(chestChild.name == "MinimapTarget" || chestChild.name == "PickUpUI"
+                    || chestChild.name == "BitcoinSelfLight" || chestChild.name == "Fade"))
+                {
+                    ItemEdit itemInfoChest = chestChild.GetComponent<ItemEdit>();
+                    if (!itemInfoChest.itemName.Equals(""))
+                    {
+                        writer.WriteLine(itemInfoChest.id + "," + itemInfoChest.itemName + ":" + itemInfoChest.items[0].bitcoinName + "-" + itemInfoChest.items[1].bitcoinName);
+                    }
+
+                }
+            }
+        }
+        writer.Close();
+
+        //Re-import the file to update the reference in the editor
+        AssetDatabase.ImportAsset(path);
+        TextAsset asset = Resources.Load("bitcoin_data") as TextAsset;
+
+        //Print the text from the file
+        Debug.Log(asset.text);
+    }*/
+
     private void testBitcoin()
     {
         HashSet<string> words = new HashSet<string>();
@@ -84,7 +161,8 @@ public class BitcoinController : MonoBehaviour
                 Chest chest = child.GetComponent<Chest>();
                 foreach(Transform chestChild in child)
                 {
-                    if(!(chestChild.name == "MinimapTarget" || chestChild.name == "PickUpUI" || chestChild.name == "BitcoinSelfLight"))
+                    if(!(chestChild.name == "MinimapTarget" || chestChild.name == "PickUpUI"
+                        || chestChild.name == "BitcoinSelfLight" || chestChild.name == "Fade"))
                     {
                         ItemEdit itemInfo = chestChild.GetComponent<ItemEdit>();
                         if (!itemInfo.itemName.Equals(""))
@@ -139,6 +217,12 @@ public class BitcoinController : MonoBehaviour
             if(bitcoin.BitcoinWords[0].bitcoinName.Equals(bitcoinName)
                 ||
                bitcoin.BitcoinWords[1].bitcoinName.Equals(bitcoinName))
+            {
+                return bitcoin;
+            }
+            if (bitcoin.BitcoinWords[0].bitcoinName==bitcoinName
+                ||
+               bitcoin.BitcoinWords[1].bitcoinName==bitcoinName)
             {
                 return bitcoin;
             }

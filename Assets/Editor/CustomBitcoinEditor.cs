@@ -57,11 +57,12 @@ public class CustomBitcoinEditor : MonoBehaviour
                 Debug.Log("Entering with j: " + j);
                 Debug.Log("Chest: " + chestCounter + " - Contain: "+ ndMatrix[chestCounter]);
                 Transform chestParent = taggedChests[chestCounter].transform;
-                //counter = 2 to skip "MinimapTarget" "PickUpUI"
-                for (int count = 2; count < 2 + ndMatrix[chestCounter]; count++)
+                //counter = 4 to skip "MinimapTarget" "PickUpUI" "Fade" "BitcoinSelfLight"
+                for (int count = 4; count < 4 + ndMatrix[chestCounter]; count++)
                 {
                     Transform slot = chestParent.GetChild(count);
-                    if (slot.name == "MinimapTarget" || slot.name == "PickUpUI")
+                    if (slot.name == "MinimapTarget" || slot.name == "PickUpUI"
+                        || slot.name == "BitcoinSelfLight" || slot.name == "Fade")
                     {
                         Debug.LogWarning("chest : " + chestParent.transform.name + " found a non-slot object");
                         // Not handling error
@@ -205,7 +206,8 @@ public class CustomBitcoinEditor : MonoBehaviour
                 Transform chestParent = taggedChests[chestCounter].transform;
                 foreach (Transform slot in chestParent)
                 {
-                    if (!(slot.name == "MinimapTarget" || slot.name == "PickUpUI" || slot.name == "BitcoinSelfLight"))
+                    if (!(slot.name == "MinimapTarget" || slot.name == "PickUpUI"
+                        || slot.name == "BitcoinSelfLight" || slot.name == "Fade"))
                     {
                         slot.GetComponent<ItemEdit>().id = 0;
                         slot.GetComponent<ItemEdit>().itemName = "";

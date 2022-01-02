@@ -14,7 +14,9 @@ public class Inventory : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
     public Sprite sprite1;//variant of true
     public Sprite sprite2;//variant of false
     public Sprite defaultSprite;
+    public Sprite defaultSlotSprite;
     public GameObject dragDummy;
+
     // Start is called before the first frame update
 
 
@@ -80,6 +82,29 @@ public class Inventory : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
         else if(item==null)
         {
             buttonSlot.GetComponent<InventoryHandler>().setImage(defaultSprite);
+        }
+
+        //check if pathfind
+        BIP39Game bip = GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39;
+        Pathfinding pathfind = GameObject.Find("ScriptLoader").GetComponent<Globals>().pathfinder.GetComponent<Pathfinding>();
+        if(buttonSlot != null && item != null && (bip.demo || bip.practice))
+        {
+            //slots[slotID];
+            if(pathfind.crossCheckPathfinder(slotID, slots[slotID]))
+            {
+                //lock
+                buttonSlot.GetComponent<InventoryHandler>().lockButton();
+            }
+            else
+            {
+                //unlock
+                buttonSlot.GetComponent<InventoryHandler>().unlockButton();
+            }
+        }
+        else if(buttonSlot != null && (bip.demo || bip.practice))
+        {
+            //unlock
+            buttonSlot.GetComponent<InventoryHandler>().unlockButton();
         }
 
         checkEndCondition();
@@ -162,6 +187,19 @@ public class Inventory : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
     {
         Debug.LogWarning("hover dropped : " + buttonID);
         string slotID = "";
+        if(buttonID == -1)
+        {//dropped in a locked button
+         //return it in place
+            InventoryItem itemThatWasDragged = slots[draggedID];
+
+            //re-set image
+            setItemInSlot(draggedID, itemThatWasDragged);
+
+            //data was not hurt.
+
+            Debug.Log("dropped in locked slot");
+            return;
+        }
         if(draggedID != -1) // fix for dragging empty slots.
         {
             int slotIDhovered = buttonID;
@@ -197,7 +235,7 @@ public class Inventory : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
                     //swap images
                     setItemInSlot(slotIDhovered, itemThatWasDragged); //dropped here 
                     setItemInSlot(draggedID, itemInSlotThatDropped);
-
+                    inventoryText.text = slots[slotIDhovered].itemName;
 
                     Debug.Log("dropped in occupied slot");
                 }
@@ -212,6 +250,7 @@ public class Inventory : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
                     //set image
                     setItemInSlot(slotIDhovered, itemThatWasDragged);
                     setItemInSlot(draggedID, null); //set transparent image
+                    inventoryText.text = slots[slotIDhovered].itemName;
 
                     Debug.Log("dropped in empty slot");
                 }

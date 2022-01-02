@@ -34,7 +34,7 @@ AnimationClip:
     - time: 0.85714287
       value: {fileID: 21300000, guid: 0d8299dd799c5ae44a2db52060eb752e, type: 3}
     attribute: m_Sprite
-    path: 
+    path: RabbitSprite
     classID: 212
     script: {fileID: 0}
   m_SampleRate: 7
@@ -45,7 +45,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 3384300232
       attribute: 0
       script: {fileID: 0}
       typeID: 212

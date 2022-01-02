@@ -118,6 +118,7 @@ public class BIP39Game : MonoBehaviour
             exit = 29;
             GameObject.Find("Character").GetComponent<SpriteController>().nodeID = 29;
         }
+        GameObject.Find("Character").GetComponent<SpriteController>().changeFloor(0);
         //Change camera 
         GameObject.Find("ScriptLoader").GetComponent<CinemachineSwitch>().triggerCameraSwitch(exit);
         if (!GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39.normal)
@@ -162,6 +163,24 @@ public class BIP39Game : MonoBehaviour
         //mnemonic = "fee ticket tuna crucial hole supply vendor web rely excuse night cannon";
         string[] mnemonicArray = new string[12];
         mnemonicArray = mnemonic.Split(' ');
+        string[] webglarray = mnemonic.Split(' ');
+        int counter = 0;
+        Debug.Log("mnemonic array count : " + mnemonicArray.Length);
+        Debug.Log("webgl array count : " + webglarray.Length);
+        foreach ( string s in mnemonicArray)
+        {
+            Debug.Log("[WEBGL DEBUG array] " + counter + ". " + s);
+            counter++;
+        }
+        foreach (string s in webglarray)
+        {
+            Debug.Log("[WEBGL DEBUG array] " + counter + ". " + s);
+            counter++;
+        }
+        for(int i=0; i<12; i++)
+        {
+            mnemonicArray[i] = mnemonicArray[i].Trim();
+        }
         print("Demo mnemonic : " + mnemonic);
         if (mnemonic == null)
         {
@@ -201,6 +220,7 @@ public class BIP39Game : MonoBehaviour
         //GameObject.Find("ScriptLoader").GetComponent<EffectManager>().changeEffects();
         currentMnemonicArray = mnemonic;
         warpText.text = warpsAvailable.ToString();
+        this.mnemonic = string.Join(" ", mnemonic);
     }
 
     private void createMnemonicRoute(string[] mnemonic)
@@ -220,6 +240,7 @@ public class BIP39Game : MonoBehaviour
                 bitcoin.Extras_bitcoinWord = word + " (In-development)";
                 bitcoin.Extras_variation = false;
             }
+            Debug.Log("[WEBGL DEBUG] Word: " + bitcoin.Extras_bitcoinWord + " has variation : " + bitcoin.Extras_variation);
             bitcoinList.Add(bitcoin);
         }
     }

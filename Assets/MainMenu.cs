@@ -27,6 +27,8 @@ public class MainMenu : MonoBehaviour
     public GameObject endPrompt;
     private bool endPromptVisible;
     public Button extractButton;
+    public Text extractHover;
+    public GameObject extractPanel;
     private BoatIntro biRef;
     // Start is called before the first frame update
     void Start()
@@ -35,6 +37,7 @@ public class MainMenu : MonoBehaviour
         bipReference = GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39;
         resolutions = new List<(int, int)>();
         //resolutions.Add((320, 180));
+#if UNITY_STANDALONE_WIN
         resolutions.Add((640, 360));
         resolutions.Add((960, 540));
         Resolution[] res = Screen.resolutions;
@@ -98,7 +101,7 @@ public class MainMenu : MonoBehaviour
             }
         }
         currentScreenMode = FullScreenMode.Windowed;
-
+#endif
 
         audioController = GameObject.Find("Audio").GetComponent<AudioLibrary>();
         //setMusicVolume(0.5f);
@@ -106,6 +109,7 @@ public class MainMenu : MonoBehaviour
         //setSFXVolume(0.666f);
     }
 
+    private bool extractClicked = false;
 
     public void showHideEndPrompt()
     {
@@ -124,16 +128,26 @@ public class MainMenu : MonoBehaviour
 
     public void extract()
     {
-        if (bipReference.normal)
-        {
-            GUIUtility.systemCopyBuffer = bipReference.getMnemonic();
-        }
-        else
-        { //same..
-            GUIUtility.systemCopyBuffer = bipReference.getMnemonic();
-        }
+        extractClicked = true;
+        string mnemonic = bipReference.getMnemonic();
+        GUIUtility.systemCopyBuffer = mnemonic;
+        extractHover.text = mnemonic;
         //copy to clipboard
         extractButton.transform.Find("ClipboardText").GetComponent<Text>().text = "Copied to Clipboard";
+        hover();
+    }
+
+    public void hover()
+    {
+        if (extractClicked)
+        {
+            extractPanel.SetActive(true);
+        }
+    }
+
+    public void exitHover()
+    {
+        extractPanel.SetActive(false);
     }
 
     public void inventoryFilled(Inventory.InventoryItem[] slots)
@@ -203,6 +217,8 @@ public class MainMenu : MonoBehaviour
 
     IEnumerator closePrompt(float delayTime)
     {
+        extractClicked = false;
+        extractHover.text = "";
         extractButton.transform.Find("ClipboardText").GetComponent<Text>().text = "Extract";
         if(endPromptVisible)
             endPrompt.GetComponent<Animator>().Play("EndPromptHide");
@@ -296,6 +312,7 @@ public class MainMenu : MonoBehaviour
 
     public void changeResLeft()
     {
+#if UNITY_STANDALONE_WIN
         if (currentResolutionID == 0)
         {
             currentResolutionID = resolutions.Count - 1;
@@ -306,11 +323,12 @@ public class MainMenu : MonoBehaviour
         }
         Screen.SetResolution(resolutions[currentResolutionID].Item1, resolutions[currentResolutionID].Item2, currentScreenMode);
         resolutionText.text = resolutions[currentResolutionID].Item1 + "x" + resolutions[currentResolutionID].Item2;
-
+#endif
     }
 
     public void changeResRight()
     {
+#if UNITY_STANDALONE_WIN
         if (currentResolutionID == resolutions.Count - 1)
         {
             currentResolutionID = 0;
@@ -321,10 +339,12 @@ public class MainMenu : MonoBehaviour
         }
         Screen.SetResolution(resolutions[currentResolutionID].Item1, resolutions[currentResolutionID].Item2, currentScreenMode);
         resolutionText.text = resolutions[currentResolutionID].Item1 + "x" + resolutions[currentResolutionID].Item2;
+#endif
     }
 
     public void changeScreenMode(int id)
     {
+#if UNITY_STANDALONE_WIN
         if(id == 0)
         {
             //fullscreen
@@ -348,6 +368,7 @@ public class MainMenu : MonoBehaviour
                 Screen.SetResolution(resolutions[currentResolutionID].Item1, resolutions[currentResolutionID].Item2, currentScreenMode);
             }
         }
+#endif
     }
 
     public void setMusicVolume(float value)

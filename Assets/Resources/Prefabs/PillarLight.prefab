@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 35326923823764204}
   - component: {fileID: 5372686840022244518}
   - component: {fileID: 880099587835731457}
-  - component: {fileID: 7913570141883924949}
   - component: {fileID: 6561756004303835143}
   - component: {fileID: 3443508859484188195}
+  - component: {fileID: 1681280445007093979}
   m_Layer: 15
   m_Name: PillarLight
   m_TagString: Untagged
@@ -75,8 +75,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
-  m_SortingOrder: 4
+  m_SortingLayer: 3
+  m_SortingOrder: 20
   m_Sprite: {fileID: 21300000, guid: a9c796c4d9c76d2418ac1b1a2041c7d1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -87,7 +87,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!114 &880099587835731457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100,39 +100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a3bf51d6845faf498e7accbca73e17b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tree: {fileID: 4137471410877706304}
---- !u!60 &7913570141883924949
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4137471410877706304}
-  m_Enabled: 0
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.45}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.35}
-    oldSize: {x: 0.75, y: 1.5}
-    newSize: {x: 1.4375, y: 2.6875}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.6796341, y: -0.1486826}
-      - {x: 0.06298828, y: -0.16275501}
-      - {x: 0.66828537, y: -0.17624474}
-      - {x: 0.5705719, y: 0.29815674}
-      - {x: 0.32243156, y: 1.0232611}
-      - {x: 0.0010375977, y: 1.350523}
-      - {x: -0.38518524, y: 0.89372826}
 --- !u!61 &6561756004303835143
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -184,7 +151,33 @@ MonoBehaviour:
   - {x: -0.2756977, y: 0.92204285, z: 0}
   m_ShapePathHash: -1534978923
   m_Mesh: {fileID: 0}
-  m_InstanceId: -822202
+  m_InstanceId: 746964
+--- !u!61 &1681280445007093979
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4137471410877706304}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.49831104}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.35}
+    oldSize: {x: 0.75, y: 1.5}
+    newSize: {x: 1.4375, y: 2.6875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.75, y: 1.0065632}
+  m_EdgeRadius: 0
 --- !u!1 &7240509308349862130
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,7 +330,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 21
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}

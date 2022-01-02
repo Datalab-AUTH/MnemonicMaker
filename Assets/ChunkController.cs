@@ -72,6 +72,7 @@ public class ChunkController : MonoBehaviour
         //Dont check for touch if char didnt move since last update
         if (!(char_x == save_x && char_y == save_y))
         {
+            bool change = false;
             save_x = char_x;
             save_y = char_y;
             //fix positions ..x - (id)*horizontal*chunk_size
@@ -137,6 +138,7 @@ public class ChunkController : MonoBehaviour
                         newChunk.transform.position = chunkParentPos;
                         gameObjectsLoaded.Add(newChunk);
                         chunksLoadedDict.Add(currentChunkIndex, newChunk);
+                        change = true;
                         break;
                     }
                 }
@@ -188,6 +190,7 @@ public class ChunkController : MonoBehaviour
                         newChunk.transform.position = chunkParentPos;
                         gameObjectsLoaded.Add(newChunk);
                         chunksLoadedDict.Add(c.getID(), newChunk);
+                        change = true;
                     }
                 }
 
@@ -227,11 +230,19 @@ public class ChunkController : MonoBehaviour
 
                 }
              */
+            characterRef.World = currentWorld;
+            characterRef.Dungeon = currentDungeon;
+            characterRef.Chunk = currentChunkIndex;
+            characterRef.nodeID = setToNodeID(currentWorld, currentDungeon, currentChunkIndex);
+
+            if (change) lightControl();
         }
-        characterRef.World = currentWorld;
-        characterRef.Dungeon = currentDungeon;
-        characterRef.Chunk = currentChunkIndex;
-        characterRef.nodeID = setToNodeID(currentWorld, currentDungeon, currentChunkIndex);
+        
+    }
+
+    private void lightControl()
+    {
+        GameObject.Find("ScriptLoader").GetComponent<EffectManager>().lightControl();
     }
 
     public int setToNodeID(string world, string dungeon, int chunk)
@@ -470,14 +481,13 @@ public class ChunkController : MonoBehaviour
         worlds[0].addDungeon(new Dungeon("Dungeon1", 0, 4, 3,0,1)); //81
         worlds[0].addDungeon(new Dungeon("Dungeon2", 1, 4, 3, 0, 2));
         worlds[0].addDungeon(new Dungeon("Dungeon3", 2, 4, 3, 0, 3));
-        worlds.Add(new World("GeminiIsland", 1, 4, 3,1,0, null)); //196
+        worlds.Add(null); //196
         worlds.Add(null);
         worlds.Add(new World("CrabIsland (Night)", 3, 4, 3, 3, 0, "CrabIsland")); //588
         worlds[3].addDungeon(new Dungeon("Dungeon1", 0, 4, 3, 3, 1));
         worlds[3].addDungeon(new Dungeon("Dungeon2", 1, 4, 3, 3, 2));
         worlds[3].addDungeon(new Dungeon("Dungeon3", 2, 4, 3, 3, 3));
         dictWorlds.Add("CrabIsland (Night)", worlds[3]);
-        dictWorlds.Add("GeminiIsland", worlds[1]);
     }
 
     private void buildChunks()

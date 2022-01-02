@@ -29,8 +29,29 @@ public class Globals : MonoBehaviour
         itemPanel.SetActive(false);
         inventory.SetActive(false);
         pathfinder.SetActive(false);
+#if UNITY_EDITOR
+        Debug.Log("Unity Editor detected");
+#endif
+
+#if UNITY_WEBGL
+        Debug.Log("WEBGL detected");
+        Debug.Log(" [START WEBGL] W: " + Screen.width + " H: " + Screen.height + " RR: " + Screen.currentResolution.refreshRate);
+        //Screen.SetResolution(1280, 720, FullScreenMode.ExclusiveFullScreen);
+        StartCoroutine(DelayAction(2f));
+#endif
+
+#if UNITY_STANDALONE_WIN
+        Debug.Log("WINDOWS detected");
         Debug.Log(" [START] W: " + Screen.width + " H: " + Screen.height + " RR: "+ Screen.currentResolution.refreshRate);
         Screen.SetResolution(1280, 720, FullScreenMode.Windowed, Screen.currentResolution.refreshRate);
         Debug.Log(" [CHANGE] W: 1280 H: 720 RR: " + Screen.currentResolution.refreshRate);
+#endif
+    }
+
+    IEnumerator DelayAction(float delayTime)
+    {
+        yield return new WaitForSeconds(delayTime);
+
+        Debug.Log(" [CHANGE WEBGL] W: " + Screen.width + " H: " + Screen.height + " RR: " + Screen.currentResolution.refreshRate);
     }
 }

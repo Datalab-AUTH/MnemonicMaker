@@ -72,8 +72,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingLayer: 3
+  m_SortingOrder: 20
   m_Sprite: {fileID: 21300000, guid: c4234121d9d3eee45880a5d4b9697cd0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!95 &2446338620179539264
 Animator:
   serializedVersion: 3
@@ -173,7 +173,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 1
   m_Sprite: {fileID: -58064394758864800, guid: d5aeac6179574a2479ed3b8b5dc6218b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -196,6 +196,14 @@ PrefabInstance:
     - target: {fileID: 4929131883043619104, guid: a684795cf9f15e340bc1824357353e56, type: 3}
       propertyPath: m_Name
       value: TorchLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929131883043619104, guid: a684795cf9f15e340bc1824357353e56, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929131883043619104, guid: a684795cf9f15e340bc1824357353e56, type: 3}
+      propertyPath: m_TagString
+      value: Light
       objectReference: {fileID: 0}
     - target: {fileID: 4929131883043621219, guid: a684795cf9f15e340bc1824357353e56, type: 3}
       propertyPath: m_Color.b

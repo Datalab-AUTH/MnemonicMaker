@@ -73,8 +73,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
-  m_SortingOrder: 4
+  m_SortingLayer: 3
+  m_SortingOrder: 20
   m_Sprite: {fileID: 21300000, guid: b25e68723b924e1468674d3eb5fec1c5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!58 &6095662256623282606
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -99,7 +99,7 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.6013489}
+  m_Offset: {x: 0, y: -0.52}
   serializedVersion: 2
   m_Radius: 0.6307068
 --- !u!114 &2152481883378878733
@@ -114,7 +114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a3bf51d6845faf498e7accbca73e17b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tree: {fileID: 3925977544196519907}
 --- !u!61 &3151935429752028072
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -128,10 +127,10 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.02234459, y: 0.5288143}
+  m_Offset: {x: -0.02234459, y: 1.8900682}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0.2}
     oldSize: {x: 1, y: 4.6875}
     newSize: {x: 1, y: 4.6875}
     adaptiveTilingThreshold: 0.5
@@ -139,7 +138,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.1936531, y: 3.6298714}
+  m_Size: {x: 1.1936531, y: 3.829735}
   m_EdgeRadius: 0
 --- !u!1001 &5556108053678718372
 PrefabInstance:
@@ -151,6 +150,10 @@ PrefabInstance:
     - target: {fileID: 2220100206565366221, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
       propertyPath: m_SortingOrder
       value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2220100206565366221, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2565343297536301509, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
       propertyPath: m_Name
@@ -169,12 +172,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4768818238535197180, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4768818238535197180, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4768818238535197180, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4768818238535197180, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.13
+      value: 2.112
       objectReference: {fileID: 0}
     - target: {fileID: 4768818238535197180, guid: aa0bede2a845fca4da1991b4e2873560, type: 3}
       propertyPath: m_LocalPosition.z

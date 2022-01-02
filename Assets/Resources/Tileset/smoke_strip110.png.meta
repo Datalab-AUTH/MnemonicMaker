@@ -1,0 +1,3136 @@
+fileFormatVersion: 2
+guid: e11b391ce8d6b9b44b9f2bb97e03b1f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8814321372621542742
+    second: smoke_strip110_0
+  - first:
+      213: -4849372747893190993
+    second: smoke_strip110_1
+  - first:
+      213: -1135997113155546414
+    second: smoke_strip110_2
+  - first:
+      213: 7086585405792553497
+    second: smoke_strip110_3
+  - first:
+      213: 3605797005377023623
+    second: smoke_strip110_4
+  - first:
+      213: -5915862385728483273
+    second: smoke_strip110_5
+  - first:
+      213: -9059715714160163676
+    second: smoke_strip110_6
+  - first:
+      213: -4082846901167261236
+    second: smoke_strip110_7
+  - first:
+      213: -1160775943154241776
+    second: smoke_strip110_8
+  - first:
+      213: 1604893908800956272
+    second: smoke_strip110_9
+  - first:
+      213: 1222230092647325144
+    second: smoke_strip110_10
+  - first:
+      213: 8075988514361474349
+    second: smoke_strip110_11
+  - first:
+      213: -4628478492962175692
+    second: smoke_strip110_12
+  - first:
+      213: -2904937926315147707
+    second: smoke_strip110_13
+  - first:
+      213: -5634497765873443837
+    second: smoke_strip110_14
+  - first:
+      213: 5052046317335382253
+    second: smoke_strip110_15
+  - first:
+      213: -4928894265829498246
+    second: smoke_strip110_16
+  - first:
+      213: 7293928565213002601
+    second: smoke_strip110_17
+  - first:
+      213: -2461758573494120068
+    second: smoke_strip110_18
+  - first:
+      213: -5669384404264183502
+    second: smoke_strip110_19
+  - first:
+      213: -6866598650183918968
+    second: smoke_strip110_20
+  - first:
+      213: -8462190550732537671
+    second: smoke_strip110_21
+  - first:
+      213: -4777079549868570605
+    second: smoke_strip110_22
+  - first:
+      213: -3576826862300301515
+    second: smoke_strip110_23
+  - first:
+      213: 4206986927273913979
+    second: smoke_strip110_24
+  - first:
+      213: 6841821737136647042
+    second: smoke_strip110_25
+  - first:
+      213: -5122413574298939027
+    second: smoke_strip110_26
+  - first:
+      213: -2894178110725549327
+    second: smoke_strip110_27
+  - first:
+      213: -6353750248958372940
+    second: smoke_strip110_28
+  - first:
+      213: 3342625090857138104
+    second: smoke_strip110_29
+  - first:
+      213: -7162342818942663841
+    second: smoke_strip110_30
+  - first:
+      213: 9215308043451069783
+    second: smoke_strip110_31
+  - first:
+      213: -5672574492807344242
+    second: smoke_strip110_32
+  - first:
+      213: -6622957572197435226
+    second: smoke_strip110_33
+  - first:
+      213: -2021669989272525585
+    second: smoke_strip110_34
+  - first:
+      213: 2169194510839064029
+    second: smoke_strip110_35
+  - first:
+      213: -735559226735459164
+    second: smoke_strip110_36
+  - first:
+      213: 1056631054926063021
+    second: smoke_strip110_37
+  - first:
+      213: 9188819632959431483
+    second: smoke_strip110_38
+  - first:
+      213: 1936982924467347224
+    second: smoke_strip110_39
+  - first:
+      213: -6917642649687141645
+    second: smoke_strip110_40
+  - first:
+      213: 3795117254288397919
+    second: smoke_strip110_41
+  - first:
+      213: -6000891497567514090
+    second: smoke_strip110_42
+  - first:
+      213: 5225684692912504195
+    second: smoke_strip110_43
+  - first:
+      213: -6131481643565382759
+    second: smoke_strip110_44
+  - first:
+      213: -7745947815036788527
+    second: smoke_strip110_45
+  - first:
+      213: -3252197502025438612
+    second: smoke_strip110_46
+  - first:
+      213: -3531684390720011106
+    second: smoke_strip110_47
+  - first:
+      213: 4555444432309955942
+    second: smoke_strip110_48
+  - first:
+      213: -2027900820316879753
+    second: smoke_strip110_49
+  - first:
+      213: -7426194575793568668
+    second: smoke_strip110_50
+  - first:
+      213: -3472244804124309930
+    second: smoke_strip110_51
+  - first:
+      213: -7694870249420308393
+    second: smoke_strip110_52
+  - first:
+      213: -3561603076966127065
+    second: smoke_strip110_53
+  - first:
+      213: -2617022756690925316
+    second: smoke_strip110_54
+  - first:
+      213: -8564019527332410594
+    second: smoke_strip110_55
+  - first:
+      213: 8948602662672131009
+    second: smoke_strip110_56
+  - first:
+      213: 6506579983223672249
+    second: smoke_strip110_57
+  - first:
+      213: 1136039267920411677
+    second: smoke_strip110_58
+  - first:
+      213: 4428710941233895378
+    second: smoke_strip110_59
+  - first:
+      213: 413033207022363829
+    second: smoke_strip110_60
+  - first:
+      213: 7057064724313157834
+    second: smoke_strip110_61
+  - first:
+      213: -5510106468593590293
+    second: smoke_strip110_62
+  - first:
+      213: 2890511746767008319
+    second: smoke_strip110_63
+  - first:
+      213: -1031657314614117563
+    second: smoke_strip110_64
+  - first:
+      213: 7312711435766798288
+    second: smoke_strip110_65
+  - first:
+      213: 653982734578110918
+    second: smoke_strip110_66
+  - first:
+      213: -7347347373198575381
+    second: smoke_strip110_67
+  - first:
+      213: 5459381547633743005
+    second: smoke_strip110_68
+  - first:
+      213: -8511737087634824632
+    second: smoke_strip110_69
+  - first:
+      213: -177817504227055718
+    second: smoke_strip110_70
+  - first:
+      213: -2720724194405658214
+    second: smoke_strip110_71
+  - first:
+      213: 1844806066303037043
+    second: smoke_strip110_72
+  - first:
+      213: 8551826830936951113
+    second: smoke_strip110_73
+  - first:
+      213: 8328481792256251294
+    second: smoke_strip110_74
+  - first:
+      213: -7743760072059829526
+    second: smoke_strip110_75
+  - first:
+      213: -4252332808423899819
+    second: smoke_strip110_76
+  - first:
+      213: -1402650990803786838
+    second: smoke_strip110_77
+  - first:
+      213: 4678174298796364337
+    second: smoke_strip110_78
+  - first:
+      213: 1400348247698278872
+    second: smoke_strip110_79
+  - first:
+      213: -5113372743607300230
+    second: smoke_strip110_80
+  - first:
+      213: -1655079929500945986
+    second: smoke_strip110_81
+  - first:
+      213: -1310363615403288451
+    second: smoke_strip110_82
+  - first:
+      213: -84245335039191395
+    second: smoke_strip110_83
+  - first:
+      213: 1708523122550270312
+    second: smoke_strip110_84
+  - first:
+      213: 218915105294361018
+    second: smoke_strip110_85
+  - first:
+      213: 3637959870249743855
+    second: smoke_strip110_86
+  - first:
+      213: 7605223044107777493
+    second: smoke_strip110_87
+  - first:
+      213: -2147902597760821799
+    second: smoke_strip110_88
+  - first:
+      213: 2834698918896188561
+    second: smoke_strip110_89
+  - first:
+      213: 8515915816686030801
+    second: smoke_strip110_90
+  - first:
+      213: 2230567671062970824
+    second: smoke_strip110_91
+  - first:
+      213: -5135846365535059523
+    second: smoke_strip110_92
+  - first:
+      213: -7240932516905726
+    second: smoke_strip110_93
+  - first:
+      213: -6152504739426215231
+    second: smoke_strip110_94
+  - first:
+      213: -2559375883211118546
+    second: smoke_strip110_95
+  - first:
+      213: 6795841209257552314
+    second: smoke_strip110_96
+  - first:
+      213: 5345853320286319210
+    second: smoke_strip110_97
+  - first:
+      213: -9054760177590680950
+    second: smoke_strip110_98
+  - first:
+      213: 516650760957800659
+    second: smoke_strip110_99
+  - first:
+      213: -993451058986024522
+    second: smoke_strip110_100
+  - first:
+      213: 2217100595328034554
+    second: smoke_strip110_101
+  - first:
+      213: -444795620791123374
+    second: smoke_strip110_102
+  - first:
+      213: 6690559045665184734
+    second: smoke_strip110_103
+  - first:
+      213: 4406427804875447168
+    second: smoke_strip110_104
+  - first:
+      213: 4616768021924668251
+    second: smoke_strip110_105
+  - first:
+      213: -6975938894658407017
+    second: smoke_strip110_106
+  - first:
+      213: -1301273761342045966
+    second: smoke_strip110_107
+  - first:
+      213: 7379719160405283788
+    second: smoke_strip110_108
+  - first:
+      213: -5470155138248521459
+    second: smoke_strip110_109
+  - first:
+      213: 870959071045031438
+    second: smoke_strip110_110
+  - first:
+      213: -2100766924295495502
+    second: smoke_strip110_111
+  - first:
+      213: 3310852903616654357
+    second: smoke_strip110_112
+  - first:
+      213: 7092991061539980884
+    second: smoke_strip110_113
+  - first:
+      213: -5996035794759353393
+    second: smoke_strip110_114
+  - first:
+      213: -6812198191645128634
+    second: smoke_strip110_115
+  - first:
+      213: 3015004427811266788
+    second: smoke_strip110_116
+  - first:
+      213: -7322537011040231098
+    second: smoke_strip110_117
+  - first:
+      213: 2434894573739814129
+    second: smoke_strip110_118
+  - first:
+      213: -7467560725695970693
+    second: smoke_strip110_119
+  - first:
+      213: 3736789296632882771
+    second: smoke_strip110_120
+  - first:
+      213: 4353743978295166396
+    second: smoke_strip110_121
+  - first:
+      213: 3785900866682323782
+    second: smoke_strip110_122
+  - first:
+      213: -9082463063893999610
+    second: smoke_strip110_123
+  - first:
+      213: 9022599416218881305
+    second: smoke_strip110_124
+  - first:
+      213: -2746671656370493817
+    second: smoke_strip110_125
+  - first:
+      213: -4631763709362004840
+    second: smoke_strip110_126
+  - first:
+      213: 3408201173499232277
+    second: smoke_strip110_127
+  - first:
+      213: 2116981583772931276
+    second: smoke_strip110_128
+  - first:
+      213: -4747568748734129205
+    second: smoke_strip110_129
+  - first:
+      213: 8649269124030217901
+    second: smoke_strip110_130
+  - first:
+      213: 7594162025441568070
+    second: smoke_strip110_131
+  - first:
+      213: 8741734677268435577
+    second: smoke_strip110_132
+  - first:
+      213: -7721751271598938154
+    second: smoke_strip110_133
+  - first:
+      213: 787295366464445340
+    second: smoke_strip110_134
+  - first:
+      213: -7029750713110454442
+    second: smoke_strip110_135
+  - first:
+      213: -6899031933153288914
+    second: smoke_strip110_136
+  - first:
+      213: -9203218398932225510
+    second: smoke_strip110_137
+  - first:
+      213: -4896891077213758746
+    second: smoke_strip110_138
+  - first:
+      213: 1839510077665540446
+    second: smoke_strip110_139
+  - first:
+      213: -6681783399804120441
+    second: smoke_strip110_140
+  - first:
+      213: -3773771140995554990
+    second: smoke_strip110_141
+  - first:
+      213: -8176982923237221970
+    second: smoke_strip110_142
+  - first:
+      213: 7687891984148851049
+    second: smoke_strip110_143
+  - first:
+      213: -4256798904346962481
+    second: smoke_strip110_144
+  - first:
+      213: 3332676156575502245
+    second: smoke_strip110_145
+  - first:
+      213: 5894238459476182320
+    second: smoke_strip110_146
+  - first:
+      213: 2776072807449049337
+    second: smoke_strip110_147
+  - first:
+      213: -8878876249575725734
+    second: smoke_strip110_148
+  - first:
+      213: 5921569734439377548
+    second: smoke_strip110_149
+  - first:
+      213: -3838739490490609978
+    second: smoke_strip110_150
+  - first:
+      213: -8694436843281408314
+    second: smoke_strip110_151
+  - first:
+      213: 5349322359420142036
+    second: smoke_strip110_152
+  - first:
+      213: -4718988923150860308
+    second: smoke_strip110_153
+  - first:
+      213: -7156282988932644992
+    second: smoke_strip110_154
+  - first:
+      213: -3958265225620951092
+    second: smoke_strip110_155
+  - first:
+      213: -6697716530538541184
+    second: smoke_strip110_156
+  - first:
+      213: 7014482042366276074
+    second: smoke_strip110_157
+  - first:
+      213: -4471941094014219783
+    second: smoke_strip110_158
+  - first:
+      213: 1618669690281532554
+    second: smoke_strip110_159
+  - first:
+      213: 1775963509846499013
+    second: smoke_strip110_160
+  - first:
+      213: -4048023199020412171
+    second: smoke_strip110_161
+  - first:
+      213: -6937761774756510599
+    second: smoke_strip110_162
+  - first:
+      213: -2307770639090954460
+    second: smoke_strip110_163
+  - first:
+      213: 5523907584768729618
+    second: smoke_strip110_164
+  - first:
+      213: 9170716031184361150
+    second: smoke_strip110_165
+  - first:
+      213: 4083003506248879270
+    second: smoke_strip110_166
+  - first:
+      213: 7134396482050145160
+    second: smoke_strip110_167
+  - first:
+      213: 8578592654584008817
+    second: smoke_strip110_168
+  - first:
+      213: -4757495037768969375
+    second: smoke_strip110_169
+  - first:
+      213: -3022571992858876724
+    second: smoke_strip110_170
+  - first:
+      213: 7652253579605921143
+    second: smoke_strip110_171
+  - first:
+      213: 2555716828491751258
+    second: smoke_strip110_172
+  - first:
+      213: 510363512674949786
+    second: smoke_strip110_173
+  - first:
+      213: 5357159008434837680
+    second: smoke_strip110_174
+  - first:
+      213: 4917950275727886916
+    second: smoke_strip110_175
+  - first:
+      213: 5371421494377110318
+    second: smoke_strip110_176
+  - first:
+      213: 6573684907321120987
+    second: smoke_strip110_177
+  - first:
+      213: 3364676014651778619
+    second: smoke_strip110_178
+  - first:
+      213: 418312935057486314
+    second: smoke_strip110_179
+  - first:
+      213: 6827478727230627434
+    second: smoke_strip110_180
+  - first:
+      213: 5383054051364188817
+    second: smoke_strip110_181
+  - first:
+      213: 1266667544332122380
+    second: smoke_strip110_182
+  - first:
+      213: -8720382662746422265
+    second: smoke_strip110_183
+  - first:
+      213: 4310227308947087556
+    second: smoke_strip110_184
+  - first:
+      213: 6408964807111885785
+    second: smoke_strip110_185
+  - first:
+      213: 4256744400819991491
+    second: smoke_strip110_186
+  - first:
+      213: -4001196310433112415
+    second: smoke_strip110_187
+  - first:
+      213: -7155328567298215782
+    second: smoke_strip110_188
+  - first:
+      213: -4777514235886957538
+    second: smoke_strip110_189
+  - first:
+      213: 4031427282782626089
+    second: smoke_strip110_190
+  - first:
+      213: 8000367445896037418
+    second: smoke_strip110_191
+  - first:
+      213: -123011526774568701
+    second: smoke_strip110_192
+  - first:
+      213: -6403313514669170967
+    second: smoke_strip110_193
+  - first:
+      213: -2101828565092640606
+    second: smoke_strip110_194
+  - first:
+      213: -5242169911132206165
+    second: smoke_strip110_195
+  - first:
+      213: 8791377428673702499
+    second: smoke_strip110_196
+  - first:
+      213: 5544590424350365212
+    second: smoke_strip110_197
+  - first:
+      213: 6949599877907082163
+    second: smoke_strip110_198
+  - first:
+      213: 956663080041372175
+    second: smoke_strip110_199
+  - first:
+      213: 8974973595967513778
+    second: smoke_strip110_200
+  - first:
+      213: -5573868653084620735
+    second: smoke_strip110_201
+  - first:
+      213: 2105023629466791267
+    second: smoke_strip110_202
+  - first:
+      213: -526319776144852171
+    second: smoke_strip110_203
+  - first:
+      213: -1609693356966282599
+    second: smoke_strip110_204
+  - first:
+      213: 4378655676474139240
+    second: smoke_strip110_205
+  - first:
+      213: 1388878043831890525
+    second: smoke_strip110_206
+  - first:
+      213: -192502992979166580
+    second: smoke_strip110_207
+  - first:
+      213: 872956444852393165
+    second: smoke_strip110_208
+  - first:
+      213: 6054314884873430946
+    second: smoke_strip110_209
+  - first:
+      213: 4908743773840818135
+    second: smoke_strip110_210
+  - first:
+      213: -8349480997872974974
+    second: smoke_strip110_211
+  - first:
+      213: 8173841752432349519
+    second: smoke_strip110_212
+  - first:
+      213: -5159001017215535162
+    second: smoke_strip110_213
+  - first:
+      213: -8458959524322121166
+    second: smoke_strip110_214
+  - first:
+      213: 7702627853887293364
+    second: smoke_strip110_215
+  - first:
+      213: -2321450184990547211
+    second: smoke_strip110_216
+  - first:
+      213: -4651448498940047178
+    second: smoke_strip110_217
+  - first:
+      213: -3024844256894052474
+    second: smoke_strip110_218
+  - first:
+      213: 3254276892765387594
+    second: smoke_strip110_219
+  - first:
+      213: 3964516151065853283
+    second: smoke_strip110_220
+  - first:
+      213: 6504432494236082783
+    second: smoke_strip110_221
+  - first:
+      213: -7780379468491634484
+    second: smoke_strip110_222
+  - first:
+      213: -1528501602674754771
+    second: smoke_strip110_223
+  - first:
+      213: -8717281117147576174
+    second: smoke_strip110_224
+  - first:
+      213: -5408036056452412858
+    second: smoke_strip110_225
+  - first:
+      213: 1308234605862660653
+    second: smoke_strip110_226
+  - first:
+      213: 8415921508091115660
+    second: smoke_strip110_227
+  - first:
+      213: 7028068420846713971
+    second: smoke_strip110_228
+  - first:
+      213: -4507294923012651426
+    second: smoke_strip110_229
+  - first:
+      213: 6740029853100068140
+    second: smoke_strip110_230
+  - first:
+      213: 229727462505657557
+    second: smoke_strip110_231
+  - first:
+      213: -1596601476218328750
+    second: smoke_strip110_27
+  - first:
+      213: 7925000599501988216
+    second: smoke_strip110_28
+  - first:
+      213: -38756566186302155
+    second: smoke_strip110_9
+  - first:
+      213: 4061290639922483898
+    second: smoke_strip110_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke_strip110_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa62c0796d3da580800000000000000
+      internalID: -8814321372621542742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faecd5acd2193bcb0800000000000000
+      internalID: -4849372747893190993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29e74f4a02c30f0800000000000000
+      internalID: -1135997113155546414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8bb651eb985260800000000000000
+      internalID: 7086585405792553497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2aa5a54d5a0230800000000000000
+      internalID: 3605797005377023623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301f86f082a6eda0800000000000000
+      internalID: -5915862385728483273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48573fe8c654280800000000000000
+      internalID: -9059715714160163676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fe9f0060d657c0800000000000000
+      internalID: -4082846901167261236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe8740e6814efe0800000000000000
+      internalID: -1160775943154241776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd590a2bcb36f010800000000000000
+      internalID: 1222230092647325144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d76a0f3cca31070800000000000000
+      internalID: 8075988514361474349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354478555754cfb0800000000000000
+      internalID: -4628478492962175692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54efc67d8569fa7d0800000000000000
+      internalID: -2904937926315147707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9161822e3ec1b0800000000000000
+      internalID: -5634497765873443837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de88895db597c1640800000000000000
+      internalID: 5052046317335382253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e5c597cc099bb0800000000000000
+      internalID: -4928894265829498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b789a926d393560800000000000000
+      internalID: 7293928565213002601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715c10de9316ddd0800000000000000
+      internalID: -2461758573494120068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23991b80cec4251b0800000000000000
+      internalID: -5669384404264183502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5c9098e0f4b0a0800000000000000
+      internalID: -6866598650183918968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08be95782409a80800000000000000
+      internalID: -8462190550732537671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_22
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3180d4e957764bdb0800000000000000
+      internalID: -4777079549868570605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f3896bee8c5ec0800000000000000
+      internalID: -3576826862300301515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_24
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eafde1258326a30800000000000000
+      internalID: 4206986927273913979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_25
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6392de9803fe50800000000000000
+      internalID: 6841821737136647042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d54f6ef789e8b0800000000000000
+      internalID: -5122413574298939027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_29
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f8d56fc3636e20800000000000000
+      internalID: 3342625090857138104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_30
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f534a55672f3a9c90800000000000000
+      internalID: -7162342818942663841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_32
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc64aad87f641b0800000000000000
+      internalID: -5672574492807344242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_33
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a830b29d278614a0800000000000000
+      internalID: -6622957572197435226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_34
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e7542bd591f3e0800000000000000
+      internalID: -2021669989272525585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_35
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd52a4b2ae68a1e10800000000000000
+      internalID: 2169194510839064029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_36
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a40c2bc7c4cac5f0800000000000000
+      internalID: -735559226735459164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_37
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a38f9858e9ae00800000000000000
+      internalID: 1056631054926063021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_38
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33aeaf85ce358f70800000000000000
+      internalID: 9188819632959431483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_39
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 0
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f9fdc05bb81ea10800000000000000
+      internalID: 1936982924467347224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_40
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 0
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25e4e49a89fff90800000000000000
+      internalID: -6917642649687141645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_41
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56d0de0907faa430800000000000000
+      internalID: 3795117254288397919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_42
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61293df1afc88bca0800000000000000
+      internalID: -6000891497567514090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_43
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dfe359a8c558840800000000000000
+      internalID: 5225684692912504195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_44
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99305706ee998eaa0800000000000000
+      internalID: -6131481643565382759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_45
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e404808dd08490800000000000000
+      internalID: -7745947815036788527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_46
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 0
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6c505a9fddd2d0800000000000000
+      internalID: -3252197502025438612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_47
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94875022cfecfec0800000000000000
+      internalID: -3531684390720011106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_48
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66daddd4390383f30800000000000000
+      internalID: 4555444432309955942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_49
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740a4db2f27bd3e0800000000000000
+      internalID: -2027900820316879753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_50
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46444e4016bd0f890800000000000000
+      internalID: -7426194575793568668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_51
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 0
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65689f45fbb10dfc0800000000000000
+      internalID: -3472244804124309930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_52
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c49ef644563590800000000000000
+      internalID: -7694870249420308393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_53
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 0
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aee762fd4a29ec0800000000000000
+      internalID: -3561603076966127065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_54
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e25a1ba77eabd0800000000000000
+      internalID: -2617022756690925316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_55
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 0
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc7df2d9d762980800000000000000
+      internalID: -8564019527332410594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_56
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 0
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3efa0c5b2df2c70800000000000000
+      internalID: 8948602662672131009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_57
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc6ba75040c4a50800000000000000
+      internalID: 6506579983223672249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_58
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 0
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7a47f1b504cf00800000000000000
+      internalID: 1136039267920411677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_59
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 0
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d1210321f57d30800000000000000
+      internalID: 4428710941233895378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_60
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 0
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4220173836bb500800000000000000
+      internalID: 413033207022363829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_61
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 0
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac030a11afabfe160800000000000000
+      internalID: 7057064724313157834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_62
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 0
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef95e05c5b2883b0800000000000000
+      internalID: -5510106468593590293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_63
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 0
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32342d7e192d1820800000000000000
+      internalID: 2890511746767008319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_64
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 0
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bfd786321dea1f0800000000000000
+      internalID: -1031657314614117563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_65
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 0
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d711d17e48fb7560800000000000000
+      internalID: 7312711435766798288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_66
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 0
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c154c705d9631900800000000000000
+      internalID: 653982734578110918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_67
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 0
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87913fd7af80a90800000000000000
+      internalID: -7347347373198575381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_68
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941800b79e93cb40800000000000000
+      internalID: 5459381547633743005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_69
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 0
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422206473c30e980800000000000000
+      internalID: -8511737087634824632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_70
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 0
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9723b90ce3488df0800000000000000
+      internalID: -177817504227055718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_71
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 0
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d3ac92cb0e3ad0800000000000000
+      internalID: -2720724194405658214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_72
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e6a75d7511a9910800000000000000
+      internalID: 1844806066303037043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_73
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 0
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c6a671313ea670800000000000000
+      internalID: 8551826830936951113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_74
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 0
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951eb95016b49370800000000000000
+      internalID: 8328481792256251294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_75
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2450f1e33a88490800000000000000
+      internalID: -7743760072059829526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_76
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 0
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d772f27ddacf4c0800000000000000
+      internalID: -4252332808423899819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_77
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36a4dfa58c88ce0800000000000000
+      internalID: -1402650990803786838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_78
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 0
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329e1d1db63ce040800000000000000
+      internalID: 4678174298796364337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_79
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 0
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d985e9df490f6310800000000000000
+      internalID: 1400348247698278872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_80
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 0
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4f1dd496a909b0800000000000000
+      internalID: -5113372743607300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_81
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 0
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b737b299f709e0800000000000000
+      internalID: -1655079929500945986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_82
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 0
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785a410c37a0dde0800000000000000
+      internalID: -1310363615403288451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_83
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96510b6053b4def0800000000000000
+      internalID: -84245335039191395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_84
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86966225ab4e5b710800000000000000
+      internalID: 1708523122550270312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_85
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 0
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a90fd02eb90300800000000000000
+      internalID: 218915105294361018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_86
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 0
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bc5d2a31ac7230800000000000000
+      internalID: 3637959870249743855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_87
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 0
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b8ad701e2b8960800000000000000
+      internalID: 7605223044107777493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_88
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 0
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d358a7fd1132e0800000000000000
+      internalID: -2147902597760821799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_89
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 0
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cbdf9d5afd65720800000000000000
+      internalID: 2834698918896188561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_90
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 0
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df83b6e05c9e2670800000000000000
+      internalID: 8515915816686030801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_91
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 0
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cd219a7194fe10800000000000000
+      internalID: 2230567671062970824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_92
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 0
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14d4101fec9b8b0800000000000000
+      internalID: -5135846365535059523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_93
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dbc75096646eff0800000000000000
+      internalID: -7240932516905726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_94
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 0
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad79f6989ed9aa0800000000000000
+      internalID: -6152504739426215231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_95
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 0
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ef72c1354b7cd0800000000000000
+      internalID: -2559375883211118546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_96
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e1cbe29daf4e50800000000000000
+      internalID: 6795841209257552314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_97
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6232017549403a40800000000000000
+      internalID: 5345853320286319210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_98
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ca58b797075280800000000000000
+      internalID: -9054760177590680950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_99
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d033d731238b2700800000000000000
+      internalID: 516650760957800659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_100
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1076f768d8632f0800000000000000
+      internalID: -993451058986024522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_101
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a5d7ae39b4ce10800000000000000
+      internalID: 2217100595328034554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_102
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 0
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25288115db4c3d9f0800000000000000
+      internalID: -444795620791123374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_103
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb56a10104a9dc50800000000000000
+      internalID: 6690559045665184734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_104
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b51060eb6c62d30800000000000000
+      internalID: 4406427804875447168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_105
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 0
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e3352e0e021040800000000000000
+      internalID: 4616768021924668251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_106
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795fd01198c703f90800000000000000
+      internalID: -6975938894658407017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_107
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cba39862f0fde0800000000000000
+      internalID: -1301273761342045966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_27
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 0
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596422aa6bb7d9e0800000000000000
+      internalID: -1596601476218328750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_28
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e21a8e024bfd60800000000000000
+      internalID: 7925000599501988216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53560cfbb1f467ff0800000000000000
+      internalID: -38756566186302155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d91a1a770a6660800000000000000
+      internalID: 7379719160405283788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_31
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d232c15a9c5830800000000000000
+      internalID: 4061290639922483898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_strip110_109
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094b6642ea1614b0800000000000000
+      internalID: -5470155138248521459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

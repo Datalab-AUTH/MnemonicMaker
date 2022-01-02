@@ -1,0 +1,1118 @@
+BitcoinsDay
+8.5,15.5-0,Microlith of Dementia:fee-trade
+6.5,20.5-1,Hero Statuette:dash-rabbit
+3.5,25.5-2,Mantle of Invincibility:state-cabbage
+19.5,20.5-3,Scroll of the Void:embody-tube
+33.5,2.5-4,Serenity Tome:sadness-economy
+42.5,7.5-5,Goblet of Depravity:river-heart
+23.5,22.5-6,Hide of Riddles:town-inform
+40.5,21.5-7,Dream Bracelet:business-inner
+36.5,25.5-8,Chest of the Oracle:predict-planet
+16.5,8.5-9,Titan Chalice:shallow-move
+24.5,9.5-10,Death's Slab:ozone-doll
+50.5,22.5-11,Faith's Root:immune-cliff
+63.5,18.5-12,Death's Ring:trigger-blossom
+53.5,16.5-13,Binding Grail:flash-axis
+60.5,8.5-14,Malevolence Crown:ticket-sign
+65.5,10.5-15,Monolith of Chaos:congress-plunge
+69.5,17.5-16,Letters of Fortitude:opera-rookie
+71.5,7.5-17,Hide of Acrimony:rate-under
+81.5,5.5-18,Feather of Enthrallment:island-gasp
+85.5,5.5-19,Shadow Shield:cherry-apple
+95.5,10.5-20,Desire's Tome:beach-dust
+7.5,32.5-21,Alchemy Shard:trouble-aware
+4.5,37.5-22,Chest of Wisdom:clap-balcony
+14.5,39.5-23,Slab of Malevolence:album-train
+20.5,35.5-24,Warding Mantle:creek-avocado
+26.5,37.5-25,Gauntlet of Lunacy:crucial-list
+37.5,40.5-26,Cup of Absorbing:accuse-supply
+22.5,50.5-27,Feather of Infinity:rescue-wood
+15.5,49.5-28,Monolith of Seduction:joke-tribe
+47.5,37.5-29,Longevity Pillar:pilot-coral
+42.5,45.5-30,Instrument of Depravity:flat-pluck
+30.5,53.5-31,Absorbing Horn:core-slogan
+53.5,50.5-32,Grail of Storms:rain-balance
+60.5,47.5-33,Equinox Door:unlock-attitude
+62.5,48.5-34,Door of Invocation:alley-return
+62.5,38.5-35,Ring of Revival:remind-credit
+51.5,34.5-36,Fountain of the Elements:glory-armor
+75.5,33.5-37,Fruit of Blessings:truly-country
+90.5,33.5-38,Band of Birth:silver-dignity
+83.5,44.5-39,Dread Shard:tail-ripple
+66.5,53.5-40,Tiara of Life:page-clinic
+96.5,43.5-41,Chalice of Persecution:horn-palm
+86.5,52.5-42,Domination Elixir:tuna-fantasy
+103.5,45.5-43,Disc of Dismay:city-raccoon
+130.5,38.5-44,Jar of Benediction:chuckle-hole
+135.5,39.5-45,Mantle of the Cosmos:treat-item
+126.5,42.5-46,Teleportation Slab:carbon-head
+119.5,42.5-47,Athanasia Arch:undo-define
+127.5,50.5-48,Spirit Seal:pool-naive
+117.5,51.5-49,Feather of Toxin:horror-hold
+111.5,52.5-50,Judging Slab:age-employ
+136.5,48.5-51,Finality Inscriptions:become-lunar
+145.5,50.5-52,Hide of Eternal Slumber:stand-melody
+99.5,49.5-53,Necklace of Grace:beauty-young
+108.5,53.5-54,Life's Cylinder:soul-hospital
+135.5,51.5-55,Shard of Oaths:junior-crawl
+149.5,47.5-56,Celestial Horn:animal-dynamic
+22.5,60.5-57,Wisdom Instrument:table-rude
+7.5,73.5-58,Lamp of Wishes:physical-like
+16.5,74.5-59,Purity Hide:common-isolate
+22.5,77.5-60,Lust's Pillar:attend-almost
+32.5,74.5-61,Fountain of Passion:across-urge
+29.5,62.5-63,Charming Microlith:peace-group
+27.5,66.5-62,Anarchy Book:paper-demise
+10.5,69.5-64,Hatred's Lamp:immense-oven
+45.5,60.5-65,Chest of Remedies:decorate-amused
+42.5,78.5-66,Shield of the Gods:endless-absorb
+37.5,74.5-67,Hallowed Necklace:high-team
+60.5,57.5-68,Elemental Slab:base-match
+50.5,62.5-69,Cloak of Fortitude:leaf-defy
+57.5,66.5-70,Black Magic Seal:camera-artwork
+51.5,70.5-71,Band of Malevolence:cash-wage
+58.5,72.5-72,Vice Tome:time-addict
+64.5,70.5-73,Rebirth Goblet:hobby-cattle
+70.5,70.5-74,Jar of Peace:expand-month
+64.5,59.5-75,Angel Grimoire:benefit-snow
+79.5,65.5-76,Diabolic Skull:light-adult
+74.5,72.5-77,Scroll of Specters:sustain-mimic
+85.5,69.5-78,Aurora Shard:bench-stage
+88.5,66.5-79,Equinox Ark:quality-enough
+88.5,59.5-80,Summoning Ring:estate-surface
+92.5,56.5-81,Sentient Canopic Jar:noodle-learn
+97.5,65.5-82,Fountain of Black Magic:lawsuit-night
+90.5,73.5-83,Enigma Bracelet:excuse-shed
+94.5,59.5-84,Sentient Disc:metal-rely
+95.5,72.5-85,Shade Circlet:web-pole
+114.5,74.5-86,Boots of Charming:vendor-abandon
+117.5,69.5-87,Cup of Oblivion:cannon-captain
+123.5,70.5-88,Fate's Tablet:stock-decade
+120.5,58.5-89,Fortune's Grimoire:journey-abstract
+125.5,55.5-90,Blazing Canopic Jar:wedding-suggest
+144.5,57.5-91,Sentient Canopic Chest:fiction-acquire
+140.5,63.5-92,Shard of Wisdom:essay-chapter
+130.5,57.5-93,Aurora Cube:ceiling-pipe
+131.5,61.5-94,Hide of Resurrection:enforce-cycle
+102.5,67.5-95,Prime Chest:comfort-style
+106.5,70.5-96,Cloak of Repelling:oval-solve
+109.5,75.5-97,Guardian's Feather:outer-angry
+109.5,60.5-98,Shade Chest:dizzy-ketchup
+115.5,56.5-99,Infinity Skull:loyal-design
+113.5,66.5-100,Urn of Malady:essence-smoke
+131.5,67.5-101,Destiny's Hide:second-nothing
+134.5,73.5-102,Hallowed Mirror:battle-buffalo
+141.5,75.5-103,Monolith of Youth:behind-enroll
+139.5,66.5-104,Vice Hand:inmate-example
+146.5,68.5-105,Statue of Fortune:start-napkin
+151.5,79.5-106,Goblet of Immobilizing:will-garbage
+148.5,57.5-107,Canopic Chest of Delirium:more-right
+156.5,57.5-108,Temptation Slab:erase-divide
+163.5,62.5-109,Virility Ichor:struggle-faculty
+163.5,56.5-110,Grave Rod:gadget-doctor
+172.5,61.5-111,Chest of Resurrection:thing-stereo
+174.5,71.5-112,Urn of Fortune:embark-pigeon
+172.5,74.577-113,Elemental Canopic Chest:equip-typical
+163.5,75.5-114,Cube of Fortune:nose-crazy
+154.5,65.5-115,Summoning Arch:insect-brick
+38.5,89.5-116,Decimation Scroll:palace-govern
+24.5,93.5-117,Scroll of Fertility:actor-pig
+13.5,95.5-118,Runed Tome:save-access
+12.5,100.5-119,Pandemonium Scroll:stick-onion
+19.5,106.5-120,Bracelet of Secrets:since-broken
+30.5,106.5-121,Key of Massacres:pond-brother
+47.5,84.5-122,Massacre Ring:earn-liar
+88.5,84.5-123,Band of Toxin:explain-attack
+71.5,95.5-124,Staff of Speed:deny-worth
+70.5,102.5-125,Ice Canopic Chest:laptop-banana
+82.5,104.5-126,Cursed Cloak:arrow-sleep
+85.5,97.5-127,Texts of Fertility:cave-merry
+102.5,87.5-128,Delirium Instrument:blanket-icon
+118.5,90.5-129,Elemental Lamp:stomach-luggage
+125.5,86.5-130,Cloak of Fate:nation-maple
+110.5,102.5-131,Venom Skull:robust-fossil
+125.5,102.5-132,Inscriptions of Wisdom:print-angle
+161.5,91.5-133,Guardian Door:vast-reward
+165.5,105.5-134,Sanctifying Ring:shy-keep
+175.5,101.5-135,Warding Key:floor-warfare
+169.5,95.5-136,Golden Symbols:manual-always
+9.5,118.5-137,Sanctifying Grail:weird-keen
+12.5,126.5-138,Elixir of Betrayal:thrive-divorce
+25.5,121.5-139,Grimoire of Grace:invest-annual
+69.5,119.5-140,Feather of Decadence:advance-average
+116.5,122.5-141,Rod of Affluence:knee-twice
+115.5,129.5-142,Goblet of Desire:hedgehog-wall
+122.5,122.5-143,Instrument of the Void:begin-size
+108.5,125.5-144,Instrument of Courage:interest-audit
+11.5,153.5-145,Diabolic Bracelet:sample-ginger
+21.5,145.5-146,Key of Banishment:off-assault
+19.5,153.5-147,Tiara of Angels:fancy-update
+18.5,263.5-148,Metamorphosis Tiara:glide-chest
+12.5,252.5-149,Feather of Transmutation:market-patrol
+23.5,249.5-150,Onyx Chalice:thought-dune
+36.5,252.5-151,Eradication Scroll:stamp-wrong
+73.5,260.5-152,Valor's Monolith:reason-gate
+73.5,252.5-153,Destiny's Amulet:cup-buzz
+67.5,247.5-154,Tablet of Dismay:dove-length
+84.5,261.5-155,Slumber Monolith:play-refuse
+117.5,257.5-156,Monolith of Dementia:affair-arch
+127.5,247.5-157,Book of Storms:acoustic-belt
+111.5,261.5-158,Serenity Disc:diet-truth
+129.5,261.5-159,Hide of Protection:room-fragile
+163.5,252.5-160,Seal of Spirits:fury-prize
+167.5,260.5-161,Arch of Dreams:betray-matrix
+182.5,249.5-162,Letters of Sight:brave-wool
+12.5,285.5-163,Thunder Sandals:member-glow
+26.5,279.5-164,Titan Staff:report-please
+11.5,279.5-165,Canopic Jar of Charming:frown-swift
+26.5,290.5-166,Feather of Revival:bright-when
+36.5,285.5-167,Inscriptions of Destiny:asthma-anger
+71.5,277.5-168,Tranquility Hand:cactus-bean
+69.5,290.5-169,Annihilation Robes:worry-alien
+80.5,279.5-170,Ark of the Void:hope-critic
+67.5,282.5-171,Infinity Cube:shield-area
+125.5,287.5-172,Enigmatic Hide:spare-biology
+127.5,282.5-173,Doom Ark:cloud-knock
+112.5,279.5-174,Petrifying Disc:good-tent
+134.5,288.5-175,Decay Boots:tomato-post
+168.5,279.5-176,Elemental Tome:recall-fine
+176.5,291.5-177,Goblet of Frost:hour-crane
+161.5,279.5-178,Dominion Statue:rigid-found
+179.5,276.5-179,Microlith of Immunity:category-foot
+165.5,274.5-180,Necklace of Invocation:language-man
+
+
+BitcoinsNight
+8.5,15.5-202,Grimoire of Wisdom:mass-cart
+6.5,20.5-181,Hungering Cylinder:submit-energy
+3.5,25.5-246,Divine Slab:parrot-silk
+19.5,20.5-213,Bracelet of Doom:champion-scrub
+33.5,2.5-334,Tiara of Potency:domain-spring
+42.5,7.5-276,Enigma Skull:pumpkin-vault
+23.5,22.5-343,Liberty Fruit:strike-volume
+40.5,21.5-327,Fate's Tiara:chair-mango
+36.5,25.5-291,Seal of Athanasia:machine-people
+16.5,8.5-234,Ring of Malediction:ring-tongue
+24.5,9.5-346,Hallowed Texts:culture-miracle
+50.5,22.5-273,Ring of Venom:baby-habit
+63.5,18.5-235,Mending Sandals:pupil-guilt
+53.5,16.5-310,Seal of Acrimony:deal-damp
+60.5,8.5-242,Triumph Instrument:sand-sing
+65.5,10.5-210,Arch of Guardians:family-rival
+69.5,17.5-249,Robes of Lunacy:swear-again
+71.5,7.5-219,Sword of Gold:abuse-arrive
+81.5,5.5-268,Hand of Sanctification:express-portion
+85.5,5.5-265,Gem of Wishes:orphan-coast
+95.5,10.5-236,Gauntlet of Fire:borrow-build
+7.5,32.5-282,Chalice of Passion:repeat-trap
+4.5,37.5-254,Azure Robes:panic-grace
+14.5,39.5-295,Eclipse Stone:cradle-fever
+20.5,35.5-322,Runes of Invincibility:program-mistake
+26.5,37.5-243,Monolith of Flame:crash-degree
+37.5,40.5-283,Door of Knowledge:need-random
+22.5,50.5-232,Extinction Boots:pear-split
+15.5,49.5-307,Summoning Letters:vital-motor
+47.5,37.5-250,Microlith of Ice:empty-autumn
+42.5,45.5-224,Wisdom Statue:goat-inch
+30.5,53.5-296,Valor's Canopic Jar:aunt-melt
+53.5,50.5-216,Scroll of Angels:orient-meadow
+60.5,47.5-344,Stone of Persecution:current-short
+62.5,48.5-272,Inscriptions of Repelling:exit-wire
+62.5,38.5-315,Frost Tome:evil-another
+51.5,34.5-300,Aethereal Hide:evoke-live
+75.5,33.5-340,Darkness Tome:narrow-spice
+90.5,33.5-237,Black Magic Disc:aim-pattern
+83.5,44.5-184,Canopic Jar of Treachery:apology-stone
+66.5,53.5-193,Elixir of Honesty:field-genius
+96.5,43.5-319,Grimoire of Temptation:six-ocean
+86.5,52.5-185,Rod of Affluence:vanish-virus
+103.5,45.5-286,Grimoire of Chaos:entry-popular
+130.5,38.5-197,Statue of Serendipity:away-jar
+135.5,39.5-261,Seraphic Boots:episode-road
+126.5,42.5-222,Longevity Crown:mule-robot
+119.5,42.5-347,Robes of Birth:seat-escape
+127.5,50.5-317,Equinox Staff:injury-federal
+117.5,51.5-290,Nightmare Monolith:chunk-citizen
+111.5,52.5-288,Amulet of Ruination:erode-dish
+136.5,48.5-308,Slab of the Elements:pulse-pet
+145.5,50.5-341,Longevity Grail:mean-purchase
+99.5,49.5-229,Bracelet of Evil:ramp-forest
+108.5,53.5-328,Misfortune Root:use-stem
+135.5,51.5-190,Hungering Robes:grain-orange
+149.5,47.5-313,Spellbound Gauntlet:illegal-vocal
+22.5,60.5-214,Texts of Metamorphosis:option-now
+7.5,73.5-281,Lust's Cylinder:coyote-situate
+16.5,74.5-227,Mirror of Truth:warrior-eight
+22.5,77.5-257,Sword of Blessings:chef-primary
+32.5,74.5-357,Arch of Oblivion:ski-scale
+27.5,66.5-248,Paramount Shard:media-forget
+29.5,62.5-292,Decimation Slab:address-monster
+10.5,69.5-324,Texts of Malediction:put-element
+45.5,60.5-284,Instrument of Pain:toss-unfold
+42.5,78.5-264,Ichor of Blights:private-inhale
+37.5,74.5-339,Horn of Shapeshifting:unfair-gas
+60.5,57.5-297,Hide of Absorbing:barely-together
+50.5,62.5-251,Monolith of the Elements:carry-meat
+57.5,66.5-279,Cup of Death:wagon-brand
+51.5,70.5-356,Obsidian Texts:muffin-vintage
+58.5,72.5-338,Paramount Gem:quarter-intact
+64.5,70.5-325,Spirit Instrument:first-canvas
+70.5,70.5-255,Transmutation Mantle:fame-account
+64.5,59.5-262,Feather of Immobilizing:void-walk
+79.5,65.5-239,Statuette of Demons:taxi-must
+74.5,72.5-358,Gem of Passion:win-clump
+85.5,69.5-238,Boots of Immunity:eagle-coffee
+88.5,66.5-271,Shapeshifter Chalice:castle-tonight
+88.5,59.5-189,Frost Hide:rebel-enjoy
+92.5,56.5-266,Resistance Hide:home-exhaust
+97.5,65.5-198,Fruit of Spells:name-hurdle
+90.5,73.5-278,Venom Stone:egg-tissue
+94.5,59.5-333,Urn of Immobilizing:alone-negative
+95.5,72.5-191,Shard of Paradise:pill-monkey
+114.5,74.5-294,Hand of Chance:believe-reform
+117.5,69.5-244,Genesis Robes:flag-model
+123.5,70.5-335,Box of Spirits:indoor-brisk
+120.5,58.5-353,Impurity Fleece:voice-cabin
+125.5,55.5-209,Instrument of Chance:visual-friend
+144.5,57.5-207,Canopic Chest of the Cosmos:educate-merge
+140.5,63.5-316,Root of the Cosmos:hungry-funny
+130.5,57.5-183,Mirror of Specters:try-hunt
+131.5,61.5-218,Dream Key:elder-venue
+102.5,67.5-345,Grail of Longevity:tackle-tumble
+106.5,70.5-274,Death's Pillar:oppose-plate
+109.5,75.5-228,Fire Runes:thank-tower
+109.5,60.5-205,Black Magic Cylinder:improve-slight
+115.5,56.5-349,Chaos Letters:cruise-depth
+113.5,66.5-293,Rogue Chest:torch-season
+131.5,67.5-280,Spite Root:harsh-green
+134.5,73.5-203,Chalice of Sanctification:calm-useful
+141.5,75.5-225,Malevolence Tome:lion-kick
+139.5,66.5-267,Transformation Feather:oak-twelve
+146.5,68.5-230,Transformation Seal:industry-inside
+151.5,79.5-217,Anarchy Letters:puppy-glove
+148.5,57.5-186,Statue of Spite:garlic-rifle
+156.5,57.5-318,Gauntlet of Dementia:harvest-note
+163.5,62.5-226,Elemental Chalice:leader-burden
+163.5,56.5-211,Tome of Lunacy:column-purpose
+172.5,61.5-201,Disc of Immobilizing:excess-kit
+174.5,71.5-245,Devotion Key:between-nerve
+172.5,74.577-352,Tablet of Immobilizing:grief-caution
+163.5,75.5-200,Gem of Greed:mobile-innocent
+154.5,65.5-336,Burning Disc:staff-switch
+38.5,89.5-269,Staff of Luminosity:upon-nature
+24.5,93.5-187,Tiara of Futures:pact-curious
+13.5,95.5-196,Holy Instrument:double-hurry
+12.5,100.5-329,Necklace of Origins:legend-dilemma
+19.5,106.5-314,Tome of Toxin:banner-circle
+30.5,106.5-192,Tribute Ring:surge-reveal
+47.5,84.5-231,Liberty Bracelet:shift-company
+88.5,84.5-260,Statue of Malice:skin-seminar
+71.5,95.5-247,Ark of Spellbinding:bless-argue
+70.5,102.5-311,Box of Pain:entire-cement
+82.5,104.5-241,Shapeshifter Elixir:urban-afford
+85.5,97.5-275,Celestial Slab:salon-cushion
+102.5,87.5-270,Chaos Horn:fringe-seek
+118.5,90.5-253,Inscriptions of Wealth:have-genre
+125.5,86.5-188,Instrument of Sanctity:marble-around
+110.5,102.5-259,Runed Fruit:mutual-tiger
+125.5,102.5-298,Bracelet of Fire:eyebrow-student
+161.5,91.5-337,Eradication Ring:disease-three
+165.5,105.5-263,Tiara of Doom:agent-saddle
+175.5,101.5-360,Sandals of Mysteries:boring-small
+169.5,95.5-361,Vengeance Skull:moral-cat
+9.5,118.5-355,Chalice of Corruption:kid-require
+12.5,126.5-331,Diabolic Runes:monitor-stumble
+25.5,121.5-182,Decay Shard:stool-loud
+69.5,119.5-258,Transformation Lamp:crop-book
+116.5,122.5-220,Inscriptions of Evil:top-method
+115.5,129.5-342,Misfortune Shard:early-iron
+122.5,122.5-351,Cylinder of Faith:humble-cube
+108.5,125.5-285,Fruit of Dementia:local-reopen
+11.5,153.5-299,Tiara of Damnation:fatal-imitate
+21.5,145.5-309,Necklace of Immunity:park-middle
+19.5,153.5-330,Invisibility Shield:agree-brown
+18.5,263.5-277,Stone of Rain:multiply-antenna
+12.5,252.5-359,Blinding Mantle:deputy-south
+23.5,249.5-302,Decay Statue:zone-sea
+36.5,252.5-350,Grimoire of Judgment:mail-swim
+73.5,260.5-223,Fountain of Lightning:merit-syrup
+73.5,252.5-206,Fortitude Shield:rebuild-ordinary
+67.5,247.5-256,Thunder Feather:boost-door
+84.5,261.5-212,Monolith of Service:hand-arrange
+117.5,257.5-221,Rebirth Pillar:flee-bring
+127.5,247.5-301,Serenity Mask:gallery-vessel
+111.5,261.5-321,Mask of Youth:mad-cram
+129.5,261.5-240,Monolith of Persecution:crouch-tobacco
+163.5,252.5-199,Sword of Liberation:choose-topple
+167.5,260.5-204,Vice Fountain:confirm-dose
+182.5,249.5-195,Runes of Destruction:hurt-owner
+12.5,285.5-287,Transformation Microlith:guess-used
+26.5,279.5-306,Shapeshifter Stone:dream-pride
+11.5,279.5-303,Seraphic Letters:depart-brush
+26.5,290.5-323,Teleportation Ark:feature-below
+36.5,285.5-233,Dominance Tome:spread-gain
+71.5,277.5-320,Truth Mantle:maze-mercy
+69.5,290.5-208,Vice Gem:antique-divert
+80.5,279.5-354,Canopic Jar of Dismay:turn-chief
+67.5,282.5-332,Tome of Serendipity:blood-polar
+125.5,287.5-348,Symbols of Damnation:crisp-fly
+127.5,282.5-326,Malediction Jar:odor-couch
+112.5,279.5-305,Spiritbound Fleece:cinnamon-bunker
+134.5,288.5-252,Crown of the Scourge:catalog-sponsor
+168.5,279.5-312,Mantle of Genesis:pony-spoon
+176.5,291.5-304,Circlet of Blinding:guitar-present
+161.5,279.5-289,Rebirth Tablet:goose-you
+179.5,276.5-215,Dominance Amulet:indicate-better
+165.5,274.5-194,Box of Apathy:delay-cook
+
+
+chestParent
+61.3,222.415
+1003,Shard of Fear:wasp-royal
+1004,Lifeblood Jar:bronze-siege
+1005,Boots of Runes:museum-oil
+1006,Malevolence Hand:dinner-science
+1007,Transformation Gauntlet:cupboard-fortune
+1008,Amulet of Heroism:whale-change
+1009,Band of Torture:notable-frozen
+1010,Hand of Doom:demand-holiday
+9.752,220.453
+370,Dementia Shard:body-purity
+371,Ark of Doom:error-august
+372,Blinding Robes:noise-message
+373,Transformation Fountain:skull-organ
+374,Elixir of Passion:corn-pledge
+375,Tablet of Fortune:best-grid
+376,Boots of Transmutation:horse-decline
+162.255,195.467
+558,Microlith of Corruption:unveil-transfer
+559,Sandals of Riddles:such-direct
+560,Urn of Petrification:swarm-among
+561,Chaos Staff:universe-mask
+562,Microlith of Malediction:velvet-clarify
+563,Finality Pillar:author-process
+564,Cube of Service:ride-original
+565,Eclipse Hand:sheriff-diesel
+114.255,192.423
+614,Bracelet of Strength:describe-gospel
+615,Door of Restoration:gap-party
+616,Hand of Demons:fox-poet
+617,Torment Key:long-pass
+618,Chalice of Paradise:drip-puzzle
+619,Bracelet of Petrification:child-feed
+620,Dementia Statuette:timber-sketch
+621,Tablet of Resurrection:permit-end
+622,Prosperous Cube:elbow-pave
+62.58,192.403
+784,Life Goblet:faith-dry
+785,Fruit of Youth:same-topic
+786,Chest of Fertility:air-census
+787,Key of Teleportation:gloom-ribbon
+788,Elixir of Enthrallment:exercise-trophy
+789,Key of Enigmas:latin-alarm
+790,Cube of Misfortune:evidence-normal
+791,Gold Grail:salad-destroy
+13.483,195.427
+728,Sacred Statuette:great-visit
+729,Crown of Birth:letter-sun
+730,Diabolic Elixir:muscle-inflict
+731,Extinction Inscriptions:general-face
+732,Robes of Dismay:catch-allow
+733,Gem of Wealth:space-symptom
+734,Door of Faith:vague-punch
+735,Mirror of Passion:capital-absurd
+163.8,164.944
+606,Termination Monolith:act-foster
+607,Faith's Scroll:senior-actual
+608,Elixir of Curses:nurse-festival
+609,Microlith of Gold:excite-dice
+610,Void Slab:spot-elephant
+611,Solitude's Cube:tortoise-brass
+612,Obedience Grimoire:garden-butter
+613,Scourge Grail:fuel-embrace
+110.26,171.862
+465,Rod of Metamorphosis:half-mention
+466,Triumph Chest:pitch-wrist
+467,Agony Ichor:valley-snack
+468,Anguish Mirror:certain-sausage
+469,Boots of Delirium:wheel-series
+470,Instrument of Service:rice-empower
+471,Sandals of Warding:discover-finish
+58.752,164.931
+744,Chest of Massacres:marriage-summer
+745,Instrument of Shapeshifting:fiscal-grit
+746,Massacre Hide:chat-auction
+747,Supremacy Urn:mountain-crystal
+748,Necklace of Mysteries:identify-cheese
+749,Door of Blessings:lunch-piece
+750,Grave Crown:galaxy-come
+751,Tablet of Life:hire-swap
+9.757,168.315
+394,Ice Runes:proud-lab
+395,Paramount Tiara:idea-siren
+396,Bracelet of Mysteries:airport-nominee
+397,Solitude's Rod:water-gaze
+398,Thunder Statue:goddess-word
+399,Ring of Eternal Health:power-praise
+400,Book of Doom:position-sick
+401,Mantle of Vice:speed-lounge
+29.68267,84.96
+837,Box of Evil:relax-hazard
+838,Lamp of Temptation:duck-suit
+839,Slab of Enigmas:dinosaur-lonely
+840,Lamp of Abundance:output-woman
+841,Prosperous Arch:dawn-fix
+842,Longevity Necklace:genuine-hard
+843,Gem of Venom:expect-pencil
+844,Elixir of Death:vehicle-potato
+68.88,87.9
+933,Fountain of Pain:pulp-shoot
+934,Door of Fortune:idle-crowd
+935,Sword of Eternal Health:during-scare
+936,Blinding Grimoire:upset-yellow
+937,Dominance Symbols:other-near
+938,Grimoire of Curses:dismiss-easy
+939,Stone of Transmutation:mirror-scrap
+940,Transmutation Chalice:wheat-bargain
+24.487,104.994
+752,Judging Staff:ridge-repair
+753,Goblet of Immunity:north-artefact
+754,Lamp of Luck:card-athlete
+755,Supremacy Canopic Jar:share-inherit
+756,Arch of the Creed:pause-manage
+757,Jar of Courage:already-west
+758,Darkness Stone:couple-what
+759,Solitude's Seal:knife-soap
+79.128,94.937
+686,Paralyzing Hand:blouse-leg
+687,Philosopher's Runes:provide-tattoo
+688,Hell's Disc:village-climb
+689,Horn of Metamorphosis:giraffe-record
+690,Ring of the Elements:suspect-girl
+691,Tome of Vengeance:cake-hundred
+692,Spirit Ark:mystery-canal
+693,Chalice of Flame:prefer-broom
+694,Binding Ark:square-fold
+88.695,105.12
+663,Spirit Crown:opinion-shaft
+664,Statuette of Greed:make-omit
+665,Azure Urn:key-panda
+666,Triumph Tome:zoo-ready
+667,Necklace of Apathy:approve-flip
+668,Faith's Symbols:afraid-strong
+669,Damnation Cloak:jump-ill
+670,Scroll of Teleportation:fat-enact
+120.362,96.28
+845,Rebirth Robes:expose-display
+846,Chalice of Eternal Health:crater-adapt
+847,Massacre Canopic Chest:enrich-drift
+848,Azure Cube:damage-drum
+849,Urn of Karma:hollow-little
+850,Chalice of Sentience:render-pyramid
+851,Ichor of Origins:spy-tool
+852,Fountain of the Aether:close-solid
+117.9328,105.2186
+590,Gem of Rebirth:trumpet-resource
+591,Invisibility Gauntlet:fade-security
+592,Holy Chalice:cool-hint
+593,Grimoire of Infinity:nut-course
+594,Healing Scroll:loop-region
+595,Maniacal Mirror:scout-fish
+596,Exile Cube:offer-wisdom
+597,Circlet of Hatred:net-truck
+174.691,86.922
+449,Unholy Fleece:sorry-dress
+450,Echo Jar:lift-hover
+451,Prime Goblet:envelope-where
+452,Purity Goblet:ladder-trick
+453,Gauntlet of Worship:danger-edge
+454,Tome of Summoning:priority-flight
+455,Burning Key:task-shop
+456,Boots of Invincibility:nasty-into
+74.5174,127.002
+907,Grimoire of Protection:hawk-sell
+908,Root of Malady:digital-version
+909,Ice Cloak:twist-dragon
+910,Eclipse Gauntlet:million-junk
+911,Desire's Robes:track-slow
+912,Box of Virility:emerge-misery
+913,Teleportation Ichor:online-vacant
+914,Door of Genesis:theme-because
+25.45,125.7191
+517,Invisibility Runes:vacuum-bonus
+518,Darkness Circlet:they-accident
+519,Heavenly Microlith:place-impose
+520,Serenity Ichor:neglect-birth
+521,Letters of Spellbinding:raw-outside
+522,Burning Arch:dwarf-rural
+523,Heavenly Symbols:razor-remain
+524,Kismet Door:budget-path
+9.542389,149.836
+923,Mending Goblet:walnut-frost
+924,Ichor of Wealth:document-ecology
+925,Cylinder of Blinding:script-grant
+926,Torment Goblet:protect-invite
+927,Storm Book:bone-clock
+928,Blazing Statue:trash-future
+929,Chest of All-Seeing:sweet-regret
+930,Gauntlet of Damnation:only-box
+931,Lamp of Doom:spirit-verify
+932,Lust's Sandals:choice-drill
+14.494,253.156
+1011,Light's Key:increase-strategy
+1012,Circlet of Damnation:sibling-scissors
+1013,Canopic Jar of Enigmas:there-mouse
+1014,Grail of Frost:drink-valid
+1015,Shapeshifter Runes:know-fan
+1016,Petrifying Amulet:powder-fatigue
+62.834,261.693
+510,Amulet of Resistance:response-frequent
+511,Infernal Runes:pistol-sniff
+512,Teleportation Cube:survey-car
+513,Crown of Repelling:impact-disagree
+514,Crown of Sanctification:draft-route
+515,Bravery Tome:beef-blur
+516,Mirror of Lightning:remember-reflect
+77.98184,264.267
+957,Canopic Chest of Origins:obscure-slender
+958,Obsidian Fruit:casual-casino
+959,Spirit Stone:library-satisfy
+960,Exiled Cup:stadium-spell
+961,Ark of Paralysis:hammer-boat
+962,Monolith of Scorching:olympic-camp
+963,Texts of Blessings:comic-happy
+964,Holy Mantle:type-ice
+173.745,252.741
+502,Mask of Invisibility:jelly-wave
+503,Death's Shield:bacon-sad
+504,Malady Instrument:broccoli-bomb
+505,Jar of Birth:fire-piano
+506,Ring of Riches:bitter-prosper
+507,Arch of Shapeshifting:title-exclude
+508,Lucky Instrument:jungle-artist
+509,Misfortune Slab:awake-wing
+164.421,68.009
+534,Resolution Monolith:observe-shine
+535,Mirror of Sentience:often-sound
+536,Shield of Invincibility:bachelor-master
+537,Staff of Ruination:auto-then
+538,Mask of Curses:world-pizza
+539,Urn of Dismay:give-person
+540,Shard of Souls:flower-silly
+541,Mirror of Affluence:rug-defense
+542,Holy Cloak:sure-basket
+128.486,74.75
+623,Crown of Petrification:salmon-tone
+624,Sandals of Riddles:job-snap
+625,Binding Runes:patch-scorpion
+626,Mantle of Spite:impulse-chaos
+627,Spiritbound Inscriptions:squirrel-bid
+628,Liberty Rod:gown-vicious
+629,Horn of Enthrallment:spend-plug
+630,Shield of Desire:electric-utility
+135.914,61.936
+980,Infinity Tome:ghost-romance
+981,Eternity Inscriptions:silent-firm
+982,Fountain of Karma:grow-promote
+983,Jar of Immunity:clog-pink
+984,Mirror of Contagion:marine-tooth
+985,Hide of Light:stay-helmet
+986,Archangel Tiara:avoid-lens
+987,Ice Shield:pioneer-public
+80.267,73.56
+598,Chest of Strength:zebra-point
+599,Cylinder of Lunacy:ankle-actress
+600,Ichor of the Dead:sight-ball
+601,Skull of Silence:add-upgrade
+602,Box of Lust:awesome-violin
+603,Instrument of Spellbinding:usage-crunch
+604,Warding Instrument:era-blue
+605,Grave Cube:slice-daughter
+106.708,60.585
+385,Hellish Goblet:price-music
+386,Echo Cube:extend-neither
+387,Book of Temptation:shock-conduct
+388,Hallowed Goblet:brain-shove
+389,Oblivion Hide:modify-true
+390,Cloak of the Crux:cargo-smart
+391,Cursed Texts:bind-very
+392,Enigma Skull:globe-advice
+393,Prime Fleece:grocery-panel
+31.58,43.94
+792,Oblivion Statue:matter-scan
+793,Blight Necklace:copy-differ
+794,Grimoire of Downfall:weapon-material
+795,Hatred's Book:level-chase
+796,Robes of Misfortune:deer-picture
+797,Cloak of Courage:nest-chicken
+798,Necklace of Worship:sail-humor
+27.6,21.497
+988,Statuette of Torture:slide-aerobic
+989,Enigmatic Monolith:october-menu
+990,Dementia Goblet:scheme-question
+991,Seal of Spirits:sphere-source
+992,Thunder Root:wide-clutch
+993,Mirror of Secrets:lawn-pretty
+994,Inscriptions of Massacres:exact-tiny
+995,Soul Cup:height-outdoor
+145.204,45.821
+949,Dominance Ring:frog-noble
+950,Stone of Shadows:network-super
+951,Elixir of Hunger:flame-shrug
+952,Eternal Amulet:ship-quote
+953,Hand of Torment:caught-search
+954,Cylinder of Shapeshifting:leisure-range
+955,Horn of Lunacy:aspect-number
+956,Decimation Scroll:toy-coach
+94.16,52.98
+432,Venom Skull:awkward-easily
+433,Seduction Book:enlist-custom
+434,Dominion Robes:lend-spoil
+435,Vengeance Tiara:rib-crush
+436,Transformation Tome:bundle-chimney
+437,Vice Disc:mushroom-orbit
+438,Fleece of Annihilation:teach-armed
+439,Canopic Jar of Justice:text-window
+440,Misery Texts:life-sudden
+73.318,60.655
+760,Runes of the Elements:bulk-food
+761,Urn of Justice:recycle-various
+762,Scroll of Angels:cousin-bleak
+763,Infinity Fountain:visa-input
+764,Darkness Canopic Chest:scene-two
+765,Death's Inscriptions:peasant-swing
+766,Tome of Genesis:select-bullet
+767,Purity Ring:income-appear
+68.28,76.35
+480,Key of Mania:hotel-turkey
+481,Sacred Cylinder:joy-release
+482,Hide of Immunity:include-thunder
+483,Rod of Longevity:effort-moment
+484,Cup of Wishes:runway-today
+485,Tome of Spite:paddle-motion
+486,Desire's Mask:news-capable
+487,Gem of Sight:file-over
+55.55,45.81
+886,Healing Fleece:rack-sister
+887,Door of Downfall:clever-patient
+888,Obsidian Chest:gift-ivory
+889,Sword of Fate:replace-sock
+890,Staff of Pestilence:lottery-profit
+891,Canopic Chest of Angels:magic-eternal
+892,Ark of Destiny:tourist-peanut
+25.42054,74.21319
+830,Bracelet of the Creed:engine-develop
+831,Transmutation Rod:penalty-tragic
+832,Fruit of Passion:daring-kiwi
+833,Insanity Lamp:canyon-sugar
+834,Genesis Grail:limit-fence
+835,Invisible Texts:prepare-social
+836,Elemental Fountain:laundry-twenty
+14.44,64.985
+416,Box of Downfall:fiber-correct
+417,Wisdom Tome:fit-mix
+418,Longevity Urn:enemy-initial
+419,Symbols of Origins:furnace-grab
+420,Sword of Eternal Slumber:kite-fog
+421,Onyx Canopic Chest:wear-property
+422,Elixir of Speed:success-buyer
+423,Hide of Time:arrest-spin
+85.74,37.99
+631,Feather of the Gods:rally-century
+632,Vengeance Grail:van-own
+633,Delusion Ring:gold-draw
+634,Circlet of Sight:moon-giggle
+635,Fire Texts:coconut-bus
+636,Termination Horn:result-fitness
+637,Urn of Decadence:cream-bridge
+638,Eradication Amulet:famous-taste
+72.834,15.044
+582,Staff of Spite:edit-rapid
+583,Chest of Heroism:coin-never
+584,Misery Scroll:sunny-luxury
+585,Tiara of Valor:tuition-announce
+586,Mirror of Hell:anxiety-acid
+587,Disc of the Elements:resist-force
+588,Seal of Scorching:image-soldier
+589,Urn of Malice:ability-army
+90.467,19.947
+1017,Oracle Shard:special-final
+1018,Pillar of the Cosmos:weather-decide
+1019,Philosopher's Tome:obey-guide
+1020,Dream Statuette:street-cute
+1021,Thaumaturgy Gauntlet:glass-hero
+1022,Seal of Mysteries:scatter-video
+1023,Kismet Urn:jazz-engage
+
+
+chestParentNight
+61.3,222.415
+721,Boots of Contagion:spider-large
+722,Divine Key:favorite-suffer
+723,Dread Letters:father-quit
+724,Mirage Skull:exist-dog
+725,Resolution Crown:art-mind
+726,Domination Stone:winter-lake
+727,Canopic Chest of Remedies:decrease-admit
+9.752,220.453
+813,Prosperous Tome:wet-labor
+814,Dream Ring:skill-main
+815,Purity Ark:movie-wine
+816,Exile Grail:uncover-glimpse
+817,Enigmatic Sandals:rocket-burger
+818,Decay Texts:churn-song
+819,Instrument of Courage:diary-project
+820,Bracelet of Specters:curve-club
+162.255,195.467
+893,Shapeshifter Gauntlet:ugly-either
+894,Shapeshifter Grimoire:useless-talent
+895,Circlet of Wealth:control-finger
+896,Urn of Seduction:donate-rule
+897,Aurora Symbols:heavy-equal
+898,Monolith of the Crux:december-blush
+899,Ring of Petrification:until-memory
+114.255,192.423
+713,Thunder Shield:soccer-call
+714,Chalice of Curses:step-dial
+715,Divinity's Canopic Jar:turtle-honey
+716,Corruption Instrument:fault-glad
+717,Thaumaturgy Staff:jeans-phone
+718,Runes of Wealth:gravity-infant
+719,Cylinder of Divinity:measure-parade
+720,Oracle Arch:fashion-cricket
+62.58,192.403
+457,Root of Spellbinding:hat-toddler
+458,Light's Fruit:umbrella-help
+459,Damnation Texts:orchard-wrap
+460,Cube of Invocation:ahead-weasel
+461,Box of Depravity:tag-lemon
+462,Ichor of Temptation:that-tape
+463,Darkness Key:jealous-raven
+464,Pestilence Fruit:shiver-debate
+13.483,195.427
+878,Disc of Luck:spike-bicycle
+879,Necrotic Skull:click-reunion
+880,Termination Ichor:morning-tenant
+881,Worship Cube:math-lumber
+882,Monolith of Eternal Health:mother-cluster
+883,Corruption Seal:subject-inquiry
+884,Ring of Guardians:resemble-blind
+885,Mending Rod:fall-veteran
+163.8,164.944
+441,Black Magic Mantle:lamp-fabric
+442,Lust's Bracelet:receive-one
+443,Eternal Skull:upper-few
+444,Agony Robes:tip-talk
+445,Mask of Malevolence:lava-throw
+446,Hungering Arch:dirt-drama
+447,Band of the Gods:waste-cause
+448,Rod of Vengeance:convince-inject
+110.26,171.862
+362,Sentient Staff:day-juice
+363,Texts of Specters:client-ten
+364,Athanasia Urn:nuclear-install
+365,Finality Robes:tornado-sword
+366,Scroll of Worship:whisper-arctic
+367,Absorbing Canopic Chest:bag-solution
+368,Prosperous Seal:travel-lyrics
+369,Boots of Seduction:dutch-term
+58.752,164.931
+377,Grail of Acrimony:alcohol-join
+378,Thaumaturgy Canopic Jar:say-soda
+379,Symbols of Sentience:miss-foam
+380,Band of Delusion:also-faint
+381,Rogue Stone:involve-wife
+382,Agony Ring:despair-kitchen
+383,Boots of Infinity:health-assist
+384,Ring of Darkness:swallow-tilt
+9.757,168.315
+870,Black Magic Grail:human-february
+871,Mantle of Shapeshifting:mosquito-giant
+872,Scroll of Birth:arm-history
+873,Decay Bracelet:surprise-tree
+874,Storm Slab:bounce-case
+875,Enigmatic Gauntlet:combine-panther
+876,Texts of Gold:dad-old
+877,Mantle of Darkness:welcome-front
+29.68267,84.96
+704,Malady Band:donkey-soft
+705,Death's Scroll:illness-unhappy
+706,Key of Curses:copper-breeze
+707,Mirror of Fate:sting-feel
+708,Darkness Canopic Chest:fork-wash
+709,Runes of Scorching:nephew-deposit
+710,Transformation Grimoire:verb-gun
+711,Holy Statuette:figure-crime
+712,Shield of Downfall:barrel-dance
+68.88,87.9
+736,Termination Boots:clay-venture
+737,Prime Horn:secret-steak
+738,Ark of Evil:unique-left
+739,Delusion Book:endorse-prevent
+740,Microlith of Imperviousness:milk-disorder
+741,Runes of Birth:leopard-unaware
+742,Elemental Cube:license-debris
+743,Fortune's Disc:wink-pudding
+24.487,104.994
+679,Canopic Jar of Death:ignore-rotate
+680,Gem of Justice:uncle-mixed
+681,Rebirth Necklace:leave-real
+682,Chaos Chest:yard-next
+683,Grimoire of the Crux:awful-satoshi
+684,Summoning Boots:still-cruel
+685,Obedience Door:practice-kitten
+79.128,94.937
+543,Prosperous Feather:color-blast
+544,Canopic Jar of Toxin:lady-purse
+545,Crown of Black Magic:cry-vivid
+546,Disc of Prosperity:alert-busy
+547,Letters of Blights:salt-rough
+548,Life Mantle:gorilla-filter
+549,Temptation Cylinder:harbor-celery
+550,Root of Infinity:law-gossip
+88.695,105.12
+821,Contagion Tome:erupt-subway
+822,Sandals of Decadence:rent-gesture
+823,Doom Tablet:wonder-possible
+824,Horn of Resistance:board-witness
+825,Fountain of Resistance:check-elite
+826,Resolution Chest:raise-grunt
+827,Crown of Desire:wolf-distance
+828,Elixir of Specters:chronic-trust
+829,Rogue Fountain:fetch-loan
+120.362,96.28
+965,Faith's Goblet:insane-hybrid
+966,Doom Mask:depend-cheap
+967,Hand of Decay:lobster-someone
+968,Amulet of Healing:shell-device
+969,Enigmatic Mask:rare-wise
+970,Letters of Hell:false-kangaroo
+971,Termination Root:consider-write
+117.9328,105.2186
+915,Transmutation Fruit:soup-toast
+916,Mirror of Charming:cage-enable
+917,Box of Binding:connect-about
+918,Staff of Resistance:minimum-unable
+919,Disc of Invincibility:rose-smile
+920,Petrifying Ring:amazing-system
+921,Faith's Book:photo-weekend
+922,Robes of Malediction:maximum-stable
+174.691,86.922
+402,Misery Urn:bottom-relief
+403,Sandals of Blinding:evolve-dentist
+404,Aurora Grail:traffic-husband
+405,Tablet of Luminosity:derive-token
+406,Virtue Fleece:sauce-twin
+407,Black Magic Shield:unknown-answer
+408,Tablet of Metamorphosis:pelican-tray
+74.5174,127.002
+972,Elixir of Life:lesson-remove
+973,Shade Robes:warm-boy
+974,Metamorphosis Bracelet:novel-bike
+975,Jar of Delirium:session-blade
+976,Disc of Knowledge:obvious-exchange
+977,Resolution Canopic Jar:forward-execute
+978,Hatred's Circlet:open-jewel
+979,Shapeshifter Statue:carpet-pair
+25.45,125.7191
+695,Ichor of Teleportation:amount-echo
+696,Demon Disc:anchor-perfect
+697,Elixir of Spells:mansion-test
+698,Ichor of Solitude:hill-service
+699,Supremacy Band:eye-wild
+700,Transmutation Letters:oblige-gauge
+701,Arch of Infinity:civil-myself
+702,Judging Statuette:toward-fun
+703,Key of Malevolence:liberty-tunnel
+9.542389,149.836
+646,Canopic Chest of Lunacy:rail-olive
+647,Elixir of Fortitude:sort-once
+648,Grimoire of Truth:oyster-width
+649,Robes of Revival:bubble-slot
+650,Feather of the Aether:cover-enter
+651,Key of Chance:hair-huge
+652,Infinity Grimoire:push-adjust
+653,Slab of Spellbinding:kidney-crumble
+654,Horn of Genesis:bulb-cable
+14.494,253.156
+655,Worship Mask:major-alpha
+656,Fleece of Torment:trend-focus
+657,Cylinder of Chaos:alter-okay
+658,Corruption Mantle:rather-farm
+659,Golden Horn:ask-forum
+660,Bravery Cup:soon-ritual
+661,Fleece of Speed:hen-payment
+662,Teleportation Circlet:action-mechanic
+62.834,261.693
+424,Scroll of Loyalty:margin-skirt
+425,Mending Instrument:code-pottery
+426,Book of Chaos:side-donor
+427,Skull of Protection:mesh-vibrant
+428,Life Mask:year-basic
+429,Gauntlet of Malady:victory-run
+430,Microlith of Desire:lucky-hip
+431,Justice Mirror:view-setup
+77.98184,264.267
+671,Arch of Blights:attract-occur
+672,Shard of Souls:border-roof
+673,Statue of Divinity:game-clip
+674,Spellbound Ichor:devote-reject
+675,Light's Band:hockey-skate
+676,Rod of Gold:neck-burst
+677,Disc of Spite:quiz-blame
+678,Fleece of Resurrection:guard-charge
+173.745,252.741
+776,Void Urn:diamond-glare
+777,Dementia Shield:index-drive
+778,Life's Cube:glance-brief
+779,Black Magic Chalice:mammal-ensure
+780,Chaos Letters:snake-clerk
+781,Symbols of Wealth:sentence-achieve
+782,Stone of Faith:grass-else
+783,Obsidian Root:earth-tank
+164.421,68.009
+551,Resistance Hide:pen-poem
+552,Sandals of Charming:clown-section
+553,Metamorphosis Cube:candy-stuff
+554,Chest of Evil:total-drastic
+555,Corruption Gauntlet:hello-volcano
+556,Inscriptions of Death:arena-love
+557,Scourge Door:liquid-review
+128.486,74.75
+496,Statuette of Malady:exotic-lecture
+497,Karma Lamp:office-elegant
+498,Desire's Statuette:collect-retreat
+499,Genesis Arch:wrestle-detect
+500,Truth Fountain:ostrich-proof
+501,Horn of Honesty:trim-slab
+135.914,61.936
+768,Slumber Tiara:fluid-rich
+769,Lucky Elixir:settle-retire
+770,Cursed Horn:dolphin-phrase
+771,Scroll of Rebirth:rhythm-judge
+772,Vengeance Stone:limb-asset
+773,Tome of Pestilence:way-prison
+774,Blight Statuette:shuffle-stove
+775,Stone of Sanctification:lock-winner
+80.267,73.56
+941,Chaos Chalice:uniform-unusual
+942,Archangel Staff:flavor-usual
+943,Paramount Instrument:uphold-logic
+944,Evil Runes:hamster-sunset
+945,Gold Hide:shadow-virtual
+946,Resurrection Arch:quantum-solar
+947,Microlith of Spirits:similar-drop
+948,Shard of Revival:myth-female
+106.708,60.585
+799,Crown of Spellbinding:layer-object
+800,Grimoire of the Dead:flock-ethics
+801,Metamorphosis Stone:cross-float
+802,Exiled Fruit:jaguar-craft
+803,Mask of Hatred:tired-behave
+804,Resurrection Instrument:radar-concert
+805,Frost Mantle:sense-wait
+31.58,43.94
+853,Maniacal Ark:garment-wreck
+854,Summoning Feather:smooth-able
+855,Dominance Staff:symbol-poverty
+856,Scourge Horn:gather-lizard
+857,Unholy Inscriptions:atom-clean
+858,Elixir of Luminosity:cotton-canoe
+859,Tranquility Gauntlet:enhance-voyage
+860,Ichor of Paralysis:find-risk
+27.6,21.497
+574,Symbols of Delusion:youth-detail
+575,Transmutation Box:shoulder-slam
+576,Ring of Genesis:mandate-garage
+577,Hand of Youth:gym-hub
+578,Agony Band:regular-desert
+579,Ichor of Repelling:police-midnight
+580,Mantle of Souls:apart-flush
+581,Dementia Monolith:lazy-mom
+145.204,45.821
+806,Hero's Circlet:tomorrow-slush
+807,Hand of Specters:produce-shoe
+808,Paradise Goblet:slim-amateur
+809,Virtue Grail:host-unit
+810,Door of Resistance:diagram-stairs
+811,Tiara of Dreams:theory-supreme
+812,Boots of the Crux:pepper-gentle
+94.16,52.98
+525,Anguish Robes:bird-salute
+526,Instrument of Blinding:parent-vote
+527,Jar of Riches:claim-aisle
+528,Disc of Runes:laugh-order
+529,Root of Rain:valve-renew
+530,Specter Gem:speak-claw
+531,Gauntlet of Abundance:spawn-target
+532,Invisible Door:vapor-this
+533,Tome of Massacres:above-round
+73.318,60.655
+472,Seduction Feather:thumb-work
+473,Letters of Persecution:expire-tide
+474,Divinity's Ichor:trial-school
+475,Amulet of Charming:minute-simple
+476,Chalice of Remedies:foil-chalk
+477,Fleece of Wishes:riot-bamboo
+478,Pillar of Spite:whip-shrimp
+479,Grimoire of Futures:hidden-erosion
+68.28,76.35
+861,Destruction Cube:spray-film
+862,Primal Skull:cigar-later
+863,Letters of Peace:toe-safe
+864,Sentient Bracelet:radio-tennis
+865,Immortal Urn:label-swamp
+866,Skull of the Aether:fresh-inspire
+867,Malevolence Runes:ancient-seven
+868,Cloak of Life:before-much
+869,Alchemy Grimoire:nice-reduce
+55.55,45.81
+639,Goblet of Death:deliver-wealth
+640,Primal Key:load-notice
+641,Runed Fruit:problem-sport
+642,Fleece of Wisdom:crack-fruit
+643,Binding Symbols:bar-denial
+644,Lamp of Lunacy:pull-cereal
+645,Petrifying Key:story-oxygen
+25.42054,74.21319
+488,Prosperous Microlith:coil-kiss
+489,Petrifying Hand:trip-glue
+490,Sandals of Radiance:emotion-ranch
+491,Shade Jar:surround-medal
+492,Death's Cylinder:crew-cost
+493,Bracelet of Lunacy:analyst-exile
+494,Circlet of Transmutation:elevator-just
+495,Azure Jar:exhibit-boil
+14.44,64.985
+566,Texts of Oblivion:issue-tell
+567,Hide of Resistance:grape-any
+568,Ring of the Scourge:all-follow
+569,Guardian Scroll:squeeze-jacket
+570,Goblet of Fire:seed-april
+571,Mending Gem:segment-zero
+572,Gem of the Dead:boss-picnic
+573,Teleportation Horn:obtain-cloth
+85.74,37.99
+900,Grimoire of Solitude:absent-quick
+901,Gem of Sentience:legal-screen
+902,Decay Hand:plastic-eager
+903,Elixir of Collapse:recipe-can
+904,Monolith of Oblivion:buddy-magnet
+905,Shield of Invocation:black-maid
+906,Immunity Fleece:race-curtain
+72.834,15.044
+996,Longevity Shard:march-cancel
+997,Insanity Chest:desk-assume
+998,Root of Fear:east-hood
+999,Teleportation Box:rubber-neutral
+1000,Exiled Disc:kingdom-beyond
+1001,Primal Runes:bread-duty
+1002,Hide of Metamorphosis:link-spatial
+90.467,19.947
+409,Lifeblood Goblet:steel-badge
+410,Runes of Liberation:viable-minor
+411,Fountain of Dismay:mixture-bracket
+412,Mantle of Gluttony:dumb-frame
+413,Destiny's Stone:extra-wish
+414,Life Cylinder:kind-toilet
+415,Vengeance Statuette:want-roast

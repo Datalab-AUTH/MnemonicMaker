@@ -176,6 +176,7 @@ public class BoatIntro : MonoBehaviour
             {
                 afterSkipBlessing();
             }
+            blessingTriggered = false;
         }
         else if(id == 1)
         {
@@ -216,10 +217,11 @@ public class BoatIntro : MonoBehaviour
             {
                 afterSkipBlessing();
             }
+            blessingTriggered = false;
         }
         //cutscenePlaying = false; //this will enable the update again
-        if(!customCallback)
-            blessingTriggered = false;
+        //if(!customCallback)
+          //  blessingTriggered = false;
         continueCutscene();
     }
 

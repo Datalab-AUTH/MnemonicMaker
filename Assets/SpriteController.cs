@@ -37,7 +37,8 @@ public class SpriteController : MonoBehaviour
     public bool isBehindRock;
 
     public int charLayerID;
-    public string charLayer;
+    public int lastCharLayerID;
+    public string lastCharLayer;
     private AudioLibrary audioController;
 
     public string World;
@@ -56,6 +57,12 @@ public class SpriteController : MonoBehaviour
 
     public bool disableAllMove;
 
+    public List<int> layerIDqueue;
+    public int defaultLayerID = 20;
+    public string charLayer = "Overworld";
+    public GameObject charOutline;
+    public Animator charOutlineAnimator;
+
 
     void Start()
     {
@@ -73,6 +80,7 @@ public class SpriteController : MonoBehaviour
         deadzoneMovementSize = 0.1f;
         inDeadzone = false;
         disableAllMove = false;
+        layerIDqueue = new List<int>();
     }
 
     public void changeFloor(int floor)
@@ -80,24 +88,43 @@ public class SpriteController : MonoBehaviour
         if(floor == 0)
         {
             GetComponent<SpriteRenderer>().sortingLayerName = "Overworld";
+            charLayer = "Overworld";
             gameObject.layer = 13;
         }
         else if(floor == 1)
         {
 
             GetComponent<SpriteRenderer>().sortingLayerName = "OverworldFloor1";
+            charLayer = "OverworldFloor1";
             gameObject.layer = 22;
         }
         else if(floor == 2)
         {
 
             GetComponent<SpriteRenderer>().sortingLayerName = "OverworldFloor2";
+            charLayer = "OverworldFloor2";
             gameObject.layer = 23;
         }
     }
 
+    public void signalLayer()
+    {
+        layerIDqueue.Sort();
+    }
+
     void FixedUpdate()
     {
+        if(isBehindTree == 0)
+        {
+            charOutline.SetActive(false);
+            //GetComponent<SpriteRenderer>().sortingLayerName = charLayer;
+            //GetComponent<SpriteRenderer>().sortingOrder = defaultLayerID;
+        }
+        else
+        {
+            charOutline.SetActive(true);
+            //GetComponent<SpriteRenderer>().sortingOrder = layerIDqueue[0];
+        }
         Vector2 targetPosition;
         xPos = 0;
         yPos = 0;
@@ -142,8 +169,9 @@ public class SpriteController : MonoBehaviour
                 targetPosition = Vector2.MoveTowards(transform.position, lastClickedPos, runSpeed * Time.deltaTime);
                 body.MovePosition(targetPosition);
             }
-            animator.SetFloat("Horizontal", horizontal);
-            animator.SetFloat("Vertical", vertical);
+            //animator.SetFloat("Horizontal", horizontal);
+            updateAnimator("Horizontal", "Vertical", horizontal, vertical);
+            //animator.SetFloat("Vertical", vertical);
             moving = true;
         }
         else //move with arrow keys no diagonal movement
@@ -177,8 +205,10 @@ public class SpriteController : MonoBehaviour
             targetPosition.x = xPos;
             targetPosition.y = yPos;
             body.MovePosition(body.position + targetPosition * runSpeed * Time.deltaTime);
-            animator.SetFloat("Horizontal", xPos);
-            animator.SetFloat("Vertical", yPos);
+
+            updateAnimator("Horizontal", "Vertical", xPos, yPos);
+            //animator.SetFloat("Horizontal", xPos);
+            //animator.SetFloat("Vertical", yPos);
         }
 
         //not moving
@@ -186,8 +216,9 @@ public class SpriteController : MonoBehaviour
         {
             if(last_xpos == 0 && last_ypos == 0)
             {
-                animator.SetFloat("idle_Horizontal", 0);
-                animator.SetFloat("idle_Vertical", -0.1f);
+                updateAnimator("idle_Horizontal", "idle_Vertical", 0, -0.1f);
+                //animator.SetFloat("idle_Horizontal", 0);
+                //animator.SetFloat("idle_Vertical", -0.1f);
             }
             else
             {
@@ -202,8 +233,9 @@ public class SpriteController : MonoBehaviour
                         last_ypos = 0;
                     }
                 }
-                animator.SetFloat("idle_Horizontal", last_xpos);
-                animator.SetFloat("idle_Vertical", last_ypos);
+                updateAnimator("idle_Horizontal", "idle_Vertical", last_xpos, last_ypos);
+                //animator.SetFloat("idle_Horizontal", last_xpos);
+                //animator.SetFloat("idle_Vertical", last_ypos);
             }
 
         }
@@ -212,8 +244,9 @@ public class SpriteController : MonoBehaviour
             last_xpos = horizontal;
             last_ypos = vertical;
 
-            animator.SetFloat("idle_Horizontal", 0);
-            animator.SetFloat("idle_Vertical", 0);
+            updateAnimator("idle_Horizontal", "idle_Vertical", 0, 0);
+            //animator.SetFloat("idle_Horizontal", 0);
+            //animator.SetFloat("idle_Vertical", 0);
         }
         
 
@@ -239,6 +272,14 @@ public class SpriteController : MonoBehaviour
     const float _timeBetweenFootsteps = 0.5f;
     float _lastPlayedFootstepSoundTime = -_timeBetweenFootsteps;
 
+
+    private void updateAnimator(string item1, string item2, float val1, float val2)
+    {
+        animator.SetFloat(item1, val1);
+        animator.SetFloat(item2, val2);
+        charOutlineAnimator.SetFloat(item1, val1);
+        charOutlineAnimator.SetFloat(item2, val2);
+    }
 
     private void quartiles(float norm_x, float norm_y, bool normal_line)
     {

@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 759051660027277154}
   - component: {fileID: 4646218276629405992}
   - component: {fileID: 4222158320833818402}
-  - component: {fileID: 487388462659920783}
   - component: {fileID: -8906404429055074036}
+  - component: {fileID: 1927272431434727357}
+  - component: {fileID: -2660493604367146367}
   m_Layer: 15
   m_Name: TreeFade5
   m_TagString: Untagged
@@ -72,8 +73,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1888254173
-  m_SortingLayer: 2
-  m_SortingOrder: 4
+  m_SortingLayer: 3
+  m_SortingOrder: 20
   m_Sprite: {fileID: 7873794741125866518, guid: b830349c04c166e478480c42fee841da, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -84,7 +85,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!70 &4222158320833818402
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -98,22 +99,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.008395195, y: -0.520072}
-  m_Size: {x: 1.050272, y: 1.0565796}
+  m_Offset: {x: -0.01507473, y: 0.23246819}
+  m_Size: {x: 1.2320995, y: 1.2321004}
   m_Direction: 0
---- !u!114 &487388462659920783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3719534051442183630}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a3bf51d6845faf498e7accbca73e17b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tree: {fileID: 3719534051442183630}
 --- !u!60 &-8906404429055074036
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -127,10 +115,10 @@ PolygonCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.95}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0.15}
     oldSize: {x: 1.4375, y: 2.6875}
     newSize: {x: 1.4375, y: 2.6875}
     adaptiveTilingThreshold: 0.5
@@ -146,3 +134,26 @@ PolygonCollider2D:
       - {x: 0.32243156, y: 1.0232611}
       - {x: 0.0010375977, y: 1.350523}
       - {x: -0.38518524, y: 0.89372826}
+--- !u!114 &1927272431434727357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3719534051442183630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3bf51d6845faf498e7accbca73e17b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!210 &-2660493604367146367
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3719534051442183630}
+  m_Enabled: 0
+  m_SortingLayerID: -1888254173
+  m_SortingLayer: 3
+  m_SortingOrder: 20

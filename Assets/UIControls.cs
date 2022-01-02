@@ -23,6 +23,9 @@ public class UIControls : MonoBehaviour
 
     public bool lockControls;
 
+    private SpriteController character;
+    private Inventory inv;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -37,11 +40,23 @@ public class UIControls : MonoBehaviour
         settingsVisible = false;
         script = GameObject.Find("ScriptLoader").GetComponent<Globals>();
         MapCamera.transform.gameObject.SetActive(false);
+        character = GameObject.Find("Character").GetComponent<SpriteController>();
+        inv = inventory.GetComponent<Inventory>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if ((Input.GetKeyDown(KeyCode.Escape)|| Input.GetKeyDown(KeyCode.O) ) && !settingsVisible)
+        {
+            settingsVisible = true;
+            script.mainMenuScript.openSettingsWindow();
+        }
+        else if ((Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.O)) && settingsVisible)
+        {
+            settingsVisible = false;
+            script.mainMenuScript.returnSettingsButton();
+        }
         if (!lockControls)
         {
             if (Input.GetKeyDown(KeyCode.I) && inventory.activeSelf)
@@ -67,17 +82,23 @@ public class UIControls : MonoBehaviour
             }
             if (Input.GetKeyDown(KeyCode.M) && gameMap.activeSelf)
             {
-                gameMapPins.closeMap();
-                MapCamera.transform.gameObject.SetActive(false);
-                gameMap.SetActive(false);
-                //UI Destory manages 
-                //animatorMinimap.Play("MinimapHide");
+                if(character.Dungeon == "")
+                {
+                    gameMapPins.closeMap();
+                    MapCamera.transform.gameObject.SetActive(false);
+                    gameMap.SetActive(false);
+                    //UI Destory manages 
+                    //animatorMinimap.Play("MinimapHide");
+                }
             }
-            else if (Input.GetKeyDown(KeyCode.M) && !gameMap.activeSelf)
+            else if (Input.GetKeyDown(KeyCode.M) && !gameMap.activeSelf && inv.draggedID == -1)
             {
-                gameMapPins.updateMap();
-                MapCamera.transform.gameObject.SetActive(true);
-                gameMap.SetActive(true);
+                if (character.Dungeon == "")
+                {
+                    gameMapPins.updateMap();
+                    MapCamera.transform.gameObject.SetActive(true);
+                    gameMap.SetActive(true);
+                }
             }
             if (Input.GetKeyDown(KeyCode.H) && !visibleHelp)
             {
@@ -89,16 +110,7 @@ public class UIControls : MonoBehaviour
                 animatorHelpPanel.Play("HelpPanelHide");
                 visibleHelp = false;
             }
-            if (Input.GetKeyDown(KeyCode.Escape) && !settingsVisible)
-            {
-                settingsVisible = true;
-                script.mainMenuScript.openSettingsWindow();
-            }
-            else if (Input.GetKeyDown(KeyCode.Escape) && settingsVisible)
-            {
-                settingsVisible = false;
-                script.mainMenuScript.returnSettingsButton();
-            }
+            
         }
         
 

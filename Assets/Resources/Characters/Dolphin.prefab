@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8339880168332582564}
   - component: {fileID: 8391345537724212431}
   - component: {fileID: 2090940884498889132}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: dolphin-pixel-art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,7 +152,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4696753107060914822}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Dolphin
   m_TagString: Untagged
   m_Icon: {fileID: 0}

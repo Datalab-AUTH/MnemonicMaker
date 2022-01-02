@@ -20,6 +20,7 @@ public class InventoryHandler : MonoBehaviour, IPointerEnterHandler, IPointerExi
         dragDummy = script.dummyDrag.GetComponent<RawImage>();
         setImage(script.transparent);
         isDragged = false;
+        button_lock = false;
     }
 
     private void FixedUpdate()
@@ -38,39 +39,48 @@ public class InventoryHandler : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void onDrag(int buttonID)
     {
-        if (!isDragged)
+        if (!button_lock)
         {
-            isDragged = true;
-            inventory.dragged(buttonID);
+            if (!isDragged)
+            {
+                isDragged = true;
+                inventory.dragged(buttonID);
+            }
+            script.spriteController.disableMoving = true;
+            //transform.Find("RawImage").position = Input.mousePosition;
+            //Set this slot's image to the dummy
+            dragDummy.texture = slotImage.texture;
+            //Replace the image of the slot with transparent
+            slotImageReference.texture = script.transparent.texture;
+            dragDummy.transform.position = Input.mousePosition;
         }
-        script.spriteController.disableMoving = true;
-        //transform.Find("RawImage").position = Input.mousePosition;
-        //Set this slot's image to the dummy
-        dragDummy.texture = slotImage.texture;
-        //Replace the image of the slot with transparent
-        slotImageReference.texture = script.transparent.texture;
-        dragDummy.transform.position = Input.mousePosition;
-
     }
 
     public void OnDrop(int buttonID)
     {
-        inventory.dropped(buttonID);
+        if (!button_lock)
+            inventory.dropped(buttonID);
+        else
+            inventory.dropped(-1);
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        isDragged = false;
-        //if(!inventory.isOverInventory)
-        script.spriteController.disableMoving = false;
-        //reset dummy
-        dragDummy.transform.localPosition = Vector2.zero;
-        //reset drag dummy to transparent
-        dragDummy.texture = script.transparent.texture;
-        //for now
-        //if (inventory.draggedID == -99) //dropped on the same slot
-        //slotImageReference.texture = slotImage.texture;
-        inventory.removed();
+        if (!button_lock)
+        {
+            isDragged = false;
+            //if(!inventory.isOverInventory)
+            script.spriteController.disableMoving = false;
+            //reset dummy
+            dragDummy.transform.localPosition = Vector2.zero;
+            //reset drag dummy to transparent
+            dragDummy.texture = script.transparent.texture;
+            //for now
+            //if (inventory.draggedID == -99) //dropped on the same slot
+            //slotImageReference.texture = slotImage.texture;
+            inventory.removed();
+        }
+        
     }
 
     public void OnPointerEnter(PointerEventData eventData)
@@ -89,5 +99,20 @@ public class InventoryHandler : MonoBehaviour, IPointerEnterHandler, IPointerExi
             inventory.hover("Empty");
         }
     }
+
+    private bool button_lock = false;
+
+    public void lockButton()
+    {
+        GetComponent<Image>().sprite = script.transparent;
+        button_lock = true;
+    }
+
+    public void unlockButton()
+    {
+        GetComponent<Image>().sprite = inventory.defaultSlotSprite;
+        button_lock = false;
+    }
+
 
 }

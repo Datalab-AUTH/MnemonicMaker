@@ -13,6 +13,10 @@ public class MapPinsController : MonoBehaviour
 
     public bool mapOpen;
 
+    public LineRenderer line;
+
+    public CanvasGroup hud_canvas;
+
     private void Start()
     {
         bipRef = GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39;
@@ -23,6 +27,14 @@ public class MapPinsController : MonoBehaviour
     public void updateMap()
     {
         mapOpen = true;
+        //hud_canvas.interactable = false;
+        GameObject inventory = GameObject.Find("ScriptLoader").GetComponent<Globals>().inventory;
+        if (inventory.activeSelf)
+        {
+            //inventory.GetComponent<Animator>().Play("InventoryHide");
+            //UI Destory manages 
+        }
+        character.GetComponent<SpriteController>().disableAllMove = true;
         int x_offset = 0;
         //int y_offset = 0;
         if (!bipRef.day)
@@ -32,14 +44,47 @@ public class MapPinsController : MonoBehaviour
         float char_x = character.transform.position.x;
         float char_y = character.transform.position.y;
 
-        float pin_x = (((char_x-x_offset) * 2483) / 196) - 2483/2;
-        float pin_y = ((char_y * 1030.542f) / 81f) - 1030.542f/2;
+        float pin_x = (((char_x-x_offset) * 8804) / 196) - 8804 / 2;
+        float pin_y = ((char_y * 3640) / 81) - 3640 / 2;
 
         playerPin.transform.localPosition = new Vector3(pin_x, pin_y, playerPin.transform.localPosition.z);
+
+        camera.orthographicSize = 7f;
+        //height = 2f * camera.orthographicSize;
+        //width = height * camera.aspect;
+        float cam_x = (pin_x - 4402);
+        float cam_y = (pin_y - 1820);
+        Debug.Log("x : " + cam_x + " y: " + cam_y);
+        camera.transform.localPosition = new Vector3(pin_x, pin_y, -1);
+
+
+        GameObject target = GameObject.Find("ScriptLoader").GetComponent<Globals>().pathfinder.GetComponent<Pathfinding>().getTarget();
+        if (target != null)
+        {
+            line.enabled = true;
+            targetPin.SetActive(true);
+            float target_x = target.transform.localPosition.x;
+            float target_y = target.transform.localPosition.y;
+            float target_pin_x = ((target_x * 8804) / 196) - 8804 / 2;
+            float target_pin_y = ((target_y * 3640) / 81) - 3640 / 2;
+
+            targetPin.transform.localPosition = new Vector3(target_pin_x, target_pin_y, targetPin.transform.localPosition.z);
+
+            line.SetPosition(1, targetPin.transform.position);
+            line.SetPosition(0, playerPin.transform.position);
+        }
+        else
+        {
+            line.enabled = false;
+            targetPin.SetActive(false);
+        }
+        
     }
 
     public void closeMap()
     {
+        //hud_canvas.interactable = true;
+        character.GetComponent<SpriteController>().disableAllMove = false;
 
         mapOpen = false;
     }
@@ -56,10 +101,10 @@ public class MapPinsController : MonoBehaviour
     public float moveSmooth = 0.1f;
 
 
-    private float min_x = -38;
-    private float max_x = -1.8f;
-    private float min_y = -7.5f;
-    private float max_y = 7.5f;
+    private float min_x = -151f;
+    private float max_x = -64f;
+    private float min_y = -54f;
+    private float max_y = -17f;
 
     public float scroll;        //Input axis of your scroll wheel.
     public float addedSpeed = 0.4f;    //Input axis doesnt have enough power to make camera zoom properly so we add it
@@ -73,6 +118,8 @@ public class MapPinsController : MonoBehaviour
     {
         // DontDestroyOnLoad( this ); if( FindObjectsOfType( GetType() ).Length > 1 ) Destroy( gameObject );
         ResetCamera();
+
+        line.SetVertexCount(2);
     }
 
     ////////////////
@@ -83,7 +130,8 @@ public class MapPinsController : MonoBehaviour
         camera.orthographicSize = 7f;
         //height = 2f * camera.orthographicSize;
         //width = height * camera.aspect;
-        camera.transform.position = new Vector3(-21f, 0, 0);
+        camera.transform.localPosition = new Vector3(0, 0, -1);
+        //camera.transform.position = new Vector3(-108f, -35.9f, -1);
         cameraBounds.size = new Vector2(camera.aspect * 2f * camera.orthographicSize, 2f * camera.orthographicSize);
     }
 

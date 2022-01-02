@@ -5,183 +5,101 @@ using UnityEngine;
 public class RabbitAI : MonoBehaviour
 {
 
-    public GameObject rabbit;
-    public GameObject entity;
-    private GameObject character;
-    private GameObject characterLight;
-   // private Globals script;
-    public Animator animator;
-    private int counter = 0;
-    private bool delayedStop;
-    private bool triggered;
-    private Vector3 resetPosition;
-    private SpriteRenderer rabbitRenderer;
+    private Animator animator;
+    private Rigidbody2D rabbitRigid;
+    private BIP39Game script;
 
+    public float moveSpeed;
+    public bool isWalking;
+    public float walkTime;
+    public float waitTime;
+    private float walkCounter;
+    private float waitCounter;
+    private int walkDirection;
 
     // Start is called before the first frame update
     void Start()
     {
-        counter = 0;
-        //script = GameObject.Find("ScriptLoader").GetComponent<Globals>();
-        character = GameObject.Find("Character");
-        characterLight = character.gameObject.transform.Find("Night-Light").gameObject;
-        delayedStop = false;
-        triggered = false;
-        resetPosition = rabbit.transform.position;
-        rabbitRenderer = entity.gameObject.GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
+        script = GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39;
+        rabbitRigid = GetComponent<Rigidbody2D>();
+
+        waitCounter = waitTime;
+        walkCounter = walkTime;
+        chooseDirection();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void chooseDirection()
     {
-        triggered = true;
-        /*
-        Vector3 vecRabbitNew = new Vector3();
-        if(character.transform.position.x < rabbit.transform.position.x)
-        {
-            vecRabbitNew.y = rabbit.transform.position.y;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x + (float)0.1;
-        }
-        if (character.transform.position.x > rabbit.transform.position.x)
-        {
-            vecRabbitNew.y = rabbit.transform.position.y;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x - (float)0.1;
-        }
-        if (character.transform.position.y < rabbit.transform.position.y)
-        {
-            vecRabbitNew.y = rabbit.transform.position.y + (float)0.1;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x;
-        }
-        if (character.transform.position.y > rabbit.transform.position.y)
-        {
-            vecRabbitNew.y = rabbit.transform.position.y - (float)0.1;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x;
-        }
-        rabbit.transform.position = vecRabbitNew;*/
-        
-        Debug.Log("enter");
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        delayedStop = true;
-        triggered = false;
-        Debug.Log("exit");
-        /*animator.SetBool("TriggerJump", false);
-        Vector3 vecRabbitNew = new Vector3();
-        vecRabbitNew.y = entity.transform.position.y;
-        vecRabbitNew.z = entity.transform.position.z;
-        vecRabbitNew.x = (float)0.425 + rabbit.transform.position.x;
-        rabbit.transform.position = vecRabbitNew;*/
-    }
-
-    public void setParent()
-    {
-        //Debug.Log("Animation end");
-        Vector3 vecRabbitNew = new Vector3();
-        vecRabbitNew.y = entity.transform.position.y;
-        vecRabbitNew.z = 0;
-        vecRabbitNew.x = (float)0.425 + rabbit.transform.position.x;
-        rabbit.transform.position = vecRabbitNew;
-        if (delayedStop)
-        {
-            delayedStop = false;
-            animator.SetBool("TriggerJump", false);
-            animator.SetBool("TriggerJump2", false);
-        }
-    }
-
-    public void setParent2()
-    {
-        //Debug.Log("Animation end");
-        Vector3 vecRabbitNew = new Vector3();
-        vecRabbitNew.y = entity.transform.position.y;
-        vecRabbitNew.z = 0;
-        vecRabbitNew.x = (float)-0.425 + rabbit.transform.position.x;
-        rabbit.transform.position = vecRabbitNew;
-        if (delayedStop)
-        {
-            delayedStop = false;
-            animator.SetBool("TriggerJump", false);
-            animator.SetBool("TriggerJump2", false);
-        }
-    }
-
-    public void OnBecameInvisible()
-    {
-        rabbit.transform.position = resetPosition;
+        walkDirection = Random.Range(0, 2);
+        isWalking = true;
+        walkCounter = walkTime;
     }
 
     private void Update()
     {
-
-        if (!rabbitRenderer.isVisible)
-        {
-            rabbit.transform.position = resetPosition;
-        }
-
-        if (characterLight.gameObject.activeSelf)
+      
+        
+        if (!script.day)
         {
             animator.SetBool("NightTime", true);
+            rabbitRigid.velocity = Vector2.zero;
         }
         else
         {
             animator.SetBool("NightTime", false);
-        }
 
-        if (triggered)
-        {
-            if (character.transform.position.x < rabbit.transform.position.x)
+            if (isWalking)
             {
-                animator.SetBool("TriggerJump", true);
-                animator.SetBool("TriggerJump2", false);
+
+                walkCounter -= Time.deltaTime;
+
+                if (walkDirection == 0)
+                {
+                    rabbitRigid.velocity = new Vector2(moveSpeed, 0);
+                    animator.SetBool("TriggerJump", true);
+                    animator.SetBool("TriggerJump2", false);
+                }
+                else
+                {
+                    rabbitRigid.velocity = new Vector2(-moveSpeed, 0);
+                    animator.SetBool("TriggerJump", false);
+                    animator.SetBool("TriggerJump2", true);
+                }
+
+
+                if (walkCounter < 0)
+                {
+                    isWalking = false;
+                    waitCounter = waitTime;
+                }
             }
-            if (character.transform.position.x >= rabbit.transform.position.x)
+            else
             {
-                animator.SetBool("TriggerJump", false);
-                animator.SetBool("TriggerJump2", true);
+                waitCounter -= Time.deltaTime;
+                rabbitRigid.velocity = Vector2.zero;
+                if(walkDirection == 0)
+                {
+                    animator.SetBool("idle", true);
+                    animator.SetBool("idle2", false);
+                    animator.SetBool("TriggerJump", false);
+                    animator.SetBool("TriggerJump2", false);
+                }
+                else
+                {
+
+                    animator.SetBool("idle", false);
+                    animator.SetBool("idle2", true);
+                    animator.SetBool("TriggerJump", false);
+                    animator.SetBool("TriggerJump2", false);
+                }
+                if (waitCounter < 0)
+                {
+                    chooseDirection();
+                }
             }
+
+            return;
         }
-        
-        /*
-        Vector3 vecRabbitNew = new Vector3();
-        if (counter < 5)
-        {
-            counter++;
-            vecRabbitNew.y = rabbit.transform.position.y;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x + (float)0.1;
-        }
-        if( counter == 5)
-        {
-            rabbit.GetComponent<SpriteRenderer>().flipX = true;
-        }
-        if(counter >= 5 && counter < 15)
-        {
-            counter++;
-            vecRabbitNew.y = rabbit.transform.position.y;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x - (float)0.1;
-        }
-        if(counter >= 15 && counter < 20)
-        {
-            counter++;
-            vecRabbitNew.y = rabbit.transform.position.y;
-            vecRabbitNew.z = rabbit.transform.position.z;
-            vecRabbitNew.x = rabbit.transform.position.x + (float)0.1;
-        }
-        if(counter == 15)
-        {
-            rabbit.GetComponent<SpriteRenderer>().flipX = false;
-        }
-        if(counter == 20)
-        {
-            counter = 0;
-        }
-        rabbit.transform.position = vecRabbitNew;
-        */
     }
 }

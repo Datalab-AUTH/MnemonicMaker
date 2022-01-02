@@ -10,7 +10,7 @@ public class ShadowLayerFix : MonoBehaviour
     void Update()
     {
         gameObject.layer = character.layer;
-        gameObject.GetComponent<SpriteRenderer>().sortingOrder = character.GetComponent<SpriteRenderer>().sortingOrder;
+        gameObject.GetComponent<SpriteRenderer>().sortingOrder = character.GetComponent<SpriteRenderer>().sortingOrder - 1;
         gameObject.GetComponent<SpriteRenderer>().sortingLayerName = character.GetComponent<SpriteRenderer>().sortingLayerName;
     }
 }

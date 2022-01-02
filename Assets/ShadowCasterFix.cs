@@ -9,8 +9,11 @@ public class ShadowCasterFix : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(wait(1f));
-        StartCoroutine(wait2(1.5f));
+        if (!GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39.day)
+        {
+            StartCoroutine(wait(0.2f));
+            StartCoroutine(wait2(0.3f));
+        }
     }
 
     IEnumerator wait(float delayTime)

@@ -57,6 +57,11 @@ public class Pathfinding : MonoBehaviour
         right_arrow.SetActive(false);
     }
 
+    public GameObject getTarget()
+    {
+        return pathfindTarget;
+    }
+
     public void feedPathfinder(List<Bitcoin> bitcoinList)
     {
         listItems = new GameObject[12];
@@ -78,19 +83,38 @@ public class Pathfinding : MonoBehaviour
             newItem.transform.SetParent(pathfindList.transform, false);
             newItem.GetComponent<SelectPathfindItem>().id = i;
 
-            listItems[i].transform.Find("Text").GetComponent<Text>().text = bitcoinList[i].ItemWord;
+            listItems[i].transform.Find("Active").transform.Find("Text").GetComponent<Text>().text = bitcoinList[i].ItemWord;
+            listItems[i].transform.Find("Disabled").transform.Find("Text").GetComponent<Text>().text = bitcoinList[i].ItemWord;
             //GetComponent<Text>().color = new Color(37, 42, 67);
-            Sprite image = listItems[i].transform.Find("Image").GetComponent<Image>().sprite;
+            Sprite image = listItems[i].transform.Find("Active").transform.Find("Image").GetComponent<Image>().sprite;
+            Sprite image2 = listItems[i].transform.Find("Disabled").transform.Find("Image").GetComponent<Image>().sprite;
             if (bitcoinList[i].Extras_variation)
             {
                 image = normalCoin;
+                image2 = normalCoin;
             }
             else
             {
                 image = darkCoin;
+                image2 = darkCoin;
             }
-            listItems[i].transform.Find("Image").GetComponent<Image>().sprite = image;
+            listItems[i].transform.Find("Active").transform.Find("Image").GetComponent<Image>().sprite = image;
+            listItems[i].transform.Find("Disabled").transform.Find("Image").GetComponent<Image>().sprite = image2;
         }
+    }
+
+    public bool crossCheckPathfinder(int index, Inventory.InventoryItem item)
+    {
+        if(itemsToPathfind[index].BitcoinID == item.parentID &&
+           itemsToPathfind[index].Extras_variation == item.star)
+        {
+            listItems[index].transform.Find("Active").gameObject.SetActive(false);
+            listItems[index].transform.Find("Disabled").gameObject.SetActive(true);
+            return true;
+        }
+        listItems[index].transform.Find("Active").gameObject.SetActive(true);
+        listItems[index].transform.Find("Disabled").gameObject.SetActive(false);
+        return false;
     }
 
     public void pathfindPopup()
@@ -111,7 +135,7 @@ public class Pathfinding : MonoBehaviour
     {
         if (currentPathfindSelected != -1)
         {
-            listItems[currentPathfindSelected].transform.Find("ActiveBorder").gameObject.SetActive(false);
+            listItems[currentPathfindSelected].transform.Find("Active").transform.Find("ActiveBorder").gameObject.SetActive(false);
         }
 
         if(currentPathfindSelected == listID)
@@ -122,7 +146,7 @@ public class Pathfinding : MonoBehaviour
         else
         {
             currentPathfindSelected = listID;
-            listItems[listID].transform.Find("ActiveBorder").gameObject.SetActive(true);
+            listItems[listID].transform.Find("Active").transform.Find("ActiveBorder").gameObject.SetActive(true);
 
 
             Bitcoin bitcoinSelected = itemsToPathfind[currentPathfindSelected];
@@ -202,6 +226,7 @@ public class Pathfinding : MonoBehaviour
             {
                 //set last pathfind target to default material
                 pathfindTarget.GetComponent<GlowController>().setDefaultMaterial();
+                pathfindTarget = null;
             }
         }
     }

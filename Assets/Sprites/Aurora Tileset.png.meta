@@ -791,6 +791,15 @@ TextureImporter:
   - first:
       213: 1823631559862856594
     second: Aurora Tileset_262
+  - first:
+      213: -6647882054656123853
+    second: Aurora Tileset_263
+  - first:
+      213: 1805498966082288899
+    second: Aurora Tileset_264
+  - first:
+      213: 7544599196345423075
+    second: Aurora Tileset_265
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1002,11 +1011,15 @@ TextureImporter:
         y: 562
         width: 30
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -15, y: 6}
+        - {x: -15, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 6}
       tessellationDetail: 0
       bones: []
       spriteID: 3093e387f621b7010800000000000000
@@ -1482,11 +1495,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 9
-        y: 258
+        y: 260
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1503,11 +1516,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 73
-        y: 258
+        y: 257
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1527,8 +1540,8 @@ TextureImporter:
         y: 258
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1544,12 +1557,12 @@ TextureImporter:
       name: Aurora Tileset_31
       rect:
         serializedVersion: 2
-        x: 201
+        x: 202
         y: 258
         width: 46
         height: 86
       alignment: 9
-      pivot: {x: 0.5, y: 0.37209302}
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1569,8 +1582,8 @@ TextureImporter:
         y: 258
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2682,8 +2695,8 @@ TextureImporter:
         y: 162
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2703,8 +2716,8 @@ TextureImporter:
         y: 162
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2720,12 +2733,12 @@ TextureImporter:
       name: Aurora Tileset_87
       rect:
         serializedVersion: 2
-        x: 137
+        x: 138
         y: 162
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2746,7 +2759,7 @@ TextureImporter:
         width: 46
         height: 86
       alignment: 9
-      pivot: {x: 0.5, y: 0.3372093}
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2766,8 +2779,8 @@ TextureImporter:
         y: 162
         width: 46
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4030,7 +4043,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -11, y: 2}
+        - {x: -11, y: -11}
+        - {x: 7, y: -11}
+        - {x: 11, y: -8}
+        - {x: 11, y: 2}
       tessellationDetail: 0
       bones: []
       spriteID: 417fb049da7596b10800000000000000
@@ -6408,6 +6426,81 @@ TextureImporter:
       bones: []
       spriteID: 29b21dedd37de4910800000000000000
       internalID: 1823631559862856594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora Tileset_263
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 562
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 6.5}
+        - {x: -16, y: -13.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c17874e7afdb3a0800000000000000
+      internalID: -6647882054656123853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora Tileset_264
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 562
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 6.5}
+        - {x: -16, y: -13.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7ba36ebb6e0910800000000000000
+      internalID: 1805498966082288899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aurora Tileset_265
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 562
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 6.5}
+        - {x: -16, y: -13.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dddefefcc3b860800000000000000
+      internalID: 7544599196345423075
       vertices: []
       indices: 
       edges: []

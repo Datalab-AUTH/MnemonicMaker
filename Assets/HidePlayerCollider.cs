@@ -7,6 +7,9 @@ public class HidePlayerCollider : MonoBehaviour
     private GameObject character;
     private SpriteController characterSprCont;
 
+    //public int applyLayerID = 0;
+    //public string applyLayerName = "Overworld";
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,16 +19,22 @@ public class HidePlayerCollider : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        character.GetComponent<SpriteRenderer>().sortingOrder = 4;
-        character.GetComponent<SpriteRenderer>().sortingLayerName = "Default";
+        if(collision.gameObject.name.Trim()== "Character")
+        {
+            character = GameObject.Find("Character");
+            characterSprCont = character.GetComponent<SpriteController>();
+            characterSprCont.isBehindTree++;
+        }
+        
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (characterSprCont.isBehindTree == 0)
+        if (collision.gameObject.name.Trim() == "Character")
         {
-            character.GetComponent<SpriteRenderer>().sortingOrder = 20;
-            character.GetComponent<SpriteRenderer>().sortingLayerName = "Overworld";
+            character = GameObject.Find("Character");
+            characterSprCont = character.GetComponent<SpriteController>();
+            characterSprCont.isBehindTree--;
         }
     }
 }

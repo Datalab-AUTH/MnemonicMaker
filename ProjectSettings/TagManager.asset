@@ -10,6 +10,7 @@ TagManager:
   - Collectibles-Chest
   - Overworld
   - Bridge
+  - Light
   layers:
   - Default
   - TransparentFX
@@ -29,20 +30,20 @@ TagManager:
   - Interact
   - Collectible
   - Post-Processing
-  - 
-  - 
+  - Teleport
+  - TeleportFloor1
   - InteractFloor1
   - InteractFloor2
   - PlayerFloor1
   - PlayerFloor2
-  - 
+  - TeleportFloor2
   - CollectibleFloor1
   - CollectibleFloor2
   - 
   - IgnoreAllButMouse
   - 
-  - 
-  - 
+  - NPC-critters
+  - NPC-seacreature
   m_SortingLayers:
   - name: Default
     uniqueID: 0
