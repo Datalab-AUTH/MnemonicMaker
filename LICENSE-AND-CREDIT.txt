@@ -1,0 +1,177 @@
+LICENSE AND CREDIT
+
+ASSETS:
+	ANIMATIONS:
+		Main character: https://opengameart.org/content/whispers-of-avalon-archer-sprite
+						LICENSE: CC-BY 3.0 , GPL 3.0, GPL 2.0 
+						Author: Leonard Pabin
+		Dolphin: 		Source: google images
+						LICENSE: none
+						Animated by: Mixalis Gatsoulis
+		Rabbit: 		Source: google images
+						LICENSE: ----
+						Animated by Mixalis Gatsoulis
+		Turtle: 		Source: google images
+						LICENSE: none
+						Animated by: Mixalis Gatsoulis
+		Lantern: 		https://szadiart.itch.io/pixel-platformer-world
+						LICENSE: free 	
+						License for Everyone. 
+						Public domain and free to use, personal or commercial. Credit is not required but appreciated. You can edit, but not sell the asset pack.
+						Author: Szadi art. https://szadiart.itch.io/
+		Blue torch: 	https://szadiart.itch.io/pixel-platformer-world
+						LICENSE: free 	
+						License for Everyone. 
+						Public domain and free to use, personal or commercial. Credit is not required but appreciated. You can edit, but not sell the asset pack.
+						Author: Szadi art. https://szadiart.itch.io/
+		Red torch: 		https://atole6.itch.io/2d-pixelart-torch
+						LICENSE: free
+						- You can use this asset for personal and commercial purpose. Credit is not required but would be appreciated. 
+						- Modify to suit your needs.
+						Author: Atole6 https://atole6.itch.io/
+		Waterfall: 		https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+						LICENSE: free
+						- For commercial or personal use.
+						- Use and edit freely.
+						Author: Pipoya https://pipoya.itch.io/
+		Fire(Bonfires): https://kauzz.itch.io/kpf
+						LICENSE: free
+						Author: KAUZZ https://kauzz.itch.io/
+		Fairy effects:  https://www.pngwing.com/en/free-png-pfbkm
+						LICENSE: Non-commercial use, DMCA
+		Fairy(char)		https://www.pngwing.com/en/free-png-nddgv
+						LICENSE: Non-commercial use, DMCA
+		Portal: 		https://elthen.itch.io/2d-pixel-art-portal-sprites
+						LICENSE: free	
+						Feel free to use the sprites in commercial/non-commercial projects!
+						Author: Elthen https://elthen.itch.io/
+	
+	STATIC SPRITES:
+		Boat: 			Source: google images
+		Bitcoin:		Source: google images
+		Bitcoin pouches:Source: google images
+		Bitcoin item:	Source: google images
+		Bitcoin chest:  https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+						LICENSE: free
+						- For commercial or personal use.
+						- Use and edit freely.
+						Author: Pipoya https://pipoya.itch.io/
+		Tomb houses:    https://szadiart.itch.io/2d-magic-lands-dung1
+						LICENSE: free
+						License for Everyone. 
+						You can use the Licensed Asset to create Public domain and free to use,
+						personal or commercial.
+						>>> You can use the Licensed Asset:
+						(a) edit and modify, cut and change the asset used for commercial purposes;
+						(b) sell works created with the assets;
+						Author: Szadi art. https://szadiart.itch.io/
+		Tileset 1:		https://oddpotatogift.itch.io/32x32-aurora
+						LICENSE: free
+						Author: OddPotatoGift https://oddpotatogift.itch.io/
+		Tileset 2:		https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+						LICENSE: free
+						- For commercial or personal use.
+						- Use and edit freely.
+						Author: Pipoya https://pipoya.itch.io/
+		Tileset 3:		https://szadiart.itch.io/rogue-fantasy-catacombs
+						LICENSE: free
+						--- License for Everyone ---
+						Public domain and free to use, personal or commercial. 
+						Credit is not required but appreciated. You can edit, 
+						but not resell the asset pack (original or changed).
+						Author: Szadi art. https://szadiart.itch.io/
+		Tileset 4:      https://elthen.itch.io/2d-pixel-art-dungeon-tileset
+						LICENSE: CC BY-NC 4.0
+						Author: Elthen https://elthen.itch.io/
+		Tileset 5:      https://raou.itch.io/free-dungeon-mini-tileset
+						LICENSE: free
+						Author: Raou https://raou.itch.io/
+		Tileset 6:		https://natancosta.itch.io/modicus-dungeon
+						LICENSE: free
+						Author: https://natancosta.itch.io/
+		Tileset 7: 		https://kentangpixel.itch.io/top-down-tile-and-some-mob-sprite
+						LICENSE: free
+						All the assets here  can be use for commercial use.
+						You may not redistribute it or resell it.
+						You can modify it to suit your own needs.
+						Author: Kentag https://kentangpixel.itch.io/
+		Tileset 8:		https://assetstore.unity.com/packages/templates/tutorials/creator-kit-rpg-149309
+		Clouds + Water	LICENSE: Standard Unity Asset Store EULA - Extension Asset
+		+ Grass floor +	Author: Unity Technologies https://assetstore.unity.com/publishers/1
+		Dirt road
+	
+	UI SPRITES: 
+		Cursor:			Source: unknown
+		Pop-up text: 	created with https://fontmeme.com/
+		Boots icon:		https://pixabay.com/illustrations/helmet-armor-chest-plate-boots-5724641/
+						LICENSE: Pixabay License
+						Free for commercial use
+						No attribution required
+						Author: Keinianz https://pixabay.com/users/keinianz-15611429/
+		Borders:		https://piposchpatz.itch.io/ui-borders-art-deco-pixel-art
+						LICENSE: CC BY 4.0
+						Author: PIPOSCHPATZ https://piposchpatz.itch.io/
+		GUI Elements:	Source: unknown
+		GUI Banner:		https://s4m-ur4i.itch.io/pixelart-clouds-background
+						LICENSE: free
+						Author: Sam Vieten https://s4m-ur4i.itch.io/
+		GUI Banner moon:https://dribbble.com/shots/15545683-Pixel-Moon
+						LICENSE: unknown
+						Author: Jasmin Winiarski https://dribbble.com/jasminwiniarski
+		Pathfinding: 	Source: google images
+		X-Mark map:		created with https://fontmeme.com/
+						
+	FONT:	
+		Font 1:			https://www.dafont.com/bugsmirc.font
+						LICENSE:  Free for personal use
+						Author: Dafont.com https://www.dafont.com/
+						
+	SOUNDS:	
+		Overworld:		https://www.bitbybitsound.com/
+			+			LICENSE: Royalty-free purchase
+		Dungeon			Licensing Notes:
+						All tracks are offered on a non-exclusive license. All music is original and composed by Bert Cole.
+						On purchasing a license i.e. completing the payment process, you can use the music anywhere you like and across multiple 
+						projects as long as you adhere to the restrictions outlined below.
+						Please credit me clearly as the composer wherever the music is used.
+						Credit should read as ‘Music composed by Bert Cole’ and include a link
+						to my homepage & Twitter account (bitbybitsound.com | @BitByBitSound)
+						Each license and purchase is applicable to one company or one person only. 
+						It is forbidden to re-sell any of these works (e.g. as part of a soundtrack or in any other form).
+						It is forbidden to create or sell any derivative works.
+						Composer: Bert Cole bitbybitsound.com
+		Water Impact:	https://freesound.org/people/swuing/sounds/38874/
+			+			LICENSE CC BY 3.0
+		Footsteps		
+		
+	DATA:	
+		WordlistsBIP39: https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md
+						Authors:  Marek Palatinus <slush@satoshilabs.com>
+								  Pavol Rusnak <stick@satoshilabs.com>
+								  Aaron Voisine <voisine@gmail.com>
+								  Sean Bowe <ewillbefull@gmail.com>
+		BIP39 Tool:		https://github.com/iancoleman/bip39
+						https://iancoleman.io/bip39/
+						LICENSE: MIT
+						Author: Ian Coleman https://github.com/iancoleman
+		Item names:		Source: https://www.fantasynamegenerators.com/artifact-names.php
+						LICENSE: unknown
+	
+	TOOLS:
+		WEBGL Template: https://github.com/sno/unity-webgl-responsive
+						LICENSE: MIT
+						Author: dominik johann https://github.com/sno
+		JekyllTemplate: https://github.com/sharadcodes/jekyll-theme-dark-reader
+						LICENSE: MIT
+						Author: Sharad Raj http://github.com/sharadcodes
+		Unity2d-extras: https://github.com/Unity-Technologies/2d-extras		
+						LICENSE: 2D Tilemap Extras copyright © 2020 Unity Technologies ApS
+						Licensed under the Unity Companion License for Unity-dependent projects--see Unity Companion License.
+						https://unity3d.com/legal/licenses/Unity_Companion_License
+						Author: Unity Technologies https://github.com/Unity-Technologies
+	SOURCE CODE:
+		BIP39 C#:		https://github.com/elucidsoft/dotnetstandard-bip39
+						LICENSE: Apache-2.0 License
+						modified code : https://github.com/elucidsoft/dotnetstandard-bip39/blob/master/dotnetstandard-bip39/BIP39.cs#L232
+						Author: Eric https://github.com/elucidsoft
+		
