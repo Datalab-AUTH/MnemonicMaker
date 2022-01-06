@@ -76,7 +76,8 @@ public class BIP39Game : MonoBehaviour
 
     public void warpToHouse()
     {
-        if(warpsAvailable == -1 || warpsAvailable > 0)
+        
+        if (warpsAvailable == -1 || warpsAvailable > 0)
         {
             CinemachineFader cvFader = GameObject.Find("ScriptLoader").GetComponent<CinemachineFader>();
             cvFader.fadeCamera();
@@ -92,7 +93,8 @@ public class BIP39Game : MonoBehaviour
 
     IEnumerator DelayAction(float delayTime)
     {
-
+        SpriteController spc = GameObject.Find("Character").GetComponent<SpriteController>();
+        spc.disableAllMove = true;
         ChunkController controller = GameObject.Find("ScriptLoader").GetComponent<ChunkController>();
         AudioLibrary audioController = GameObject.Find("Audio").GetComponent<AudioLibrary>();
         //Wait for the specified delay time before continuing.
@@ -125,6 +127,7 @@ public class BIP39Game : MonoBehaviour
             GameObject.Find("ScriptLoader").GetComponent<Globals>().pathfinder.GetComponent<Pathfinding>().pathfind();
 
         GameObject.Find("ScriptLoader").GetComponent<EffectManager>().changeEffects();
+        spc.disableAllMove = false;
     }
 
     /*

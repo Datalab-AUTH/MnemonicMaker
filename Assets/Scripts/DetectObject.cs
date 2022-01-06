@@ -15,6 +15,7 @@ public class DetectObject : MonoBehaviour
     private bool isInRange;
     private Globals script;
     private Animator animator;
+    private bool selectionOpen;
 
     void Start()
     {
@@ -23,6 +24,7 @@ public class DetectObject : MonoBehaviour
         isInRange = false;
         script = GameObject.Find("ScriptLoader").GetComponent<Globals>();
         animator = UI.GetComponent<Animator>();
+        selectionOpen = false;
     }
 
     private void Update()
@@ -30,12 +32,30 @@ public class DetectObject : MonoBehaviour
         if (isInRange &&
             Input.GetKeyDown("e"))
         {
+            selectionOpen = true;
             script.bitcoinController.setActiveBitcoin(GetComponent<ItemEdit>().id);
             script.mainMenuScript.openSelectionWindow();
             //and open inventory for consistency
             script.inventory.GetComponent<RectTransform>().gameObject.SetActive(true);
             script.inventory.GetComponent<Animator>().Play("InventoryShow");
+            openItemPanel(gameObject.GetComponent<ItemEdit>().itemName);
         }
+        if (isInRange)
+        {
+            script.itemPanel.SetActive(true);
+            script.itemDisplay.text = gameObject.GetComponent<ItemEdit>().itemName;
+            isActive = true;
+            if (!script.mainMenuScript.itemSelection.gameObject.activeSelf)
+            {
+                selectionOpen = false;
+            }
+        }
+    }
+
+    private void openItemPanel(string item)
+    {
+        script.itemPanel.GetComponent<Animator>().Play("ItemPanelMove");
+        script.itemDisplay.text = item;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -49,10 +69,22 @@ public class DetectObject : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        script.itemPanel.SetActive(false);
+        if (selectionOpen)
+        {
+            selectionOpen = false;
+            script.bitcoinController.setActiveBitcoin(-1);
+            script.mainMenuScript.returnButton();
+            script.inventory.GetComponent<Animator>().Play("InventoryHide");
+        }
+        else
+        {
+            script.itemPanel.SetActive(false);
+            script.itemDisplay.text = "";
+        }
         animator.SetBool("IsNear", false);
-        script.itemDisplay.text = "";
         isInRange = false;
+        
+        
     }
 
     void OnMouseOver()
@@ -70,9 +102,13 @@ public class DetectObject : MonoBehaviour
      
     void OnMouseExit()
     {
-        script.itemDisplay.text = "";
-        script.itemPanel.SetActive(false);
-        isActive = false;
-        Cursor.SetCursor(crosshair, Vector2.zero, CursorMode.Auto);
+        if (!isInRange)
+        {
+            script.itemDisplay.text = "";
+            script.itemPanel.SetActive(false);
+            isActive = false;
+            Cursor.SetCursor(crosshair, Vector2.zero, CursorMode.Auto);
+        }
+        
     }
 }

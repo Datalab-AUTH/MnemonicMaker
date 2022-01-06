@@ -4,7 +4,7 @@ ASSETS:
 	ANIMATIONS:
 		Main character: https://opengameart.org/content/whispers-of-avalon-archer-sprite
 						LICENSE: CC-BY 3.0 , GPL 3.0, GPL 2.0 
-						Author: Leonard Pabin
+						Author: Leonard Pabin https://opengameart.org/users/leonard-pabin
 		Dolphin: 		Source: google images
 						LICENSE: none
 						Animated by: Mixalis Gatsoulis
@@ -150,17 +150,17 @@ ASSETS:
 								  Pavol Rusnak <stick@satoshilabs.com>
 								  Aaron Voisine <voisine@gmail.com>
 								  Sean Bowe <ewillbefull@gmail.com>
-		BIP39 Tool:		https://github.com/iancoleman/bip39
-						https://iancoleman.io/bip39/
-						LICENSE: MIT
-						Author: Ian Coleman https://github.com/iancoleman
 		Item names:		Source: https://www.fantasynamegenerators.com/artifact-names.php
 						LICENSE: unknown
 	
 	TOOLS:
+		BIP39 Tool:		https://github.com/iancoleman/bip39
+						https://iancoleman.io/bip39/
+						LICENSE: MIT
+						Author: Ian Coleman https://github.com/iancoleman
 		WEBGL Template: https://github.com/sno/unity-webgl-responsive
 						LICENSE: MIT
-						Author: dominik johann https://github.com/sno
+						Author: Dominik Johann https://github.com/sno
 		JekyllTemplate: https://github.com/sharadcodes/jekyll-theme-dark-reader
 						LICENSE: MIT
 						Author: Sharad Raj http://github.com/sharadcodes

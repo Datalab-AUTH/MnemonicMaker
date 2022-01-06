@@ -57,6 +57,7 @@ public class ChestInventory : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 
     public void setInventoryToChestItems(List<Bitcoin> content)
     {
+        //spriteController.disableAllMove = true;
         int counter = 0;
         for(int i=0; i<content.Count; i++)
         {
@@ -74,6 +75,20 @@ public class ChestInventory : MonoBehaviour, IPointerEnterHandler, IPointerExitH
             slots[j].item = null;
             setItemInSlot(j,null);
         }
+    }
+
+    public void clearInventory()
+    {
+        //spriteController.disableAllMove = false;
+        for (int j = 0; j < slots.Length; j++)
+        {
+            //clear remaining slots if have to.
+            slots[j].item = null;
+            setItemInSlot(j, null);
+        }
+        script.bitcoinController.setActiveBitcoin(-1);
+        script.mainMenuScript.returnButton();
+        Debug.Log("Chest contents cleared");
     }
 
     private void setItemInSlot(int slotID, Bitcoin item)
@@ -117,8 +132,15 @@ public class ChestInventory : MonoBehaviour, IPointerEnterHandler, IPointerExitH
                 script.inventory.GetComponent<RectTransform>().gameObject.SetActive(true);
                 script.inventory.GetComponent<Animator>().Play("InventoryShow");
             }
-            
+            openItemPanel(slots[slotID].item.ItemWord);
         }
+    }
+
+    private void openItemPanel(string item)
+    {
+        script.itemPanel.SetActive(true);
+        script.itemPanel.GetComponent<Animator>().Play("ItemPanelMove");
+        script.itemDisplay.text = item;
     }
 
     public void onHover(int slotID)

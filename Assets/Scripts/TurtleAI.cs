@@ -47,7 +47,6 @@ public class TurtleAI : MonoBehaviour
         }*/
         if (true)
         {
-            animator.SetBool("NightTime", false);
 
             if (isWalking)
             {

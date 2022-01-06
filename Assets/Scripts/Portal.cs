@@ -82,7 +82,8 @@ public class Portal : MonoBehaviour
 
     IEnumerator DelayAction(float delayTime, Gate exit)
     {
-
+        SpriteController spc = GameObject.Find("Character").GetComponent<SpriteController>();
+        spc.disableAllMove = true;
         ChunkController controller = GameObject.Find("ScriptLoader").GetComponent<ChunkController>();
         AudioLibrary audioController = GameObject.Find("Audio").GetComponent<AudioLibrary>();
         //Wait for the specified delay time before continuing.
@@ -102,6 +103,7 @@ public class Portal : MonoBehaviour
             GameObject.Find("ScriptLoader").GetComponent<Globals>().pathfinder.GetComponent<Pathfinding>().pathfind();
 
         GameObject.Find("ScriptLoader").GetComponent<EffectManager>().changeEffects();
+        spc.disableAllMove = false;
     }
 
 }

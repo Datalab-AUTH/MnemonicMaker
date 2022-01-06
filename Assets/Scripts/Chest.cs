@@ -78,6 +78,8 @@ public class Chest : MonoBehaviour
         //Open the chest
         if (chestIsOpen)
         {
+            script.chestInventory.clearInventory();
+
             animator.SetBool("ChestNear", false);
             script.chestInventory.GetComponent<RectTransform>().gameObject.SetActive(false);
 

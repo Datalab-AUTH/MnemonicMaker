@@ -1,13 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UIDestroy : MonoBehaviour
 {
     public GameObject inventory;
     public GameObject chestInventory;
-    public GameObject minimap;
-    public Camera MinimapCamera;
+    public GameObject itemPanel;
 
     public void disableUI()
     {
@@ -15,10 +15,11 @@ public class UIDestroy : MonoBehaviour
         chestInventory.SetActive(false);
     }
 
-    public void disableMinimapUI()
+    public void disableItemPanel()
     {
-        minimap.SetActive(false);
-        MinimapCamera.transform.gameObject.SetActive(false);
+        itemPanel.transform.Find("ItemDisplay").GetComponent<Text>().text = "";
+        itemPanel.SetActive(false);
     }
+
 
 }

@@ -33,7 +33,7 @@ public class BitcoinController : MonoBehaviour
         temp.BitcoinWords[1].bitcoinName = "In-development";
         temp.ItemWord = "In-development";
         temp.BitcoinID = -1;
-        activeBitcoin = null;
+        activeBitcoin = temp;
         //switchLights(false); //disable bitcoin lights entirelly
         testBitcoin();
         //logBitcoins();
@@ -232,6 +232,7 @@ public class BitcoinController : MonoBehaviour
 
     public Bitcoin findByBitcoinID(int bitcoinID)
     {
+        if (bitcoinID == -1) return temp;
         foreach (Bitcoin bitcoin in bitcoinList)
         {
             if (bitcoin.BitcoinID == bitcoinID)
@@ -244,6 +245,7 @@ public class BitcoinController : MonoBehaviour
 
     public string findWordByBitcoin(int bitcoinID, bool variation)
     {
+        if (bitcoinID == -1) return null;
         foreach (Bitcoin bitcoin in bitcoinList)
         {
             if (bitcoin.BitcoinID == bitcoinID)

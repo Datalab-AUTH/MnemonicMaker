@@ -10,9 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8871467248047075443}
   - component: {fileID: 3598332005591252537}
-  - component: {fileID: 5408092648940597299}
   - component: {fileID: 8599329070304787614}
   - component: {fileID: 1635633284106904394}
+  - component: {fileID: 9151473789307914466}
+  - component: {fileID: -5656615790424158878}
+  - component: {fileID: 3068315313050393362}
+  - component: {fileID: 4143805889574675990}
   m_Layer: 15
   m_Name: DryTreeFade 2
   m_TagString: Untagged
@@ -85,22 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
---- !u!70 &5408092648940597299
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4758907878158193375}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.009160042, y: 0.37}
-  m_Size: {x: 1.519762, y: 1.519762}
-  m_Direction: 0
 --- !u!114 &8599329070304787614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -147,3 +134,67 @@ PolygonCollider2D:
       - {x: 0.46292686, y: 1.1462011}
       - {x: -0.016525269, y: 1.3446712}
       - {x: -0.6134949, y: 1.1220417}
+--- !u!70 &9151473789307914466
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4758907878158193375}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.022459984, y: 0.20088303}
+  m_Size: {x: 1.1815281, y: 1.1815281}
+  m_Direction: 0
+--- !u!70 &-5656615790424158878
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4758907878158193375}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.03, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
+  m_Direction: 0
+--- !u!70 &3068315313050393362
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4758907878158193375}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.44, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
+  m_Direction: 0
+--- !u!70 &4143805889574675990
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4758907878158193375}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.46251452, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
+  m_Direction: 0

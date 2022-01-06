@@ -11,6 +11,9 @@ GameObject:
   - component: {fileID: 4950953257683010750}
   - component: {fileID: 1028877149051194100}
   - component: {fileID: 8405403728636052734}
+  - component: {fileID: 123167096394408557}
+  - component: {fileID: 4096993086786258974}
+  - component: {fileID: 6676145454824847000}
   - component: {fileID: 5259761872637069395}
   - component: {fileID: 2961809973361153927}
   m_Layer: 15
@@ -98,8 +101,56 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.009160042, y: 0.37}
-  m_Size: {x: 1.519762, y: 1.519762}
+  m_Offset: {x: -0.022459984, y: 0.20088303}
+  m_Size: {x: 1.1815281, y: 1.1815281}
+  m_Direction: 0
+--- !u!70 &123167096394408557
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9053238230970050066}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.46251452, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
+  m_Direction: 0
+--- !u!70 &4096993086786258974
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9053238230970050066}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.03, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
+  m_Direction: 0
+--- !u!70 &6676145454824847000
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9053238230970050066}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.44, y: 0.44978905}
+  m_Size: {x: 0.8964989, y: 0.9002991}
   m_Direction: 0
 --- !u!114 &5259761872637069395
 MonoBehaviour:

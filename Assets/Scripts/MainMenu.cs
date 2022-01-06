@@ -30,11 +30,16 @@ public class MainMenu : MonoBehaviour
     public Text extractHover;
     public GameObject extractPanel;
     private BoatIntro biRef;
+    private Globals script;
+
+    public GameObject creditsPanel;
+    public bool creditsPlaying;
     // Start is called before the first frame update
     void Start()
     {
         endPromptVisible = false;
-        bipReference = GameObject.Find("ScriptLoader").GetComponent<Globals>().bip39;
+        script = GameObject.Find("ScriptLoader").GetComponent<Globals>();
+        bipReference = script.bip39;
         resolutions = new List<(int, int)>();
         //resolutions.Add((320, 180));
 #if UNITY_STANDALONE_WIN
@@ -110,6 +115,21 @@ public class MainMenu : MonoBehaviour
     }
 
     private bool extractClicked = false;
+
+    public void rollTheCredits()
+    {
+        GameObject.Find("Character").GetComponent<SpriteController>().disableAllMove = true;
+        creditsPanel.SetActive(true);
+        creditsPlaying = true;
+        
+    }
+
+    public void stopTheCredits()
+    {
+        GameObject.Find("Character").GetComponent<SpriteController>().disableAllMove = false;
+        creditsPanel.SetActive(false);
+        creditsPlaying = false;
+    }
 
     public void showHideEndPrompt()
     {
@@ -302,6 +322,10 @@ public class MainMenu : MonoBehaviour
     {
         itemSelection.gameObject.SetActive(false);
         //UIPanel.gameObject.SetActive(false);
+        //script.itemDisplay.text = "";
+        script.itemPanel.GetComponent<Animator>().Play("ItemPanelReset");
+        //script.itemPanel.transform.position = new Vector3(-379, 81, 0); //reset panel position
+        //script.itemPanel.SetActive(false);
     }
 
     public void returnSettingsButton()
