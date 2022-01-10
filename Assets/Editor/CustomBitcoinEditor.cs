@@ -98,7 +98,7 @@ public class CustomBitcoinEditor : MonoBehaviour
     private (int,int) normal_distribution(int items, int chests)
     {
         int result;
-        //at least 1 and at maximum 12
+        //at least 3 and at maximum 9
         int[] resultArray = new int[6]; // for each median
         int counter = 0;
         for(int median = 1+3; median <=12-3; median++)

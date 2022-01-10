@@ -742,6 +742,45 @@ public class ChunkController : MonoBehaviour
         }  
     }
 
+    public void locateChest(Chest bitcoin)
+    {
+        //Find World, dungeon and chunkID of this bitcoin.
+        bitcoin.World = "Void";
+        bitcoin.Chunk = -1;
+        bitcoin.Dungeon = "Void";
+        foreach (World w in worlds)
+        {
+            if (w != null)
+            {
+                foreach (Chunk c in w.chunks)
+                {
+                    if (c.touch((Convert.ToInt32(bitcoin.Coordinates.Item1), Convert.ToInt32(bitcoin.Coordinates.Item2))))
+                    {
+                        bitcoin.World = w.name;
+                        bitcoin.Chunk = c.getID();
+                        bitcoin.Dungeon = "";
+                        goto outerloop;
+                    }
+                }
+                foreach (Dungeon d in w.dungeons)
+                {
+                    foreach (Chunk c in d.chunks)
+                    {
+                        if (c.touch((Convert.ToInt32(bitcoin.Coordinates.Item1), Convert.ToInt32(bitcoin.Coordinates.Item2))))
+                        {
+                            bitcoin.World = w.name;
+                            bitcoin.Chunk = c.getID();
+                            bitcoin.Dungeon = d.name;
+                            goto outerloop;
+                        }
+                    }
+                }
+            }
+        outerloop:
+            Debug.Log("");
+        }
+    }
+
     public void locateGate(Portal.Gate bitcoin)
     {
         //Find World, dungeon and chunkID of this bitcoin.

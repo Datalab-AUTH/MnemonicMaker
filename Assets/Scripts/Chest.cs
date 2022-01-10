@@ -13,6 +13,11 @@ public class Chest : MonoBehaviour
 
     private bool isInRange;
     private bool chestIsOpen;
+    //Distibution variables
+    public string World;
+    public string Dungeon;
+    public int Chunk;
+    public (double, double) Coordinates;
     /*
      * Data methods
      */

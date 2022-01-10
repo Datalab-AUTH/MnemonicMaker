@@ -174,4 +174,12 @@ ASSETS:
 						LICENSE: Apache-2.0 License
 						modified code : https://github.com/elucidsoft/dotnetstandard-bip39/blob/master/dotnetstandard-bip39/BIP39.cs#L232
 						Author: Eric https://github.com/elucidsoft
-		
+		BFS C#:			https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
+						LICENSE: Free
+						Author: David Hayden https://www.davidhayden.me/about
+		Update C#		http://wiki.unity3d.com/index.php/CustomFixedUpdate
+						LICENSE: Unknown source link is broken
+						Author: Unity Technologies
+		Light effect C# https://gist.github.com/sinbad/4a9ded6b00cf6063c36a4837b15df969
+						LICENSE: CC0 Public Domain
+						Author: Steve Streeting https://gist.github.com/sinbad
