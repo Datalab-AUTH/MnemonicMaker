@@ -5,15 +5,6 @@ ASSETS:
 		Main character: https://opengameart.org/content/whispers-of-avalon-archer-sprite
 						LICENSE: CC-BY 3.0 , GPL 3.0, GPL 2.0 
 						Author: Leonard Pabin https://opengameart.org/users/leonard-pabin
-		Dolphin: 		Source: google images
-						LICENSE: none
-						Animated by: Mixalis Gatsoulis
-		Rabbit: 		Source: google images
-						LICENSE: ----
-						Animated by Mixalis Gatsoulis
-		Turtle: 		Source: google images
-						LICENSE: none
-						Animated by: Mixalis Gatsoulis
 		Lantern: 		https://szadiart.itch.io/pixel-platformer-world
 						LICENSE: free 	
 						License for Everyone. 
@@ -47,10 +38,6 @@ ASSETS:
 						Author: Elthen https://elthen.itch.io/
 	
 	STATIC SPRITES:
-		Boat: 			Source: google images
-		Bitcoin:		Source: google images
-		Bitcoin pouches:Source: google images
-		Bitcoin item:	Source: google images
 		Bitcoin chest:  https://pipoya.itch.io/pipoya-rpg-tileset-32x32
 						LICENSE: free
 						- For commercial or personal use.
@@ -101,7 +88,6 @@ ASSETS:
 		Dirt road
 	
 	UI SPRITES: 
-		Cursor:			Source: unknown
 		Pop-up text: 	created with https://fontmeme.com/
 		Boots icon:		https://pixabay.com/illustrations/helmet-armor-chest-plate-boots-5724641/
 						LICENSE: Pixabay License
@@ -111,14 +97,11 @@ ASSETS:
 		Borders:		https://piposchpatz.itch.io/ui-borders-art-deco-pixel-art
 						LICENSE: CC BY 4.0
 						Author: PIPOSCHPATZ https://piposchpatz.itch.io/
-		GUI Elements:	Source: unknown
 		GUI Banner:		https://s4m-ur4i.itch.io/pixelart-clouds-background
 						LICENSE: free
 						Author: Sam Vieten https://s4m-ur4i.itch.io/
 		GUI Banner moon:https://dribbble.com/shots/15545683-Pixel-Moon
-						LICENSE: unknown
 						Author: Jasmin Winiarski https://dribbble.com/jasminwiniarski
-		Pathfinding: 	Source: google images
 		X-Mark map:		created with https://fontmeme.com/
 						
 	FONT:	
@@ -151,7 +134,6 @@ ASSETS:
 								  Aaron Voisine <voisine@gmail.com>
 								  Sean Bowe <ewillbefull@gmail.com>
 		Item names:		Source: https://www.fantasynamegenerators.com/artifact-names.php
-						LICENSE: unknown
 	
 	TOOLS:
 		BIP39 Tool:		https://github.com/iancoleman/bip39
@@ -178,7 +160,6 @@ ASSETS:
 						LICENSE: Free
 						Author: David Hayden https://www.davidhayden.me/about
 		Update C#		http://wiki.unity3d.com/index.php/CustomFixedUpdate
-						LICENSE: Unknown source link is broken
 						Author: Unity Technologies
 		Light effect C# https://gist.github.com/sinbad/4a9ded6b00cf6063c36a4837b15df969
 						LICENSE: CC0 Public Domain
